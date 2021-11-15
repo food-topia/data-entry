@@ -100,7 +100,6 @@ const importImage = async (imagePath) => {
 }
 
 const importImages = async (images) => {
-
     let importResArray = [];
     let importStatus = [];
     let imageImportRes;
