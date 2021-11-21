@@ -1,0 +1,839 @@
+[{
+    "name": "ARGETA CHICKEN PATE 95G",
+    "price": "€1.75",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/Pollo-e1611868897898.png"
+}, {
+    "name": "BIKAJI  MASALA MOONG DAL 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/ab-kuch-kuch_all-in-one-400-gm-pouch_ab.png"
+}, {
+    "name": "BIKAJI  NASHTA SAMOSA 200G",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/nasta-samosa-pouch-front.png"
+}, {
+    "name": "BIKAJI AAS PAAS PAPAAD 200GM",
+    "price": "€1.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/aas-paas-papad-front.png"
+}, {
+    "name": "BIKAJI ACHARI MASALA MATTHI 400GM",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/achari-masala-matthi-f.png"
+}, {
+    "name": "BIKAJI ALOO BHUJIA 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/tana-tan-Aloo-Bhujia.png"
+}, {
+    "name": "BIKAJI BAAT CHEET PAPAD 200GM",
+    "price": "€1.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/baat-cheet-papad-front.png"
+}, {
+    "name": "BIKAJI BHAKAR WADI",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/bhakarwadi-_sweetkin_-3d-front_1.png"
+}, {
+    "name": "BIKAJI BIKANERI BHUJIA 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/bk_bhujia_1kg-ab-final_hi-res.png"
+}, {
+    "name": "BIKAJI CHAI PURI 400GM",
+    "price": "€2.90",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/chai-puri-3d-front_1.png"
+}, {
+    "name": "BIKAJI CHANA CRACKER 200GM",
+    "price": "€1.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/chana-cracker-new-front.png"
+}, {
+    "name": "BIKAJI CHANA DAL HULCHUL 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/chana-dal-front.png"
+}, {
+    "name": "BIKAJI CHANA JOR GARAM 200GM",
+    "price": "€1.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/chana-jor-garam-front.png"
+}, {
+    "name": "BIKAJI CHAT PAPDI 400GM",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/Chat-Papdi-400g.jpg"
+}, {
+    "name": "BIKAJI CHATPATA MATAR 40G",
+    "price": "€0.65",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/1718922-01-1.jpg"
+}, {
+    "name": "BIKAJI CORNFLAKES MIX 200GM",
+    "price": "€1.80",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/mastkin_350-gm-3d.png"
+}, {
+    "name": "BIKAJI DAL BIJI 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/dal-biji.png"
+}, {
+    "name": "BIKAJI DRY KACHORI 400GM",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/dry-kachori-3d-front_1.png"
+}, {
+    "name": "BIKAJI GOL MATTHI 400GM",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/gol-matthi-3d-front.png"
+}, {
+    "name": "BIKAJI KAJU BADAM LACCHA 200GM",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/kaju-badama-laccha_350gm-pouch_c2c.png"
+}, {
+    "name": "BIKAJI KAJU KISMIS MIX 200GM",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/kaju-kismis-mix_350gm-pouch.png"
+}, {
+    "name": "BIKAJI KHAJOOR DRY FRUIT 250GM",
+    "price": "€5.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/khajoor-dry-fruit-burfee-front_1.png"
+}, {
+    "name": "BIKAJI KHARI 200GM",
+    "price": "€2.30",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/plain-khari-pack-left.png"
+}, {
+    "name": "BIKAJI KHATTA MEETHA 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/tana-bana-1kg-pouch-final.png"
+}, {
+    "name": "BIKAJI KHOKHA BHUJIA 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/bk_khoka-bhujia_400gm-3d.png"
+}, {
+    "name": "BIKAJI MASALA BOONDI 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/masala-boondi-200g-front_1_1.png"
+}, {
+    "name": "BIKAJI MOONG DAL 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/moong-dal_400gm_ab_final_v4.png"
+}, {
+    "name": "BIKAJI NAMAK PARA 400GM",
+    "price": "€3.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/namak-para-3d-front_1.png"
+}, {
+    "name": "BIKAJI NASHTA MATHRI 200GM",
+    "price": "€1.70",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/nasta-mathri-pouch-front.png"
+}, {
+    "name": "BIKAJI NAVRATNA MIX  200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/sub-kuch-Navratna-mix-1kg-pouch.png"
+}, {
+    "name": "BIKAJI PANI PURI 240GM",
+    "price": "€4.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/Bikaji-pani-puri.jpg"
+}, {
+    "name": "BIKAJI PLAIN BOONDI 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/plain-boondi-new-front.png"
+}, {
+    "name": "BIKAJI PUNJABI TADKA 200GM",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/punjabi-tadka-hindi.png"
+}, {
+    "name": "BIKAJI SHAHI MIXTURE 200GM",
+    "price": "€2.70",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/14_b080471f-64bf-484e-accd-7c86831ed520_800x.jpg"
+}, {
+    "name": "BIKAJI SOAN PAPDI 200GM",
+    "price": "€1.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/manbhawan_500gm-front_1.png"
+}, {
+    "name": "BIKAJI SOAN PAPDI 500GM",
+    "price": "€4.20",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/manbhawan_500gm-front_1.png"
+}, {
+    "name": "BIKAJI SOYA STICKS 200GM",
+    "price": "€1.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/soya-sticks_200g-final_370-x-260-mm_c2c.png"
+}, {
+    "name": "BUBBALOO TUTTI-FRUTTI CHEWING GUM",
+    "price": "€0.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/51mS9TnKteL.jpg"
+}, {
+    "name": "CG BAJELA 400G",
+    "price": "€1.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/CG-Bajela-Faves-Larges-400g-800X800-800x800-1.jpg"
+}, {
+    "name": "DD BANANA FRY 350G",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/Daily-Delight-Banana-Fry.jpg"
+}, {
+    "name": "DD CABBAGE VADA 300G",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/Cabbage-Vada-2048x1412-1.jpg"
+}, {
+    "name": "DD JACK FRUIT SEED COOKED 400G",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/0003873.jpeg"
+}, {
+    "name": "DD PALAPPAM 227GM",
+    "price": "€2.75",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/large-ddpalappam8oz-600x442-1.jpg"
+}, {
+    "name": "DD PARIPPUVADA 350GM",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/1380933091.jpg"
+}, {
+    "name": "DD SPINACH VADA 300 GM",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/Spinach-Vada.jpg"
+}, {
+    "name": "DH PAPPADOM 100G",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/DH.Pappadam.2.png"
+}, {
+    "name": "DING DONG MIXED NUTS SPICY",
+    "price": "€1.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/DING-DONG-MIXED-NUTS-SPICY.jpeg"
+}, {
+    "name": "EXTRA ICE WHITE BUBBLEMINT",
+    "price": "€0.80",
+    "shortDescription": "",
+    "description": ""
+}, {
+    "name": "FRUTABELLA BANANADA 30GM",
+    "price": "€0.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/FRUTABELLA-BANANADA-30GM.jpg"
+}, {
+    "name": "HALDIRAM  B1G1 TARKA DAL",
+    "price": "€3.99",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldirams-Dal-Tadka.jpg"
+}, {
+    "name": "HALDIRAM  BOONDI MASALA 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Boondi Masala 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Boondi_Masala_200gm.jpg"
+}, {
+    "name": "HALDIRAM  DAKSHIN EXP BUTTER MURUKU",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/51inFPqTCyL._AC_SY580_.jpg"
+}, {
+    "name": "HALDIRAM ALL IN ONE 200GM",
+    "price": "€2.25",
+    "shortDescription": "Haldirams All in One 200gm",
+    "description": "Haldirams All in One 200gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_All_in_One_200gm.jpg"
+}, {
+    "name": "HALDIRAM B1G1 ALOO MUTTER",
+    "price": "€3.99",
+    "shortDescription": "",
+    "description": "Haldirams Aloo Mutter But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Aloo-Mattar.jpg"
+}, {
+    "name": "HALDIRAM B1G1 PAO BHAJI",
+    "price": "€3.99",
+    "shortDescription": "Haldirams Pao Bhaji But 1 Get 1 Free",
+    "description": "Haldirams Pao Bhaji But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Pao-Bhaji.jpg"
+}, {
+    "name": "HALDIRAM B1G1 RAJMAH RASEELA",
+    "price": "€3.99",
+    "shortDescription": "Haldirams Rajma Raseela But 1 Get 1 Free",
+    "description": "Haldirams Rajma Raseela But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Rajma-Raseela.jpg"
+}, {
+    "name": "HALDIRAM BHUJIA 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Bhujia 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Bhujia_200gm.jpg"
+}, {
+    "name": "HALDIRAM BOONDI PLAIN 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Boondi 150gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/boondi_front.jpg"
+}, {
+    "name": "HALDIRAM CHAKOLI 200GM",
+    "price": "€2.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HALDIRAM-CHAKOLI-200GM.jpg"
+}, {
+    "name": "HALDIRAM CHANA CRACKER 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Chana Cracker 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Chana_Cracker_200gm.jpg"
+}, {
+    "name": "HALDIRAM CHILLI CHATAK LACHHA",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldiram-Chilli-Chatak-Laccha-200gm.jpg"
+}, {
+    "name": "HALDIRAM DAKSHIN EXPRESS HULI MURUKU 180GM",
+    "price": "€1.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HR-DAKSHIN-EXPRESS-HULI-MURUKU-180GM.jpg"
+}, {
+    "name": "HALDIRAM DAKSHIN EXPRESS MULLU MURUKU 180GM",
+    "price": "€1.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HR-DAKSHIN-EXPRESS-MULLU-MURUKU-180GM.jpg"
+}, {
+    "name": "HALDIRAM DAL KACHORI 420G",
+    "price": "€4.20",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/0010747_haldirams-dal-kachori-420g-8-pieces-420g_510.jpeg"
+}, {
+    "name": "HALDIRAM DAL MAKHANI 283GM",
+    "price": "€3.50",
+    "shortDescription": "",
+    "description": "Haldirams Dal Makhni But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Dal-Makhani.jpg"
+}, {
+    "name": "HALDIRAM DIET CHIWDA 180G",
+    "price": "€1.95",
+    "shortDescription": "",
+    "description": "Haldirams Lite Chiwda",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/lite_chiwda_8.jpg"
+}, {
+    "name": "HALDIRAM DRY PETHA 400GM",
+    "price": "€4.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/dry_petha__00520.1595301833.1280.1280.jpg"
+}, {
+    "name": "HALDIRAM GUJRATI MIXTURE 200GM",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Gujarati Mixture 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Gujarati_Mixture_200gm.jpg"
+}, {
+    "name": "HALDIRAM GULAB JAMUN 1KG",
+    "price": "€6.95",
+    "shortDescription": "Haldirams Gulab Jamun 1kg",
+    "description": "Haldirams Gulab Jamun 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams-GulabJamun-1KG.jpg"
+}, {
+    "name": "HALDIRAM HARA CHIWDA 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Hara Chiwda 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Hara_Chiwda_200gm.jpg"
+}, {
+    "name": "HALDIRAM KACHORI 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldirams-kachori.jpg"
+}, {
+    "name": "HALDIRAM KADHAI PANEER 283G",
+    "price": "€4.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/6737.jpeg"
+}, {
+    "name": "HALDIRAM KAJU KATLI 300GM",
+    "price": "€6.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/haldirams-Kaju-Katli.jpg"
+}, {
+    "name": "HALDIRAM KAJU MIXTURE",
+    "price": "€3.95",
+    "shortDescription": "Haldirams Kaju Mixture 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Kaju_Mixture_200gm.jpg"
+}, {
+    "name": "HALDIRAM KHATTA MEETHA 200GM",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Khatta Meetha",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/khatta_meetha_4.jpg"
+}, {
+    "name": "HALDIRAM MAHARASHTRA BHAKARBADI",
+    "price": "€2.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/haldiram_maharashtra-bhakarwadi.jpg"
+}, {
+    "name": "HALDIRAM MATHRI",
+    "price": "€2.50",
+    "shortDescription": "Haldirams Mathri 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Mathri_200gm.jpg"
+}, {
+    "name": "HALDIRAM METHI KHARI 200G",
+    "price": "€2.99",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HALDIRAM-METHI-KHARI-200G.jpeg"
+}, {
+    "name": "HALDIRAM METHI SEV 20OG",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Methi Sev 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Methi_Sev_200gm.jpg"
+}, {
+    "name": "HALDIRAM MINI BHAKAR BADI 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Mini Bhakarwadi",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/mini_bhakarwadi_3.jpg"
+}, {
+    "name": "HALDIRAM MINT LACHHA 200G",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HALDIRAM-MINT-LACHHA-200G.jpg"
+}, {
+    "name": "HALDIRAM MOONG DAL 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Moong Dal 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Moong_Dal_200gm.jpg"
+}, {
+    "name": "HALDIRAM MOONG DAL MASALA 200G",
+    "price": "€2.25",
+    "shortDescription": "Haldirams Masala Moong Dal 200gm",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams_Masala_Moong_Dal_200gm.jpg"
+}, {
+    "name": "HALDIRAM MURRUKU 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Murukku 200gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/murruku_pouch.jpg"
+}, {
+    "name": "HALDIRAM MUTTER PANEER",
+    "price": "€4.95",
+    "shortDescription": "Haldirams Mutter Paneer But 1 Get 1 Free",
+    "description": "Haldirams Mutter Paneer But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Mutter-Paneer.jpg"
+}, {
+    "name": "HALDIRAM PANCHRATTAN 200G",
+    "price": "€3.50",
+    "shortDescription": "",
+    "description": "Haldirams Panchratan Mixture 150gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/panchratan_mix_1.jpg"
+}, {
+    "name": "HALDIRAM PANEER MAKHANI 283GM",
+    "price": "€4.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldiram-paneer-makhani-283-gm-1.jpg"
+}, {
+    "name": "HALDIRAM PANI PURI 360GM",
+    "price": "€4.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldirams-PaniPuri-360g.jpg"
+}, {
+    "name": "HALDIRAM PUNJABI TADKA 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Punjabi Tadka",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/punjabi_front.jpg"
+}, {
+    "name": "HALDIRAM RASGULLA  1KG",
+    "price": "€6.95",
+    "shortDescription": "Haldirams Rasgulla 1kg",
+    "description": "Haldirams Rasgulla 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Haldirams-Rasgulla-1KG.jpg"
+}, {
+    "name": "HALDIRAM RASMALAI 1KG",
+    "price": "€5.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/al-noor-de-haldiram-rasmalai-1kg-28803035234462.jpg"
+}, {
+    "name": "HALDIRAM SAMOSA 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "Haldirams Mini Samosa 150gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/mini_samosa_5.jpg"
+}, {
+    "name": "HALDIRAM SOAN PAPDI CLASSIC 500G",
+    "price": "€5.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/haldiram-soan-papdi.jpg"
+}, {
+    "name": "HALDIRAM YELLOW BANANA CHIPS 180",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HR-YELLOW-BANANA-CHIPS-180.png"
+}, {
+    "name": "HANAMI PRAWN CRACKERS 100G",
+    "price": "€2.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/hanami-prawn-crackers-100gm-5fdc0df7c99d9.jpg"
+}, {
+    "name": "HARISSA TIN 135G",
+    "price": "€1.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Harissa-Tunisia-Tin-135g-550x550-1.jpg"
+}, {
+    "name": "HEERA KASHMIRI BASAAR MIX 300G",
+    "price": "€3.50",
+    "shortDescription": "Heera Kashmiri Basaar Mix 300g",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Kashmiri_Basaar_Mix_300g.jpg"
+}, {
+    "name": "HEERA METHI PARA",
+    "price": "€2.75",
+    "shortDescription": "Heera Methi Para",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Methi_Para-1-scaled.jpg"
+}, {
+    "name": "HEERA MINI BUTTER PUFFS 150 GM",
+    "price": "€2.99",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Mini_Butter_Puffs-1-scaled.jpg"
+}, {
+    "name": "HEERA NAMAK PARA",
+    "price": "€2.75",
+    "shortDescription": "Heera Namak Para",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Namak_Para-1-scaled.jpg"
+}, {
+    "name": "HEERA PANEER TIKKA MASALA 450G",
+    "price": "€2.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HEERA-PANEER-TIKKA-MASALA-450G.jpeg"
+}, {
+    "name": "HEERA PATRA CURRIED 350GM",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/HEERA-PATRA-CURRIED-350GM.jpg"
+}, {
+    "name": "HEERA TIKHA PARA 200G",
+    "price": "€2.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/heera-tikha-para.jpg"
+}, {
+    "name": "JABSONS COCONUT CRUNCH 30G",
+    "price": "€0.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Jabsons-Coconut-Crunch.png"
+}, {
+    "name": "KRAS BAJADERA BONBONS 200GM",
+    "price": "€5.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/BAJADERA-BONBONS-200-G-1.jpg"
+}, {
+    "name": "KURKURE MASALA MUNCH",
+    "price": "€1.80",
+    "shortDescription": "Kurkure Masala Munch",
+    "description": "Kurkure Masala Munch",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/KurkureMasalaMunch.jpg"
+}, {
+    "name": "KURKURE NAUGHTY TOMATO",
+    "price": "€1.80",
+    "shortDescription": "Kurkure Naughty Tomato",
+    "description": "Kurkure Naughty Tomato",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/KurkureNaughtyTomato.jpg"
+}, {
+    "name": "MAYIL BANANA CHIPS SPICY 250G",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/sweet-banana-chips-500x500-1.jpg"
+}, {
+    "name": "MITCHELL CHANNA DAL 420G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/8b7e5459a50d6e7a98b5156ab898976a.jpg"
+}, {
+    "name": "MITCHELL KARI PAKORA 420G",
+    "price": "€2.35",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/2ba57e074ee9c8dc97b65289f982a6f8dae4155d.jpg"
+}, {
+    "name": "MITCHELL’S SARSON KA SAAG 800G",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/DSC03608__49405.1391603792.1280.1280.jpeg"
+}, {
+    "name": "MP GREEN CURRY PASTE 400GM",
+    "price": "€4.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/MPGreenCurry.jpg"
+}, {
+    "name": "MTR B1G1 PANEER MAKHANI",
+    "price": "€3.99",
+    "shortDescription": "",
+    "description": "Haldirams Paneer Makhani But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Paneer-Makhani.jpg"
+}, {
+    "name": "MTR BADAM DRINK",
+    "price": "€3.75",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/06/MTR-Badam-DrinkCan.jpg"
+}, {
+    "name": "NIMKO BAREEK BOONDI  200G",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Bareek-Boondi-Box.jpg"
+}, {
+    "name": "OLU OLU PLANTAIN CHIPS SWEET",
+    "price": "€1.10",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/yellow-plantain-chips-main.png"
+}, {
+    "name": "PACOCA ROLHA MORENINHA 300GM",
+    "price": "€3.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/pacoca-1_grande.jpg"
+}, {
+    "name": "REGAL BOMBAY MIX 450GM",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/7c2410c8be77b896e8a5b26d1a994a23.jpeg"
+}, {
+    "name": "REGAL MADEIRE CAKE SLICES 370G",
+    "price": "€3.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/snapshotimagehandler_632633580.jpeg"
+}, {
+    "name": "REGAL TOASTED CORN  CHILLI",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/chilli___lemon_toasted_corn.jpg"
+}, {
+    "name": "RUBICON LYCHEE SPARKLING 330ML",
+    "price": "€1.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/rubicon-rubicon-sparkling-lychee-juice-drink-330ml-x-24-cans-onlinemeashopcom__58332.1608287055.jpg"
+}, {
+    "name": "SAMYANG 2XSPICY HOT CHICKEN",
+    "price": "€1.65",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/8bc20e2576d5e458e63617efcf75528d.jpg"
+}, {
+    "name": "SWAAD CHANA DAL BURFI 325G",
+    "price": "€4.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/2.png"
+}, {
+    "name": "SWAAD COCONUT BURFEE",
+    "price": "€4.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/4.png"
+}, {
+    "name": "SWAAD DHODA BURFI 325G",
+    "price": "€4.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/3.png"
+}, {
+    "name": "SWAAD KAJU KATLI",
+    "price": "€6.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/1-1.png"
+}, {
+    "name": "SWAAD KAJU ROLL",
+    "price": "€6.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/6.jpg"
+}, {
+    "name": "SWAAD KESAR MOTICHOOR LADOO",
+    "price": "€4.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/5.png"
+}, {
+    "name": "SWAAD MASALA IMLI CANDY 130G",
+    "price": "€3.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/amlacandy.jpg"
+}, {
+    "name": "VISWAS AVALOSUNDA 400G",
+    "price": "€2.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/2021-01-08-050109.png"
+}, {
+    "name": "VISWAS BANANA CHIPS 150G",
+    "price": "€1.95",
+    "shortDescription": "",
+    "description": ""
+}, {
+    "name": "VISWAS BOMBAY MIXTURE JAR 350G",
+    "price": "€3.95",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/buy-bombay-mixture-online.jpg"
+}, {
+    "name": "VISWAS CATERING PACK POROTTA 908G",
+    "price": "€4.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/FrozenWheatPorotta_FamilyPack_ByViswas_800x.jpg"
+}, {
+    "name": "VISWAS IDLI 454G",
+    "price": "€3.60",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/unnamed_2_1200x1200.jpg"
+}, {
+    "name": "VISWAS JACKFRUIT CHIPS 200G",
+    "price": "€2.75",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/unnamed-1.png"
+}, {
+    "name": "VISWAS JACKFRUIT CHIPS 300GM JAR",
+    "price": "€5.50",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/WhatsApp-Image-2021-10-15-at-17.06.19.jpeg"
+}, {
+    "name": "VISWAS PAKKAVADA 200GM",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/d63c9600-e334-499a-8f6f-ee0f33cfa7e4.jpeg"
+}, {
+    "name": "VISWAS TAPIOCA CHIPS ROUND SPICY 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/unnamed.png"
+}, {
+    "name": "VISWAS TAPIOCA CHIPS STICK HOT 200G",
+    "price": "€2.25",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/2021-01-30-233940.png"
+}, {
+    "name": "VISWAS TAPIOCA ROUND  PLAIN CHIPS 130G JAR",
+    "price": "€2.75",
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/ViswasTopiocaChipsRoundPlain_503x.jpg"
+}]

@@ -206,19 +206,15 @@ const importProduct = async (categoryId, marketId, product) => {
 }
 
 async function runImport() {
-    // let subCategories = getDirectories('../Categories');
-    // subCategories.forEach(subCategory => {
-
-    // });
-    
+    const superMarket = 'Tesco'
     try {
-        let dirPath = path.resolve(__dirname, '../Categories/Tesco');
+        let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
         let folders = await fs.promises.readdir(dirPath);
 
         // Loop them all with the new for...of
-        for (let currentDir of folders) {
+        for (let folderCategory of folders) {
 
-            currentDir = path.resolve(__dirname, `${dirPath}/${currentDir}`);
+            currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
             // Stat the file to see if we have a file or dir
             const stat = await fs.promises.stat( currentDir );
             
@@ -242,6 +238,8 @@ async function runImport() {
                 for (const subFolder of suFolders) {
                     let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
                     let files = await fs.promises.readdir(filesPath);
+                    let category = await createCategory(folderCategory);
+                    let categoryId = category.data.id;
                     for (const file of files) {
                         const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
                         let rawProductDs = fs.readFileSync(dirFile);
@@ -249,8 +247,6 @@ async function runImport() {
                         let storeName = productData.store.StoreName;
                         productData = productData.store.CategoryProductsAndSubCategories[0];
                         const products = productData.Products;
-                        let category = await createCategory(productData.Name);
-                        let categoryId = category.data.id;
                         for (const product of products) {
                             await importProduct(categoryId, getStoreId(storeName), product);
                         }
