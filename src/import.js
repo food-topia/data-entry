@@ -1,12 +1,37 @@
 var request = require('request');
 var fs = require('fs');
-var { nanoid } = require('nanoid');
+var {
+    nanoid
+} = require('nanoid');
 
 const generateImageId = () => {
     // Generate unique IDs
     // 11 characters
     // ~139 years needed, in order to have a 1% probability of at least one collision.
     return nanoid(11);
+}
+
+const createCategory = (categoryName) => {
+    var request = require('request');
+    var options = {
+        'method': 'POST',
+        'url': 'http://localhost:8888/FT%20Backend/public/api/categories/store',
+        formData: {
+            'name': `${categoryName}`,
+            'description': `${categoryName} Description`
+        }
+    };
+    return new Promise((resolve, reject) => {
+        request(options, function (error, response) {
+            if (error) {
+                reject(error);
+                throw new Error(error);
+            } else {
+                resolve(response.body);
+                console.log(response.body);
+            }
+        });
+    });
 }
 
 const getStoreId = (storeName) => {
@@ -127,10 +152,11 @@ const importProduct = async (categoryId, marketId, product) => {
     if (resImageimport === 'failed') {
         throw new Error(`Image Import error!`);
     }
-    
+
     let description = product.Description ? `<p>${product.Description}</p>` : '';
     let images = json = resImageimport.reduce((json, value, key) => {
-        json[`image[${key}]`] = value; return json; 
+        json[`image[${key}]`] = value;
+        return json;
     }, {});
     // JSON: images - EG: {'image[0]': 'img456'}
     // Booleans: featured, deliverable, price_higher, images
