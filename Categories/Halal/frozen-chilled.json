@@ -14,12 +14,14 @@
     "name": "AHAA SARDINES WHOLE 1KG",
     "price": "€7.50",
     "shortDescription": "",
-    "description": ""
+    "description": "",
+    "image": "https://embarkonraw.co.uk/wp-content/uploads/2020/11/SARDINES-WHOLE-1KG.jpg"
 }, {
     "name": "AHAA SILVER POMFRET WHOLE 600G",
     "price": "€10.50",
     "shortDescription": "",
-    "description": ""
+    "description": "",
+    "image": "https://z2s4w2h4.stackpathcdn.com/images/thumbs/0008967_ahaa-silver-pomfret-whole-600g_510.jpeg"
 }, {
     "name": "AJINOMOTO PRAWN DUMPLINGS 600G",
     "price": "€10.50",
@@ -312,7 +314,8 @@
     "name": "HALDIRAM DESI WRAPS PB CHHOLEY",
     "price": "€2.95",
     "shortDescription": "",
-    "description": ""
+    "description": "",
+    "image": "https://www.tempojunction.co.uk/image/cache/catalog/Moin/DESI%20WRAP%20PUNJABI%20CHHOLEY%20156G-500x500.jpg"
 }, {
     "name": "HALDIRAM GOBHI PARANTHA 400G",
     "price": "€5.95",
