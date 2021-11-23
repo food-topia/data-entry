@@ -1,6 +1,7 @@
 const request = require('request');
 const fs = require('fs');
 const path = require('path');
+const STORE_NAME = 'HALAL';
 
 const {
     nanoid
@@ -30,8 +31,13 @@ const createCategory = (categoryName) => {
                 throw new Error(error);
             } else {
                 let body = JSON.parse(response.body);
-                resolve(body);
-                console.log(response.body);
+                if(body.success) {
+                    console.log(body);
+                    resolve(body);
+                } else {
+                    console.log('£££ FAILED TO CREATE CATEGORY £££')
+                    reject(body);
+                }
             }
         });
     });
@@ -56,6 +62,8 @@ const getStoreId = (storeName) => {
         return 5
     } else if (storeName.toUpperCase() === 'HALAL') {
         return 6
+    } else if (storeName.toUpperCase() === 'MR.PRICE') {
+        return 7
     }
 }
 
@@ -128,25 +136,30 @@ const importImage = async (imagePath) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body);
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORt')
+                    reject(body);
+                    throw new Error(error);
+                }
+                console.log(body);
             }
         });
     })
 }
 
-const importImages = async (images) => {
+const importImages = async (image) => {
     let importResArray = [];
     let importStatus = [];
     let imageImportRes;
 
-    for (const image of images) {
-        let imageDownloadRes = await downloadImage(image.Original);
-        imageImportRes = await importImage(imageDownloadRes);
-        imageImportRes = JSON.parse(imageImportRes);
-        importStatus.push(imageImportRes.success);
-        importResArray.push(imageImportRes.data);
-    }
+    let imageDownloadRes = await downloadImage(image);
+    imageImportRes = await importImage(imageDownloadRes);
+    imageImportRes = JSON.parse(imageImportRes);
+    importStatus.push(imageImportRes.success);
+    importResArray.push(imageImportRes.data);
 
     return new Promise(function (resolve, reject) {
         if (!importStatus.includes(false)) {
@@ -157,8 +170,13 @@ const importImages = async (images) => {
     });
 }
 
+function round(value, decimals) {
+    return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
+}
+
+  
 const importProduct = async (categoryId, marketId, product) => {
-    let resImageimport = await importImages(product.Images);
+    let resImageimport = await importImages(product.image);
 
     if (resImageimport === 'failed') {
         throw new Error(`Image Import error!`);
@@ -169,20 +187,22 @@ const importProduct = async (categoryId, marketId, product) => {
         json[`image[${key}]`] = value;
         return json;
     }, {});
-    // JSON: images - EG: {'image[0]': 'img456'}
-    // Booleans: featured, deliverable, price_higher, images
+    let price = Number(product.price.replace('€', ''));
+    let extraCharge = round(price * 0.1, 1)
+    price = price + extraCharge;
+
     let options = {
         'method': 'POST',
         'url': 'http://localhost:8888/FT%20Backend/public/api/products/store',
         'headers': {},
         form: {
-            'name': product.Name,
-            'price': product.PriceDecimal,
-            'discount_price': product.SpecialPriceDecimal,
+            'name': product.name,
+            'price': price,
             'description': description,
-            'capacity': product.Quantity,
-            'unit': product.UnitType,
-            'package_items_count': product.Quantity,
+            // 'capacity': product.Quantity,
+            // 'discount_price': product.SpecialPriceDecimal,
+            // 'unit': product.UnitType,
+            // 'package_items_count': product.Quantity,
             'market_id': marketId,
             'category_id': categoryId,
             'featured': '1',
@@ -198,8 +218,15 @@ const importProduct = async (categoryId, marketId, product) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body)
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORt')
+                    reject(body);
+                    throw new Error(error);
+                }
+                console.log(body);
             }
         });
     })
@@ -210,53 +237,22 @@ async function runImport() {
     // subCategories.forEach(subCategory => {
 
     // });
-    
+
     try {
-        let dirPath = path.resolve(__dirname, '../Categories/Tesco');
+        let dirPath = path.resolve(__dirname, '../Categories/Halal');
         let folders = await fs.promises.readdir(dirPath);
 
         // Loop them all with the new for...of
-        for (let currentDir of folders) {
-
-            currentDir = path.resolve(__dirname, `${dirPath}/${currentDir}`);
-            // Stat the file to see if we have a file or dir
-            const stat = await fs.promises.stat( currentDir );
-            
-            if( stat.isFile() ) {
-                let file = currentDir;
-                console.log( "'%s' is a file.", currentDir );
-                const dirFile = path.resolve(__dirname, `${dirPath}/${currentDir}/${files}`);
-                let rawProductDs = fs.readFileSync(dirFile);
-                let productData = JSON.parse(rawProductDs);
-                let storeName = productData.store.StoreName;
-                productData = productData.store.CategoryProductsAndSubCategories[0];
-                const products = productData.Products;
-                let categoryID = getCategoryId(productData.Name);
-                for (const product of products) {
-                    await importProduct(categoryID, getStoreId(storeName), product);
-                }
-            }
-            else if( stat.isDirectory() ) {
-                // BuyMie
-                let suFolders = await fs.promises.readdir(currentDir);
-                for (const subFolder of suFolders) {
-                    let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
-                    let files = await fs.promises.readdir(filesPath);
-                    for (const file of files) {
-                        const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
-                        let rawProductDs = fs.readFileSync(dirFile);
-                        let productData = JSON.parse(rawProductDs);
-                        let storeName = productData.store.StoreName;
-                        productData = productData.store.CategoryProductsAndSubCategories[0];
-                        const products = productData.Products;
-                        let category = await createCategory(productData.Name);
-                        let categoryId = category.data.id;
-                        for (const product of products) {
-                            await importProduct(categoryId, getStoreId(storeName), product);
-                        }
-                    }
-                }
-                console.log( "'%s' is a directory.", currentDir );
+        for (let file of folders) {
+            const dirFile = path.resolve(__dirname, `${dirPath}/${file}`);
+            let rawProductDs = fs.readFileSync(dirFile);
+            let productData = JSON.parse(rawProductDs);
+            const categoryName = file.replace(/\.[^/.]+$/, "");
+            let category = await createCategory(categoryName);
+            let categoryId = category.data.id;
+            let storeName = STORE_NAME;
+            for (const product of productData) {
+                await importProduct(categoryId, getStoreId(storeName), product);
             }
         }
     } catch (e) {

@@ -240,7 +240,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/Heera-Barley-Flour-1kg.jpg"
 }, {
     "name": "Heera Chakki Atta",
-    "price": "€4.50€17.99",
+    "price": "€17.99",
     "shortDescription": "Heera Chakki Atta",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Chakki_Atta_2kg.jpg"
@@ -252,13 +252,13 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Chapatti_Flour_Brown_1.5kg.jpg"
 }, {
     "name": "Heera Chapatti Flour Medium",
-    "price": "€3.10€9.75",
+    "price": "€9.75",
     "shortDescription": "Heera Chapatti Flour Medium",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Chapatti_Flour_Medium_1.5kg.jpg"
 }, {
     "name": "Heera Corn Meal Fine",
-    "price": "€1.30€2.50",
+    "price": "€2.50",
     "shortDescription": "Heera Corn Meal Fine",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Corn_Meal_Fine_1.5kg.jpg"
@@ -270,7 +270,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/06/heera-corn-meal-medium-375g.jpg"
 }, {
     "name": "Heera Corn Meal Medium",
-    "price": "€1.35€2.50",
+    "price": "€2.50",
     "shortDescription": "Heera Corn Meal Medium",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Corn_Meal_Medium_1.5kg.jpg"
@@ -300,25 +300,25 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/91Hl2z86SPL._AC_SL1500_.jpg"
 }, {
     "name": "Heera Gari",
-    "price": "€2.50€5.45",
+    "price": "€5.45",
     "shortDescription": "Heera Gari",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Gari_1.5kg.jpg"
 }, {
     "name": "Heera Gram Flour",
-    "price": "€3.35€4.30",
+    "price": "€4.30",
     "shortDescription": "Heera Gram Flour",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Gram_Flour_2kg.jpg.jpg"
 }, {
     "name": "Heera Ground Rice",
-    "price": "€1.35€3.60",
+    "price": "€3.60",
     "shortDescription": "Heera Ground Almonds",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Ground_Rice_1.5kg.jpg.jpg"
 }, {
     "name": "Heera Multigrain Chakki Atta",
-    "price": "€3.45€18.50",
+    "price": "€18.50",
     "shortDescription": "Heera Multigrain Chakki Atta",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Multigrain_Chakki_Atta_5kg-1-scaled.jpg"
@@ -562,35 +562,11 @@
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/farinha-de-milho-polenta-sinha-pacote-500g_9409.jpg"
 }, {
-    "name": "Sofra Brown Coarse Bulgar",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra Brown Coarse Bulgar",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-Brown-Coarse-Bulgar.png"
-}, {
-    "name": "Sofra Brown Fine Bulgar",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra Brown Fine Bulgar",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-Brown-Fine-Bulgar.png"
-}, {
     "name": "SOFRA BULGUR WHITE FINE 900G",
     "price": "€2.95",
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/SOFRA-WHITE-FINE-BULGUR-900G-800X800-800x800-1.png"
-}, {
-    "name": "Sofra White Coarse Bulgar",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra White Coarse Bulgar",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-White-Coarse-Bulgar.png"
-}, {
-    "name": "Sofra White Fine Bulgar",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra White Fine Bulgar",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-White-Fine-Bulgar.png"
 }, {
     "name": "SWAAD CHAKKI ATTA 10KG",
     "price": "€9.95",

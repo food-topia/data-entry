@@ -318,7 +318,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Black_Eye_Beans_1kg.jpg"
 }, {
     "name": "Heera Black Pepper Coarse",
-    "price": "€3.25€19.75",
+    "price": "€19.75",
     "shortDescription": "Heera Black Pepper Coarse",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Black_Pepper_Coarse_1kg.jpg"
@@ -432,7 +432,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Kala_Chana_2kg.jpg"
 }, {
     "name": "Heera Mahabaleshwari Roasted Chana",
-    "price": "€2.10€4.99",
+    "price": "€4.99",
     "shortDescription": "Heera Mahabaleshwari Roasted Chana",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Mahabaleshwari_Roasted_Chana_700gm-1-scaled.jpg"
@@ -462,7 +462,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Moong_Dall_Washed_1kg.jpg"
 }, {
     "name": "Heera Moong Dall Chilka",
-    "price": "€2.25€6.95",
+    "price": "€6.95",
     "shortDescription": "Heera Moong Dall Chilka",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Moong_Dall_Chilka_1kg-1-scaled.jpg"
@@ -486,7 +486,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Moong_Dall_Chilka_1kg-scaled.jpg"
 }, {
     "name": "Heera Moong Whole",
-    "price": "€2.20€6.95",
+    "price": "€6.95",
     "shortDescription": "Heera Moong Whole",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Moong_Whole_1kg.jpg"
@@ -622,22 +622,4 @@
     "shortDescription": "",
     "description": "Sofra Fava Beans 900gm",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-Fava-Beans-900gm.png"
-}, {
-    "name": "Sofra Fava Beans Large 750gm",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra Fava Beans Large 750gm",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-Fava-Beans-Large-750gm.png"
-}, {
-    "name": "Sofra Fava Beans Medium 850gm",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra Fava Beans Medium 850gm",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-Fava-Beans-Medium-850gm.png"
-}, {
-    "name": "Sofra White Beans 900gm",
-    "price": "",
-    "shortDescription": "",
-    "description": "Sofra White Beans 900gm",
-    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Sofra-White-Beans-900gm.png"
 }]

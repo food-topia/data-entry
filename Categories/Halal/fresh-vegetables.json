@@ -12,7 +12,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Fruits-Veg-5.jpg"
 }, {
     "name": "DD RED ONION",
-    "price": "€0.75€2.99",
+    "price": "€2.99",
     "shortDescription": "",
     "description": "Red Onion Loose",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_RedOnionLoose.png"
@@ -60,7 +60,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Dudhi.png"
 }, {
     "name": "FRESH GINGER",
-    "price": "€0.75€3.50",
+    "price": "€3.50",
     "shortDescription": "",
     "description": "Fresh Ginger",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_FreshGinger.png"
@@ -72,7 +72,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Fresh-Green-Chilli.jpg"
 }, {
     "name": "FRESH KARELA ITALIAN",
-    "price": "€2.49€9.99",
+    "price": "€9.99",
     "shortDescription": "",
     "description": "Karela",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Karela.png"
@@ -108,7 +108,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Mooli.png"
 }, {
     "name": "FRESH OKRA",
-    "price": "€2.75€8.99",
+    "price": "€8.99",
     "shortDescription": "",
     "description": "Okra",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Okra.png"
@@ -132,7 +132,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Pomegranate.png"
 }, {
     "name": "FRESH RAVAIYA",
-    "price": "€2.25€8.99",
+    "price": "€8.99",
     "shortDescription": "",
     "description": "Ravaiya",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Ravaiya.png"
@@ -150,13 +150,13 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/product-packshot-Persimmon.jpg"
 }, {
     "name": "FRESH SWEET POTATO WHITE",
-    "price": "€2.15€8.50",
+    "price": "€8.50",
     "shortDescription": "",
     "description": "Sweet Potato",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_SweetPotatoe.png"
 }, {
     "name": "FRESH TINDORI",
-    "price": "€1.85€3.75",
+    "price": "€3.75",
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Tindori.jpg"
@@ -168,13 +168,13 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Turiya.png"
 }, {
     "name": "FRESH TURMERIC",
-    "price": "€1.10€2.75",
+    "price": "€2.75",
     "shortDescription": "",
     "description": "Turmeric Root",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_TurmericRoot.png"
 }, {
     "name": "FRESH VINE TOMATO",
-    "price": "€1.75€7.00",
+    "price": "€7.00",
     "shortDescription": "",
     "description": "Vine Tomato",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_VineTomatoe.png"
@@ -192,13 +192,13 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/gooseberry.webp"
 }, {
     "name": "SHALOTS",
-    "price": "€2.25€4.50",
+    "price": "€4.50",
     "shortDescription": "",
     "description": "Shallots",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Shallots.png"
 }, {
     "name": "SS AUBERGINE GREEN ROUND",
-    "price": "€2.20€8.75",
+    "price": "€8.75",
     "shortDescription": "",
     "description": "Green Round Aubergine",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_GreenRoundAubergine.png"
@@ -210,7 +210,7 @@
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Guava.png"
 }, {
     "name": "WHITE ONION LOOSE",
-    "price": "€0.60€2.40",
+    "price": "€2.40",
     "shortDescription": "",
     "description": "White Onion Loose",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_WhiteOnionLoose.png"
