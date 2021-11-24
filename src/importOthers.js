@@ -67,22 +67,6 @@ const getStoreId = (storeName) => {
     }
 }
 
-const getCategoryId = (categoryName) => {
-    if (categoryName.toUpperCase() === 'BANANAS') {
-        return 1
-    } else if (categoryName.toUpperCase() === 'DRINKS') {
-        return 2
-    } else if (categoryName.toUpperCase() === 'VEGETABLES') {
-        return 3
-    } else if (categoryName.toUpperCase() === 'FOODS') {
-        return 5
-    } else if (categoryName.toUpperCase() === 'MEAT') {
-        return 7
-    } else if (categoryName.toUpperCase() === 'PASTRY') {
-        return 8
-    }
-}
-
 const downloadImage = async (image) => {
     let imageParts = image.split('/');
     let imageDest = imageParts.pop() || imageParts.pop(); // handle potential trailing slash
@@ -113,7 +97,22 @@ const downloadImage = async (image) => {
 
 const importImage = async (imagePath) => {
     let imageName = imagePath;
-
+    if(imageName === 'Swaad-1-final.png') {
+        imagePath = 'Swaad-1-final-min.png'
+        imageName = 'Swaad-1-final-min.png'
+    }
+    else if(imageName === 'gooseberry.webp') {
+        imagePath = 'gooseberry.jpeg'
+        imageName = 'gooseberry.jpeg'
+    }
+    else if(imageName === 'vic0012.webp') {
+        imagePath = 'vic0012.jpeg'
+        imageName = 'vic0012.jpeg'
+    }
+    else if(imageName === 'resize.webp') {
+        imagePath = 'resize.jpeg'
+        imageName = 'resize.jpeg'
+    }
     let options = {
         'method': 'POST',
         'url': 'http://localhost:8888/FT%20Backend/public/api/uploads/store',
@@ -174,6 +173,12 @@ function round(value, decimals) {
     return Number(Math.round(value+'e'+decimals)+'e-'+decimals);
 }
 
+const roundPriceAndExtraCharge = (price, extraCharge) => {
+    Math.round((price + extraCharge) * 1e12) / 1e12
+
+    var newnumber = new Number(number+'').toFixed(parseInt(decimals));
+    return parseFloat(newnumber); 
+}
   
 const importProduct = async (categoryId, marketId, product) => {
     let resImageimport = await importImages(product.image);
@@ -189,7 +194,7 @@ const importProduct = async (categoryId, marketId, product) => {
     }, {});
     let price = Number(product.price.replace('€', ''));
     let extraCharge = round(price * 0.1, 1)
-    price = price + extraCharge;
+    price = roundPriceAndExtraCharge(price + extraCharge);
 
     let options = {
         'method': 'POST',
