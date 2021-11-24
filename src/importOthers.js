@@ -174,9 +174,7 @@ function round(value, decimals) {
 }
 
 const roundPriceAndExtraCharge = (price, extraCharge) => {
-    Math.round((price + extraCharge) * 1e12) / 1e12
-
-    var newnumber = new Number(number+'').toFixed(parseInt(decimals));
+    var newnumber = Math.round((price + extraCharge) * 1e12) / 1e12
     return parseFloat(newnumber); 
 }
   
