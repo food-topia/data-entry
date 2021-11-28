@@ -206,7 +206,7 @@ const importProduct = async (categoryId, marketId, product) => {
 }
 
 async function runImport() {
-    const superMarket = 'Tesco'
+    const superMarket = 'Dunnes'
     try {
         let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
         let folders = await fs.promises.readdir(dirPath);

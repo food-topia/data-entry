@@ -1,0 +1,128 @@
+{
+    "store": {
+      "ID": 306,
+      "StoreID": 13,
+      "StartTime": "09:00:00",
+      "EndTime": "21:00:00",
+      "IsOpened": false,
+      "StoreName": "Dunnes",
+      "LogoUrl": "https://buymie2.blob.core.windows.net/buymie/Stores/13_t.png",
+      "Description": null,
+      "Count": 0,
+      "IsLastCategory": true,
+      "OrderIDs": null,
+      "Specials": {
+        "Name": "Daily Deals",
+        "Categories": []
+      },
+      "Freebies": {
+        "Name": "Freebies",
+        "Products": []
+      },
+      "CategoryProductsAndSubCategories": [
+        {
+          "ID": 12109,
+          "Name": "Mushrooms",
+          "ParentID": 12101,
+          "Sequence": 0,
+          "ImageUrl": null,
+          "ItemsInCartCount": null,
+          "Products": [
+            {
+              "ID": 174876,
+              "Name": "Dunnes Stores Organic Irish Mushrooms",
+              "LongName": null,
+              "ImageUrl": null,
+              "ImageDetailUrl": null,
+              "Description": "Dunnes Stores Organic Irish Mushrooms",
+              "PriceDecimal": 1,
+              "Price": "1.00",
+              "Quantity": 0,
+              "OriginQuantity": 0,
+              "Instructions": null,
+              "SpecialUnitPriceDecimal": null,
+              "SpecialPriceDecimal": null,
+              "SpecialPrice": null,
+              "SpecialLabel": null,
+              "SpecialQty": 0,
+              "FreeQty": 0,
+              "SpecialType": null,
+              "SpecialTypeID": 0,
+              "SpecialCategoryID": null,
+              "LastAvailableDate": null,
+              "UnAvailableMessage": null,
+              "BrandName": null,
+              "SearchScore": 0,
+              "AgeLimit": null,
+              "Ingredients": null,
+              "Allergy": null,
+              "Nutrition": null,
+              "QuantityLimit": null,
+              "UnitType": null,
+              "Images": [
+                {
+                  "ID": 0,
+                  "Order": 1,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/313172.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/313172_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 1,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/343624.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/343624_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 2,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/343625.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/343625_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 2,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/313173.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/174876/313173_orig.jpg"
+                }
+              ],
+              "IsMixed": null,
+              "IsLoose": null,
+              "BasePrice": null,
+              "SpecialQuantity": null,
+              "SpecialProductId": null,
+              "PromotionType": null,
+              "BaseUnit": null,
+              "AddedDate": "2020-11-04T05:33:18.397",
+              "Sequence": 46801,
+              "IsFeatured": false,
+              "Favorite": false,
+              "PackageContent": null,
+              "BarCode": null,
+              "ProductType": 0,
+              "IsAdditional": false,
+              "AddedFrom": null,
+              "TillessPickType": 0,
+              "StoreID": 0,
+              "ShowStorePrice": true,
+              "MarkupPercent": 5.75,
+              "VatPercent": 0.23,
+              "UnitPrice": 1,
+              "ConsumerPriceDecimal": 1,
+              "StorePrice": "1.00",
+              "ConsumerPrice": "1.00",
+              "Currency": "€",
+              "ShowProcessingFee": false
+            }
+          ],
+          "IsLastCategory": true
+        }
+      ],
+      "LstSubCat": null,
+      "LogoUrlNew": "https://buymie2.blob.core.windows.net/buymie/Stores/13_s.png",
+      "CountryId": 1,
+      "ShowStorePrice": true
+    },
+    "hasPreviousOrder": false,
+    "highDemandMessage": null,
+    "message": "success"
+  }

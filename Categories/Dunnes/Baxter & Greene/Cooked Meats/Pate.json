@@ -1,0 +1,273 @@
+{
+    "store": {
+      "ID": 306,
+      "StoreID": 13,
+      "StartTime": "09:00:00",
+      "EndTime": "20:00:00",
+      "IsOpened": true,
+      "StoreName": "Dunnes",
+      "LogoUrl": "https://buymie2.blob.core.windows.net/buymie/Stores/13_t.png",
+      "Description": null,
+      "Count": 0,
+      "IsLastCategory": true,
+      "OrderIDs": null,
+      "Specials": {
+        "Name": "Daily Deals",
+        "Categories": []
+      },
+      "Freebies": {
+        "Name": "Freebies",
+        "Products": []
+      },
+      "CategoryProductsAndSubCategories": [
+        {
+          "ID": 14652,
+          "Name": "Pate",
+          "ParentID": 14651,
+          "Sequence": 0,
+          "ImageUrl": null,
+          "ItemsInCartCount": null,
+          "Products": [
+            {
+              "ID": 178211,
+              "Name": "Baxter & Greene Chicken Liver Pate 195g",
+              "LongName": null,
+              "ImageUrl": null,
+              "ImageDetailUrl": null,
+              "Description": "Baxter & Greene Chicken Liver Pate 195g",
+              "PriceDecimal": 3.5,
+              "Price": "3.50",
+              "Quantity": 0,
+              "OriginQuantity": 0,
+              "Instructions": null,
+              "SpecialUnitPriceDecimal": null,
+              "SpecialPriceDecimal": null,
+              "SpecialPrice": null,
+              "SpecialLabel": null,
+              "SpecialQty": 0,
+              "FreeQty": 0,
+              "SpecialType": null,
+              "SpecialTypeID": 0,
+              "SpecialCategoryID": null,
+              "LastAvailableDate": null,
+              "UnAvailableMessage": null,
+              "BrandName": null,
+              "SearchScore": 0,
+              "AgeLimit": null,
+              "Ingredients": null,
+              "Allergy": null,
+              "Nutrition": null,
+              "QuantityLimit": null,
+              "UnitType": null,
+              "Images": [
+                {
+                  "ID": 0,
+                  "Order": 1,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317070.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317070_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 2,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317071.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317071_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 3,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317072.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317072_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 4,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317073.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317073_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 5,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317074.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317074_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 6,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317075.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317075_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 7,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317076.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317076_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 8,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317077.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317077_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 9,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317078.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178211/317078_orig.jpg"
+                }
+              ],
+              "IsMixed": null,
+              "IsLoose": null,
+              "BasePrice": null,
+              "SpecialQuantity": null,
+              "SpecialProductId": null,
+              "PromotionType": null,
+              "BaseUnit": null,
+              "AddedDate": "2020-11-25T06:00:30.17",
+              "Sequence": 45396,
+              "IsFeatured": false,
+              "Favorite": false,
+              "PackageContent": null,
+              "BarCode": null,
+              "ProductType": 0,
+              "IsAdditional": false,
+              "AddedFrom": null,
+              "TillessPickType": 0,
+              "StoreID": 0,
+              "ShowStorePrice": true,
+              "MarkupPercent": 5.75,
+              "VatPercent": 0.23,
+              "UnitPrice": 3.5,
+              "ConsumerPriceDecimal": 3.5,
+              "StorePrice": "3.50",
+              "ConsumerPrice": "3.50",
+              "Currency": "€",
+              "ShowProcessingFee": false
+            },
+            {
+              "ID": 178208,
+              "Name": "Baxter & Greene Smoked Salmon Pate 185g",
+              "LongName": null,
+              "ImageUrl": null,
+              "ImageDetailUrl": null,
+              "Description": "Baxter & Greene Smoked Salmon Pate 185g",
+              "PriceDecimal": 3.5,
+              "Price": "3.50",
+              "Quantity": 0,
+              "OriginQuantity": 0,
+              "Instructions": null,
+              "SpecialUnitPriceDecimal": null,
+              "SpecialPriceDecimal": null,
+              "SpecialPrice": null,
+              "SpecialLabel": null,
+              "SpecialQty": 0,
+              "FreeQty": 0,
+              "SpecialType": null,
+              "SpecialTypeID": 0,
+              "SpecialCategoryID": null,
+              "LastAvailableDate": null,
+              "UnAvailableMessage": null,
+              "BrandName": null,
+              "SearchScore": 0,
+              "AgeLimit": null,
+              "Ingredients": null,
+              "Allergy": null,
+              "Nutrition": null,
+              "QuantityLimit": null,
+              "UnitType": null,
+              "Images": [
+                {
+                  "ID": 0,
+                  "Order": 1,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317042.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317042_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 2,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317043.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317043_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 3,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317044.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317044_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 4,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317045.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317045_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 5,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317046.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317046_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 6,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317047.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317047_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 7,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317048.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317048_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 8,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317049.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317049_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 9,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317050.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/178208/317050_orig.jpg"
+                }
+              ],
+              "IsMixed": null,
+              "IsLoose": null,
+              "BasePrice": null,
+              "SpecialQuantity": null,
+              "SpecialProductId": null,
+              "PromotionType": null,
+              "BaseUnit": null,
+              "AddedDate": "2020-11-25T06:00:27.637",
+              "Sequence": 44700,
+              "IsFeatured": false,
+              "Favorite": false,
+              "PackageContent": null,
+              "BarCode": null,
+              "ProductType": 0,
+              "IsAdditional": false,
+              "AddedFrom": null,
+              "TillessPickType": 0,
+              "StoreID": 0,
+              "ShowStorePrice": true,
+              "MarkupPercent": 5.75,
+              "VatPercent": 0.23,
+              "UnitPrice": 3.5,
+              "ConsumerPriceDecimal": 3.5,
+              "StorePrice": "3.50",
+              "ConsumerPrice": "3.50",
+              "Currency": "€",
+              "ShowProcessingFee": false
+            }
+          ],
+          "IsLastCategory": true
+        }
+      ],
+      "LstSubCat": null,
+      "LogoUrlNew": "https://buymie2.blob.core.windows.net/buymie/Stores/13_s.png",
+      "CountryId": 1,
+      "ShowStorePrice": true
+    },
+    "hasPreviousOrder": false,
+    "highDemandMessage": null,
+    "message": "success"
+  }

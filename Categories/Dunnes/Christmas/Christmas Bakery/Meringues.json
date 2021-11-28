@@ -1,0 +1,116 @@
+{
+    "store": {
+      "ID": 306,
+      "StoreID": 13,
+      "StartTime": "09:00:00",
+      "EndTime": "21:00:00",
+      "IsOpened": false,
+      "StoreName": "Dunnes",
+      "LogoUrl": "https://buymie2.blob.core.windows.net/buymie/Stores/13_t.png",
+      "Description": null,
+      "Count": 0,
+      "IsLastCategory": true,
+      "OrderIDs": null,
+      "Specials": {
+        "Name": "Daily Deals",
+        "Categories": []
+      },
+      "Freebies": {
+        "Name": "Freebies",
+        "Products": []
+      },
+      "CategoryProductsAndSubCategories": [
+        {
+          "ID": 17924,
+          "Name": "Meringues",
+          "ParentID": 17921,
+          "Sequence": 0,
+          "ImageUrl": null,
+          "ItemsInCartCount": null,
+          "Products": [
+            {
+              "ID": 161136,
+              "Name": "Dunnes Stores 8 Meringue Nests 100g",
+              "LongName": null,
+              "ImageUrl": null,
+              "ImageDetailUrl": null,
+              "Description": "Dunnes Stores 8 Meringue Nests 100g",
+              "PriceDecimal": 2,
+              "Price": "2.00",
+              "Quantity": 0,
+              "OriginQuantity": 0,
+              "Instructions": null,
+              "SpecialUnitPriceDecimal": null,
+              "SpecialPriceDecimal": null,
+              "SpecialPrice": null,
+              "SpecialLabel": null,
+              "SpecialQty": 0,
+              "FreeQty": 0,
+              "SpecialType": null,
+              "SpecialTypeID": 0,
+              "SpecialCategoryID": null,
+              "LastAvailableDate": null,
+              "UnAvailableMessage": null,
+              "BrandName": null,
+              "SearchScore": 0,
+              "AgeLimit": null,
+              "Ingredients": null,
+              "Allergy": null,
+              "Nutrition": null,
+              "QuantityLimit": null,
+              "UnitType": null,
+              "Images": [
+                {
+                  "ID": 0,
+                  "Order": 1,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/161136/275087.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/161136/275087_orig.jpg"
+                },
+                {
+                  "ID": 0,
+                  "Order": 2,
+                  "Thumbnail": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/161136/275088.jpg",
+                  "Original": "https://buymie2.blob.core.windows.net/buymie/BuymieProductImages/161136/275088_orig.jpg"
+                }
+              ],
+              "IsMixed": null,
+              "IsLoose": null,
+              "BasePrice": null,
+              "SpecialQuantity": null,
+              "SpecialProductId": null,
+              "PromotionType": null,
+              "BaseUnit": null,
+              "AddedDate": "2020-09-17T11:28:58.517",
+              "Sequence": 45278,
+              "IsFeatured": false,
+              "Favorite": false,
+              "PackageContent": null,
+              "BarCode": null,
+              "ProductType": 0,
+              "IsAdditional": false,
+              "AddedFrom": null,
+              "TillessPickType": 0,
+              "StoreID": 0,
+              "ShowStorePrice": true,
+              "MarkupPercent": 5.75,
+              "VatPercent": 0.23,
+              "UnitPrice": 2,
+              "ConsumerPriceDecimal": 2,
+              "StorePrice": "2.00",
+              "ConsumerPrice": "2.00",
+              "Currency": "€",
+              "ShowProcessingFee": false
+            }
+          ],
+          "IsLastCategory": true
+        }
+      ],
+      "LstSubCat": null,
+      "LogoUrlNew": "https://buymie2.blob.core.windows.net/buymie/Stores/13_s.png",
+      "CountryId": 1,
+      "ShowStorePrice": true
+    },
+    "hasPreviousOrder": false,
+    "highDemandMessage": null,
+    "message": "success"
+  }
