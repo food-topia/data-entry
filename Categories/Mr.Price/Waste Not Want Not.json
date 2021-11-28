@@ -1,16 +1,19 @@
 [{
-    "name": "\n\tCHEF KUO SWEET CHILLI SAUCE 500G",
-    "price": "€€",
+    "name": "CHEF KUO SWEET CHILLI SAUCE 500G",
+    "pageUrl": "https://www.mrpriceonline.ie/product/chef-kuo-sweet-chilli-sauce-500g/",
+    "price": "€1.79",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/10/CHEF-KUO-NEW.jpg"
 }, {
-    "name": "\n\tGRAZE NUTS & VEGGIE BOX",
-    "price": "€€",
-    "description": "\n\nPrice including VAT\nSmokehouse 32g\nSweet & Salty 30g\nSalt & Pepper 28g\n\n",
+    "name": "GRAZE NUTS & VEGGIE BOX",
+    "pageUrl": "https://www.mrpriceonline.ie/product/graze-nuts-veggie-box/",
+    "price": "€1.29",
+    "description": "Price including VATSmokehouse 32gSweet & Salty 30gSalt & Pepper 28g",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/06/Graze-Salt-and-Pepper-Nuts-and-Veggies-28g.jpg"
 }, {
-    "name": "\n\tPRINGLES 200g",
-    "price": "€€",
+    "name": "PRINGLES 200g",
+    "pageUrl": "https://www.mrpriceonline.ie/product/pringles/",
+    "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/11/pringles-sv.jpg"
 }]

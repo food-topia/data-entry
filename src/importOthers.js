@@ -1,7 +1,8 @@
 const request = require('request');
 const fs = require('fs');
 const path = require('path');
-const STORE_NAME = 'HALAL';
+// const STORE_NAME = 'HALAL';
+const STORE_NAME = 'Mr.Price';
 
 const {
     nanoid
@@ -59,11 +60,11 @@ const getStoreId = (storeName) => {
     } else if (storeName.toUpperCase() === 'DUNNES') {
         return 3
     } else if (storeName.toUpperCase() === 'ALDI') {
-        return 5
+        return 4
     } else if (storeName.toUpperCase() === 'HALAL') {
-        return 6
+        return 5
     } else if (storeName.toUpperCase() === 'MR.PRICE') {
-        return 7
+        return 6
     }
 }
 
@@ -112,6 +113,50 @@ const importImage = async (imagePath) => {
     else if(imageName === 'resize.webp') {
         imagePath = 'resize.jpeg'
         imageName = 'resize.jpeg'
+    }
+    else if(imageName === 'Cycle-Lia-Chandanam.jpg') {
+        imagePath = 'Cycle-Lia-Chandanam-working.jpeg'
+        imageName = 'Cycle-Lia-Chandanam-working.jpeg'
+    }
+    else if(imageName === 'Cycle-Lia-Jas.jpg') {
+        imagePath = 'Cycle-Lia-Jas-working.jpg'
+        imageName = 'Cycle-Lia-Jas-working.jpg'
+    }
+    else if(imageName === 'Cycle-Lia-Prime-Rose.jpg') {
+        imagePath = 'Cycle-Lia-Prime-Rose-working.jpeg'
+        imageName = 'Cycle-Lia-Prime-Rose-working.jpeg'
+    }
+    else if(imageName === 'Haldirams-PaniPuri-360g.jpg') {
+        imagePath = 'Haldirams-PaniPuri-360g-working.jpg'
+        imageName = 'Haldirams-PaniPuri-360g-working.jpg'
+    }
+    else if(imageName === 'Tilda-Golden-Sella-5kg.jpg') {
+        imagePath = 'Tilda-Golden-Sella-5kg-working.jpeg'
+        imageName = 'Tilda-Golden-Sella-5kg-working.jpeg'
+    }
+    else if(imageName === 'TILDA-GRAND-EXTRALONG-BASMATI-5KG.jpg') {
+        imagePath = 'TILDA-GRAND-EXTRALONG-BASMATI-5KG-working.jpg'
+        imageName = 'TILDA-GRAND-EXTRALONG-BASMATI-5KG-working.jpg'
+    }
+    else if(imageName === 'Photo-02-05-2020-13-06-13.png') {
+        imagePath = 'bombay-biryani-masala-min.png'
+        imageName = 'bombay-biryani-masala-min.png'
+    }
+    else if(imageName === 'chings-secret-green-chilli-sauce.jpg') {
+        imagePath = 'green-chilli-sauce.jpeg'
+        imageName = 'green-chilli-sauce.jpeg'
+    }
+    else if(imageName === 'chupa-chups-grape-sparkling-330ml_1024x.jpg') {
+        imagePath = 'chupa-chups-grape-sparkling-330ml.jpeg'
+        imageName = 'chupa-chups-grape-sparkling-330ml.jpeg'
+    }
+    else if(imageName === 'chings-secret-red-chilli-sauce.jpg') {
+        imagePath = 'chings-secret-red-chilli-sauce-working.jpeg'
+        imageName = 'chings-secret-red-chilli-sauce-working.jpeg'
+    }
+    else if(imageName === 'Wai-Wai-Chicken-Noodles-70-G.png') {
+        imagePath = 'Wai-Wai-Chicken-Noodles-70-G.jpg'
+        imageName = 'Wai-Wai-Chicken-Noodles-70-G.jpg'
     }
     let options = {
         'method': 'POST',
@@ -192,7 +237,7 @@ const importProduct = async (categoryId, marketId, product) => {
     }, {});
     let price = Number(product.price.replace('€', ''));
     let extraCharge = round(price * 0.1, 1)
-    price = roundPriceAndExtraCharge(price + extraCharge);
+    price = roundPriceAndExtraCharge(price, extraCharge);
 
     let options = {
         'method': 'POST',
@@ -242,7 +287,7 @@ async function runImport() {
     // });
 
     try {
-        let dirPath = path.resolve(__dirname, '../Categories/Halal');
+        let dirPath = path.resolve(__dirname, `../Categories/${STORE_NAME}`);
         let folders = await fs.promises.readdir(dirPath);
 
         // Loop them all with the new for...of

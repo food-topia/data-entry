@@ -1,136 +1,163 @@
 [{
-    "name": "\n\tARTS & CRAFTS BUNDLE",
-    "price": "€",
+    "name": "ARTS & CRAFTS BUNDLE",
+    "pageUrl": "https://www.mrpriceonline.ie/product/arts-crafts-bundle/",
+    "price": "€15.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/07/arts-crafts-bundle-update-2-2.jpg"
 }, {
-    "name": "\n\tCANVAS ART 9PCE CREATE & ENJOY PAINTING SET",
-    "price": "€",
-    "description": "\n\n\n\n\n\n\n\nPrice including VAT\n\n\n\n\n\n\n\n",
+    "name": "CANVAS ART 9PCE CREATE & ENJOY PAINTING SET",
+    "pageUrl": "https://www.mrpriceonline.ie/product/canvas-art-9pce-create-enjoy-painting-set/",
+    "price": "€7.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/06/MicrosoftTeams-image-76-1.jpg"
 }, {
-    "name": "\n\tCHRISTMAS COLOURING BOOK",
-    "price": "€",
+    "name": "CHRISTMAS COLOURING BOOK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/christmas-colouring-book/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/12/christmas-colouring-book.jpg"
 }, {
-    "name": "\n\tCRA-Z-JEWELS ULTIMATE GEM MACHINE",
-    "price": "€",
-    "description": "\n\n\n\n\n\nPrice including VAT\n\n\n\n\n\n",
+    "name": "CRA-Z-JEWELS ULTIMATE GEM MACHINE",
+    "pageUrl": "https://www.mrpriceonline.ie/product/cra-z-jewels-ultimate-gem-machine/",
+    "price": "€12.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/CRAZJEWELZ-ULTIMATE-GEM-MACHINE.jpg"
 }, {
-    "name": "\n\tCRAFTY BITZ 4-IN-1 CRAFT PACK",
-    "price": "€",
+    "name": "CRAFTY BITZ 4-IN-1 CRAFT PACK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-4-in-1-craft-pack/",
+    "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/4-IN-1-CRAFT.jpg"
 }, {
-    "name": "\n\tCRAFTY BITZ MASK DECORATION KIT",
-    "price": "€",
+    "name": "CRAFTY BITZ MASK DECORATION KIT",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-mask-decoration-kit/",
+    "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/MASK-KIT.jpg"
 }, {
-    "name": "\n\tCRAFTY BITZ SQUISHY FOAM STICKERS 215PK",
-    "price": "€",
+    "name": "CRAFTY BITZ SQUISHY FOAM STICKERS 215PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-squishy-foam-stickers-215pk/",
+    "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/foam-letter-stickers.jpg"
 }, {
-    "name": "\n\tCRAYOLA ANIMAL COLLAGE",
-    "price": "€",
-    "description": "\n\n\n\n\nPrice including VAT\n\n\n\n\n",
+    "name": "CRAYOLA ANIMAL COLLAGE",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-animal-collage/",
+    "price": "€1.49",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/crayola_animal_collage-CAT-DOG.jpg"
 }, {
-    "name": "\n\tCRAYOLA CRAYONS 24PK",
-    "price": "€",
+    "name": "CRAYOLA CRAYONS 24PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-crayons-24pk/",
+    "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/crayola-24-pk-crayons.jpg"
 }, {
-    "name": "\n\tCRAYOLA MOSAIC MERMAID KIT",
-    "price": "€",
+    "name": "CRAYOLA MOSAIC MERMAID KIT",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-mosaic-mermaid-kit/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/MicrosoftTeams-image-225.png"
 }, {
-    "name": "\n\tCRAYOLA PRINCESS CRAFT",
-    "price": "€",
+    "name": "CRAYOLA PRINCESS CRAFT",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-princess-craft/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/crayola-princess-craft.jpg"
 }, {
-    "name": "\n\tCRAYOLA SUPER TIPS WASHABLE MARKERS 12PK",
-    "price": "€",
-    "description": "\nPrice including VAT\n",
+    "name": "CRAYOLA SUPER TIPS WASHABLE MARKERS 12PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-super-tips-washable-markers-12pk/",
+    "price": "€3.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/crayola-super-tip-markers.jpg"
 }, {
-    "name": "\n\tCRAYOLA TWISTABLES CRAYONS 12PK",
-    "price": "€",
-    "description": "\n\nPrice including VAT\n\n",
+    "name": "CRAYOLA TWISTABLES CRAYONS 12PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-twistables-crayons-12pk/",
+    "price": "€3.49",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/crayola-twistable-crayons.jpg"
 }, {
-    "name": "\n\tCRAYOLA WASHABLE KIDS PAINTS 18PK",
-    "price": "€",
-    "description": "\n\nPrice including VAT\n\n",
+    "name": "CRAYOLA WASHABLE KIDS PAINTS 18PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-washable-kids-paints-18pk/",
+    "price": "€4.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/crayola-paint.jpg"
 }, {
-    "name": "\n\tEASTER CUTOUTS 10PK",
-    "price": "€",
-    "description": "\n\n\n\n\n\nPrice including VAT\n\n\n\n\n\n",
+    "name": "EASTER CUTOUTS 10PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/easter-cutouts-10pk/",
+    "price": "€1.49",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/3821cd42-88c7-44f8-a462-e78392ef2cb6.jpg"
 }, {
-    "name": "\n\tEASTER FACE MASKS 6PK",
-    "price": "€",
-    "description": "\n\n\n\n\nPrice including VAT\n\n\n\n\n",
+    "name": "EASTER FACE MASKS 6PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/easter-face-masks-6pk/",
+    "price": "€0.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/image-6.png"
 }, {
-    "name": "\n\tFOAM CLAY FRIENDS – DRAGON",
-    "price": "€",
+    "name": "FOAM CLAY FRIENDS – DRAGON",
+    "pageUrl": "https://www.mrpriceonline.ie/product/foam-clay-friends-dragon/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/foam-clay-dragon.jpg"
 }, {
-    "name": "\n\tFOAM CLAY FRIENDS – ICE CREAM",
-    "price": "€",
+    "name": "FOAM CLAY FRIENDS – ICE CREAM",
+    "pageUrl": "https://www.mrpriceonline.ie/product/foam-clay-friends-ice-cream/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/foam-clay-ice-cream.jpg"
 }, {
-    "name": "\n\tGEM STONES 120PK",
-    "price": "€",
-    "description": "\n\n\nPrice including VAT\n\n\n",
+    "name": "GEM STONES 120PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/gem-stones-120pk/",
+    "price": "€1.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/green-gems.jpg"
 }, {
-    "name": "\n\tHALLMARK STAR STICKERS",
-    "price": "€",
-    "description": "\n\n\n\n\n\nPrice including VAT\n\n\n\n\n\n",
+    "name": "HALLMARK STAR STICKERS",
+    "pageUrl": "https://www.mrpriceonline.ie/product/hallmark-star-stickers/",
+    "price": "€0.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/Star-Stickers.jpg"
 }, {
-    "name": "\n\tHARRY POTTER SCRATCH ART SET 3 PACK",
-    "price": "€",
+    "name": "HARRY POTTER SCRATCH ART SET 3 PACK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/harry-potter-scratch-art-set-3-pack/",
+    "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/HARRY-POTTER-SCRATCH-ART-SET.jpg"
 }, {
-    "name": "\n\tICON POSTER PAINT 500ML",
-    "price": "€",
-    "description": "\n\n\n\nPrice including VAT\n\n\n\n",
+    "name": "ICON POSTER PAINT 500ML",
+    "pageUrl": "https://www.mrpriceonline.ie/product/icon-poster-paint-500ml/",
+    "price": "€1.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/C0924589_3-600_600.jpg"
 }, {
-    "name": "\n\tPAINT BUNDLE",
-    "price": "€",
+    "name": "PAINT BUNDLE",
+    "pageUrl": "https://www.mrpriceonline.ie/product/paint-bundle/",
+    "price": "€15.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/thumbnail_paint-bundle.jpg"
 }, {
-    "name": "\n\tPRO:SCRIBE WHITEBOARD MARKERS 6PK",
-    "price": "€",
+    "name": "PRO:SCRIBE WHITEBOARD MARKERS 6PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/proscribe-whiteboard-markers-6pk/",
+    "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/White-board-markers.jpg"
 }, {
-    "name": "\n\tSPARKLE N’ SHARE BEST FRIEND BAGS",
-    "price": "€",
-    "description": "\n\n\n\n\n\n\nPrice including VAT\n\n\n\n\n\n\n",
+    "name": "SPARKLE N’ SHARE BEST FRIEND BAGS",
+    "pageUrl": "https://www.mrpriceonline.ie/product/sparkle-n-share-best-friend-bags/",
+    "price": "€4.99",
+    "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/sparkle-n-share-best-Friend-bags.jpg"
 }, {
-    "name": "\n\tWORLD OF COLOUR 12 MARLA PLAYCLAY & 3 MOULDS",
-    "price": "€",
+    "name": "WORLD OF COLOUR 12 MARLA PLAYCLAY & 3 MOULDS",
+    "pageUrl": "https://www.mrpriceonline.ie/product/world-of-colour-12-marla-playclay-3-moulds/",
+    "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/playclay.jpg"
 }, {
-    "name": "\n\tWORLD OF COLOUR ALPHABET COLOURING BOOK 96PG",
-    "price": "€",
+    "name": "WORLD OF COLOUR ALPHABET COLOURING BOOK 96PG",
+    "pageUrl": "https://www.mrpriceonline.ie/product/world-of-colour-alphabet-colouring-book-96pg/",
+    "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/P3250388_12-600_600.jpg"
 }]
