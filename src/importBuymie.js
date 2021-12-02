@@ -30,8 +30,14 @@ const createCategory = (categoryName) => {
                 throw new Error(error);
             } else {
                 let body = JSON.parse(response.body);
-                resolve(body);
-                console.log(response.body);
+                if(body.success) {
+                    console.log('£££ CATEGORY CREATED SUCCESSFULLY £££');
+                    console.log(body);
+                    resolve(body);
+                } else {
+                    console.log('£££ FAILED TO CREATE CATEGORY £££')
+                    reject(response);
+                }
             }
         });
     });
@@ -90,11 +96,10 @@ const downloadImage = async (image) => {
                 })
                 .pipe(file)
                 .on('finish', async () => {
-                    console.log('-----> 1');
-                    console.log(`The file is finished downloading.`);
                     resolve(imageDest);
                 })
                 .on('error', (error) => {
+                    console.log(`Image Failed to Download`);
                     reject(error);
                 });
         })
@@ -128,8 +133,14 @@ const importImage = async (imagePath) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body);
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
+                }
             }
         });
     })
@@ -198,8 +209,15 @@ const importProduct = async (categoryId, marketId, product) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body)
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    console.log(`IMPORT PRODUCT PASS ${body.data.name}`);
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
+                }
             }
         });
     })
@@ -237,7 +255,6 @@ async function runImport() {
                     }
                 }
             }
-            console.log( "'%s' is a directory.", currentDir );
         }
     } catch (e) {
         // Catch anything bad that happens

@@ -30,8 +30,14 @@ const createCategory = (categoryName) => {
                 throw new Error(error);
             } else {
                 let body = JSON.parse(response.body);
-                resolve(body);
-                console.log(response.body);
+                if(body.success) {
+                    console.log('£££ CATEGORY CREATED SUCCESSFULLY £££');
+                    console.log(body);
+                    resolve(body);
+                } else {
+                    console.log('£££ FAILED TO CREATE CATEGORY £££')
+                    reject(response);
+                }
             }
         });
     });
@@ -90,11 +96,10 @@ const downloadImage = async (image) => {
                 })
                 .pipe(file)
                 .on('finish', async () => {
-                    console.log('-----> 1');
-                    console.log(`The file is finished downloading.`);
                     resolve(imageDest);
                 })
                 .on('error', (error) => {
+                    console.log(`Image Failed to Download`);
                     reject(error);
                 });
         })
@@ -128,8 +133,14 @@ const importImage = async (imagePath) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body);
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
+                }
             }
         });
     })
@@ -198,32 +209,39 @@ const importProduct = async (categoryId, marketId, product) => {
                 reject(error);
                 throw new Error(error);
             } else {
-                resolve(response.body)
-                console.log(response.body);
+                let body = JSON.parse(response.body);
+                if(body.success) {
+                    console.log(`IMPORT PRODUCT PASS ${body.data.name}`);
+                    resolve(response.body)
+                } else {
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
+                }
             }
         });
     })
 }
 
 async function runImport() {
-    const superMarket = 'Dunnes'
+    const superMarket = 'Lidl'
     try {
         let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
         let folders = await fs.promises.readdir(dirPath);
 
         // Loop them all with the new for...of
-        for (let folderCategory of folders) {
+        for (let subFolder of folders) {
 
-            currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
-            // Stat the file to see if we have a file or dir
-            const stat = await fs.promises.stat( currentDir );
+            // currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
+            // // Stat the file to see if we have a file or dir
+            // const stat = await fs.promises.stat( currentDir );
             
             // BuyMie
-            let suFolders = await fs.promises.readdir(currentDir);
-            for (const subFolder of suFolders) {
-                let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
+            // let suFolders = await fs.promises.readdir(currentDir);
+            // for (const subFolder of suFolders) {
+                let filesPath = path.resolve(__dirname, `${dirPath}/${subFolder}`);
                 let files = await fs.promises.readdir(filesPath);
-                let category = await createCategory(folderCategory);
+                let category = await createCategory(subFolder);
                 let categoryId = category.data.id;
                 for (const file of files) {
                     const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
@@ -235,9 +253,8 @@ async function runImport() {
                     for (const product of products) {
                         await importProduct(categoryId, getStoreId(storeName), product);
                     }
-                }
+                // }
             }
-            console.log( "'%s' is a directory.", currentDir );
         }
     } catch (e) {
         // Catch anything bad that happens

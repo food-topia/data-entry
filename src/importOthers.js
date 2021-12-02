@@ -33,11 +33,12 @@ const createCategory = (categoryName) => {
             } else {
                 let body = JSON.parse(response.body);
                 if(body.success) {
+                    console.log('£££ CATEGORY CREATED SUCCESSFULLY £££');
                     console.log(body);
                     resolve(body);
                 } else {
                     console.log('£££ FAILED TO CREATE CATEGORY £££')
-                    reject(body);
+                    reject(response);
                 }
             }
         });
@@ -83,8 +84,6 @@ const downloadImage = async (image) => {
                 })
                 .pipe(file)
                 .on('finish', async () => {
-                    console.log('-----> 1');
-                    console.log(`The file is finished downloading.`);
                     resolve(imageDest);
                 })
                 .on('error', (error) => {
@@ -184,11 +183,10 @@ const importImage = async (imagePath) => {
                 if(body.success) {
                     resolve(response.body)
                 } else {
-                    console.log('FAILED TO IMPORt')
-                    reject(body);
-                    throw new Error(error);
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
                 }
-                console.log(body);
             }
         });
     })
@@ -268,13 +266,13 @@ const importProduct = async (categoryId, marketId, product) => {
             } else {
                 let body = JSON.parse(response.body);
                 if(body.success) {
+                    console.log(`IMPORT PRODUCT PASS ${body.data.name}`);
                     resolve(response.body)
                 } else {
-                    console.log('FAILED TO IMPORt')
-                    reject(body);
-                    throw new Error(error);
+                    console.log('FAILED TO IMPORT')
+                    reject(response);
+                    throw new Error(response);
                 }
-                console.log(body);
             }
         });
     })
