@@ -241,8 +241,18 @@ async function runImport() {
             // for (const subFolder of suFolders) {
                 let filesPath = path.resolve(__dirname, `${dirPath}/${subFolder}`);
                 let files = await fs.promises.readdir(filesPath);
-                let category = await createCategory(subFolder);
-                let categoryId = category.data.id;
+
+                let category;
+                let categoryId;
+        
+                if(subFolder === 'Household') {
+                    categoryId = 203;
+                } else {
+                    category = await createCategory(subFolder);
+                    categoryId = category.data.id;
+                }
+
+
                 for (const file of files) {
                     const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
                     let rawProductDs = fs.readFileSync(dirFile);
