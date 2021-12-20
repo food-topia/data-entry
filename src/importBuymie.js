@@ -224,7 +224,7 @@ const importProduct = async (categoryId, marketId, product) => {
 }
 
 async function runImport() {
-    const superMarket = 'Dunnes'
+    const superMarket = 'Tesco'
     try {
         let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
         let folders = await fs.promises.readdir(dirPath);
@@ -238,11 +238,21 @@ async function runImport() {
             
             // BuyMie
             let suFolders = await fs.promises.readdir(currentDir);
+
+            let category;
+            let categoryId;
+
+            if(folderCategory === 'Pets') {
+                categoryId = 206;
+            } else {
+                category = await createCategory(folderCategory);
+                categoryId = category.data.id;
+            }
+
             for (const subFolder of suFolders) {
                 let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
                 let files = await fs.promises.readdir(filesPath);
-                let category = await createCategory(folderCategory);
-                let categoryId = category.data.id;
+
                 for (const file of files) {
                     const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
                     let rawProductDs = fs.readFileSync(dirFile);

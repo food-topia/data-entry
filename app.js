@@ -1,4 +1,4 @@
-// var importFunctions = require("./src/importBuymie")
-var importFunctions = require("./src/importBuymieLidl")
+var importFunctions = require("./src/importOthers")
+// var importFunctions = require("./src/importBuymieLidl");
 
 importFunctions.runImport();

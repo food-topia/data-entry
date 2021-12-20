@@ -1,8 +1,8 @@
 const request = require('request');
 const fs = require('fs');
 const path = require('path');
-const STORE_NAME = 'HALAL';
-// const STORE_NAME = 'Mr.Price';
+// const STORE_NAME = 'HALAL';
+const STORE_NAME = 'Mr.Price';
 
 const {
     nanoid
