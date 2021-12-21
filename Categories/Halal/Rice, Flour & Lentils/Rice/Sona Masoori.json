@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Cow Sona Masoori 10kg",
+    "price": "€21.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Cow Sona Masoori 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/CowSonaMasoori20kg.jpg"
+  },
+  {
+    "name": "COW SONA MASOORI 20KG",
+    "price": "€32.00",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Cow Sona Masoori 20kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/CowSonaMasoori20kg.jpg"
+  },
+  {
+    "name": "DAAWAT SONA MASOORI 10KG",
+    "price": "€16.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Daawat-Sona-Masoori-10kg.png"
+  },
+  {
+    "name": "SWAAD SONA MASOORI 10KG",
+    "price": "€14.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/1-scaled.jpg"
+  },
+  {
+    "name": "SWAAD SONA MASOORI 20KG",
+    "price": "€28.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/2.jpg"
+  },
+  {
+    "name": "SWAAD SONA MASOORI 5KG",
+    "price": "€7.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/3.jpg"
+  }
+]

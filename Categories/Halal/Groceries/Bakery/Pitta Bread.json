@@ -1,0 +1,15 @@
+[{
+    "name": "LB PITTA  WHITE",
+    "price": "€1.10",
+    "outOfStock": false,
+    "shortDescription": "LB Pitta Bread White",
+    "description": "LB Pitta Bread White",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/LB-PITTA-WHITE.jpg"
+}, {
+    "name": "LB PITTA BROWN",
+    "price": "€1.10",
+    "outOfStock": false,
+    "shortDescription": "LB Pitta Bread Brown",
+    "description": "LB Pitta Bread Brown",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/LB-PITTA-BROWN.jpg"
+}]

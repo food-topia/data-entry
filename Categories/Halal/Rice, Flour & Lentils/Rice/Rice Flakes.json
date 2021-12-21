@@ -1,0 +1,74 @@
+[
+  {
+    "name": "BHARAT BAZAAR  POHA MEDIUM 1KG",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/Bharat-Bazaar-Medium-Powa-1kg.jpeg"
+  },
+  {
+    "name": "BHARAT BAZAR POHA MED 500G",
+    "price": "€1.55",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/06/Bharat-Bazaar-Medium-Powa-1kg-405x536-1.jpeg"
+  },
+  {
+    "name": "CHAKRA RICE FLAKE WHITE 1KG",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/1kg.jpg"
+  },
+  {
+    "name": "EAST END PAWA MEDIUM 1KG",
+    "price": "€3.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/EAST-END-PAWA-MEDIUM-1KG.jpeg"
+  },
+  {
+    "name": "Heera Mamra (Puffed Rice) 200g",
+    "price": "€2.25",
+    "outOfStock": true,
+    "shortDescription": "Heera Mamra (Puffed Rice) 200g",
+    "description": "Heera Mamra (Puffed Rice) 200g",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/heera-mamra-200gm.jpg"
+  },
+  {
+    "name": "HEERA MAMRA 400G",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HEERA-MAMRA-400G.jpeg"
+  },
+  {
+    "name": "HEERA POWA MEDIUM 1KG",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "HEERA POWA MEDIUM 1KG",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Heera_Powa_Medium_1kg.jpg"
+  },
+  {
+    "name": "HEERA POWA THICK 1KG",
+    "price": "€3.65",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Heera_Thick_Powa-1kg.jpg"
+  },
+  {
+    "name": "HEERA POWA THIN 1KG",
+    "price": "€3.65",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/164.jpg"
+  }
+]

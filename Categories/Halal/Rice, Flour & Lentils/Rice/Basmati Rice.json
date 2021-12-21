@@ -1,0 +1,354 @@
+[
+  {
+    "name": "AKASH BASMATI  5KG",
+    "price": "€13.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Akash Basmati 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AkashBasmati5kg.jpeg"
+  },
+  {
+    "name": "AKASH BASMATI 10KG",
+    "price": "€23.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Akash Basmati 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AkashBasmati10kg.jpg"
+  },
+  {
+    "name": "AKASH BASMATI 1KG",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/AKASH-BASMATI-1KG.jpeg"
+  },
+  {
+    "name": "AKASH BASMATI 20KG",
+    "price": "€37.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Akash Basmati 20kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AkashBasmati20kg.jpg"
+  },
+  {
+    "name": "ASHVILL BASMATI  5KG",
+    "price": "€14.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Ashvil Basmati 5KG",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AshvilBasmati5KG.jpg"
+  },
+  {
+    "name": "ASHVILL BASMATI 10KG",
+    "price": "€24.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Ashvil Basmati 10KG",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AshvilBasmati5KG.jpg"
+  },
+  {
+    "name": "ASHVILL BASMATI 20KG",
+    "price": "€39.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Ashvil Basmati 20KG",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/AshvilBasmati5KG.jpg"
+  },
+  {
+    "name": "CAMIL WHITE RICE 1KG",
+    "price": "€2.60",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/arroz-camil-branco-tipo-1-1kg-x-1.jpg"
+  },
+  {
+    "name": "CHAKRA SONA MASOORI RICE 2KG",
+    "price": "€4.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/sona-masoori-rice-5kg-chakra.jpg"
+  },
+  {
+    "name": "CHEFS CHOICE BASMATI 10KG",
+    "price": "€27.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Chefs Choice Basmati 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/ChefsChoiceBasmati.png"
+  },
+  {
+    "name": "CHEFS CHOICE BASMATI 20KG",
+    "price": "€43.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Chefs Choice Basmati 20kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/ChefsChoiceBasmati.png"
+  },
+  {
+    "name": "CHEFS CHOICE BASMATI 5KG",
+    "price": "€15.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Chefs Choice Basmati 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/ChefsChoiceBasmati.png"
+  },
+  {
+    "name": "CHEFS CHOICE BASMATI RICE 1KG",
+    "price": "€4.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/ChefsChoiceBasmati.png"
+  },
+  {
+    "name": "DAAWAT EVERYDAY BASMATI 20KG",
+    "price": "€29.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/RED_20KG_3-4_LEFT-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT EVERYDAY BASMATI 5KG",
+    "price": "€9.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_RED_5KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT EXTRA LONG BASMATI RICE 10KG",
+    "price": "€19.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_EXTRA-LONG_10KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT EXTRA LONG BASMATI RICE 1KG",
+    "price": "€4.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/3D_EXTRA-LONG_1KG-3-4_LEFT_NEW-mi-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT EXTRA LONG BASMATI RICE 20KG",
+    "price": "€37.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_EXTRA-LONG_20KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT EXTRA LONG BASMATI RICE 5KG",
+    "price": "€13.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_EXTRA-LONG_5KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT ORIGINAL BASMATI RICE 10KG",
+    "price": "€23.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_ORIGINAL_10KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT ORIGINAL BASMATI RICE 1KG",
+    "price": "€5.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/DAAWAT_ORIGNAL_1KG-scaled.jpg"
+  },
+  {
+    "name": "DAAWAT ORIGINAL BASMATI RICE 20KG",
+    "price": "€41.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Daawat-Original-Basmati-Reis-20kg-991178.jpg"
+  },
+  {
+    "name": "DH WHITE RAW RICE 2KG",
+    "price": "€4.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/db-white-raw-rice.jpg"
+  },
+  {
+    "name": "EAST END PUDDING RICE 2KG",
+    "price": "€6.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/12/51V3uKQiMtL._AC_.jpg"
+  },
+  {
+    "name": "EAST END SUPREME BASMATI 2KG",
+    "price": "€8.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/EE-SUPREME-BASMATI-2KGX4PC-550x550-1.jpg"
+  },
+  {
+    "name": "HEERA 1121 BASMATI RICE 5 KG",
+    "price": "€13.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Heera 1121 Rice 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera1121Rice5kg.jpg"
+  },
+  {
+    "name": "HEERA BASMATI RICE 1KG",
+    "price": "€3.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Basmati_Rice_2kg.jpg"
+  },
+  {
+    "name": "HEERA BASMATI RICE 2KG",
+    "price": "€7.95",
+    "outOfStock": true,
+    "shortDescription": "Heera Basmati Rice 2kg",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Basmati_Rice_2kg.jpg"
+  },
+  {
+    "name": "HEERA BROWN BASMATI RICE 2KG",
+    "price": "€7.50",
+    "outOfStock": false,
+    "shortDescription": "Heera Brown Basmati Rice 2kg",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Brown_Basmati_Rice_2kg.jpg"
+  },
+  {
+    "name": "HEERA GOLDEN SELLA RICE 2KG",
+    "price": "€7.70",
+    "outOfStock": false,
+    "shortDescription": "Heera Golden Sella Basmati Rice 2kg",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Golden_Sella_Basmati_Rice_2kg.jpg"
+  },
+  {
+    "name": "LAL QILA 507 BASMATI 5KG",
+    "price": "€11.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Lal_Qila_Basmati_Rice_5KG-removebg-preview.png"
+  },
+  {
+    "name": "TILDA BASMATI 10KG",
+    "price": "€28.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Tilda Pure Basmati 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/TildaPureBasmati10kg.jpg"
+  },
+  {
+    "name": "TILDA BASMATI 5KG",
+    "price": "€18.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Tilda Pure Basmati 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/TildaPureBasmati5kg.jpg"
+  },
+  {
+    "name": "TILDA BASMATI RICE 1KG",
+    "price": "€5.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/snapshotimagehandler_1678257243.jpeg"
+  },
+  {
+    "name": "TILDA BASMATI RICE 2KG",
+    "price": "€9.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Tilda Pure Basmati 2KG",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/TildaPureBasmati1KG.png"
+  },
+  {
+    "name": "TILDA BASMATI RICE 500GM",
+    "price": "€3.49",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/TILDA-BASMATI-RICE-500GM.jpeg"
+  },
+  {
+    "name": "TILDA COCO CHILLI LEMON RICE 250G",
+    "price": "€2.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/34fbacd3-da26-4a54-b7bf-fb36962b5cb9_1847356733.jpeg"
+  },
+  {
+    "name": "TILDA COCONUT RICE 250G",
+    "price": "€2.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/P2-5011157888316_T1.jpg"
+  },
+  {
+    "name": "TILDA EASY COOK LONG GRAIN 1KG",
+    "price": "€4.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/TILDA-EASY-COOK-LONGRAIN-1KG.jpg"
+  },
+  {
+    "name": "TILDA EASY COOK LONG GRAIN RICE 2KG",
+    "price": "€4.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/TILDA-EASY-COOK-LONGRAIN-1KG.jpg"
+  },
+  {
+    "name": "TILDA FIRECRACKER RICE 250G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/640x640-1.jpg"
+  },
+  {
+    "name": "TILDA GOLDEN SELA RICE 5KG",
+    "price": "€14.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Tilda-Golden-Sella-5kg.jpg"
+  },
+  {
+    "name": "TILDA GRAND EXTRA LONG RICE 5KG",
+    "price": "€18.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/TILDA-GRAND-EXTRALONG-BASMATI-5KG.jpg"
+  },
+  {
+    "name": "TILDA PERI PERI RICE 250G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/0319fb3d-caa7-4cf0-9c88-a01e0202acfd_1327746881.jpeg"
+  }
+]

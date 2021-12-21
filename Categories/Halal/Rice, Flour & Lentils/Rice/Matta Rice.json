@@ -1,0 +1,34 @@
+[
+  {
+    "name": "DOUBLE HORSE MATTA BROKEN RICE 1KG",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/71FJjCSdybL._SL1500_.jpg"
+  },
+  {
+    "name": "MAYIL JEERAKASALA RICE 5KG",
+    "price": "€15.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/IMG_E8885.jpeg"
+  },
+  {
+    "name": "MAYIL MATTA RICE 10KG",
+    "price": "€16.70",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Mayil Matta Rice 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/MayilMattaRice10kg.jpg"
+  },
+  {
+    "name": "MAYIL MATTA RICE 5KG",
+    "price": "€10.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Mayil Matta Rice 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/MayilMattaRice10kg.jpg"
+  }
+]

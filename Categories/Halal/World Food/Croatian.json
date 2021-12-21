@@ -1,0 +1,162 @@
+[
+  {
+    "name": "ARGETA TUNA 95G",
+    "price": "€1.75",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/argetatuna_dcf580dc-1b5a-4875-b5ea-f93eb09c058e_2000x-e1632319369886.jpg"
+  },
+  {
+    "name": "COMPAL TUTTI FRUTTI 200ML",
+    "price": "€1.10",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/509325_5.png"
+  },
+  {
+    "name": "DEL MONTE SPAGHETTI SAUCE FILLIPION 1LT",
+    "price": "€5.49",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/IMG_20191121_173316.jpg"
+  },
+  {
+    "name": "EAST END CORNMEAL COARSE 1.5KG",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/2915_4.jpeg"
+  },
+  {
+    "name": "ELLEDI ORANGE WAFERS",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/resize.webp"
+  },
+  {
+    "name": "FRANCK INSTANT POLENTA 450G",
+    "price": "€1.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Frank-Polenta-500gm.jpg"
+  },
+  {
+    "name": "GRAND GOLD COFFEE 500G",
+    "price": "€5.70",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/80200-B.jpg"
+  },
+  {
+    "name": "IWISA MAIZE MEAL 5KG",
+    "price": "€9.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/iwisa-maize-meal-5kg.jpg"
+  },
+  {
+    "name": "JADRO WAFFEL ORIGINAL 430G",
+    "price": "€3.10",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/3108_0.jpg"
+  },
+  {
+    "name": "KELMENDI CARAMEL SAUCE 400G",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/4260505993139.jpg"
+  },
+  {
+    "name": "KELMENDI LUTENICA 550G",
+    "price": "€3.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/KELMENDI-LUTENICA-550G.jpg"
+  },
+  {
+    "name": "KRAS BAJADERA BONBONS 200GM",
+    "price": "€5.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/BAJADERA-BONBONS-200-G-1.jpg"
+  },
+  {
+    "name": "KRAS BANANKO 30GM",
+    "price": "€0.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/KRAS-BANANKO-30G.png"
+  },
+  {
+    "name": "KRAS CHOCOLATE CREAM NAPOLITANKE  840GM",
+    "price": "€5.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/NAPOLITANKE-840.jpg"
+  },
+  {
+    "name": "KRAS NOUGAT NAPOLITANKE  330GM",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/IMG_1447-1.99-1lb.jpg"
+  },
+  {
+    "name": "LAGO HAZELNUT WAFER",
+    "price": "€2.97",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/83f007618f72f78a6d99c0d6e59b517e634f9dcf.jpg"
+  },
+  {
+    "name": "MABEL COCONUT BISCUIT 350GM",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/mabel-rosquinha-de-coco-400g-w400-h400.png"
+  },
+  {
+    "name": "PODRAVKA AJVAR HOT 690GM",
+    "price": "€3.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/PODRAVKA-AJVAR-HOT-690GM.jpeg"
+  },
+  {
+    "name": "PODRAVKA CHICKEN PASTE 135GM",
+    "price": "€1.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/PODRAVKA-CHICKEN-PASTE-135GM.jpg"
+  },
+  {
+    "name": "ULKER BISKREM EXTRA 230G",
+    "price": "€1.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/biskrem-extra.jpg"
+  }
+]

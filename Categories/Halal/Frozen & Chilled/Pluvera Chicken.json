@@ -1,0 +1,29 @@
+[{
+    "name": "GOAT MEAT 1KG",
+    "price": "€9.00",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Goat-Meat-1kg.png"
+}, {
+    "name": "PLUVERA 1100GM",
+    "price": "€3.25",
+    "outOfStock": false,
+    "shortDescription": "Pluvera Chicken 1100gm",
+    "description": "Pluvera Chicken 1100gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Pluvera_Chicken_1100gm.jpg"
+}, {
+    "name": "PLUVERA 1300GM",
+    "price": "€3.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/PLUVERA-1300GM-X-10.jpg"
+}, {
+    "name": "PLUVERA HEN LEGS CUT 2KG",
+    "price": "€6.95",
+    "outOfStock": false,
+    "shortDescription": "Pluvera Chicken Legs Cut 2kg",
+    "description": "Pluvera Chicken Legs Cut 2kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Pluvera_Chicken_Legs_Cut_2kg.jpg"
+}]

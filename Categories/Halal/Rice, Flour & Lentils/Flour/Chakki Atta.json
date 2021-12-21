@@ -1,0 +1,127 @@
+[{
+    "name": "AASHIRVAAD  ATTA 10KG",
+    "price": "€16.99",
+    "outOfStock": false,
+    "shortDescription": "Ashirvaad Chakki Atta 10kg",
+    "description": "Ashirvaad Chakki Atta 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Ashirvaad_Chakki_Atta_10kg.jpg"
+}, {
+    "name": "AASHIRVAAD ATTA 5KG",
+    "price": "€10.95",
+    "outOfStock": false,
+    "shortDescription": "Ashirvaad Chakki Atta 5kg",
+    "description": "Ashirvaad Chakki Atta 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Ashirvaad_Chakki_Atta_10kg.jpg"
+}, {
+    "name": "AASHIRVAAD MULTIGRAIN ATTA 10KG",
+    "price": "€19.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/Aashirvaad-Multigrain-Atta-5-kg.jpg"
+}, {
+    "name": "AASHIRVAAD MULTIGRAIN ATTA 5KG",
+    "price": "€13.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Aashirvaad-Multigrain-Atta-5-kg.jpg"
+}, {
+    "name": "AASHIRVAAD SELECT 10KG",
+    "price": "€18.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/08/813vskmZtnL._SL1500_.jpg"
+}, {
+    "name": "ANNAPURNA ATTA 10KG",
+    "price": "€9.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/61CcaCrLFRL._SL1000_.jpg"
+}, {
+    "name": "ANNAPURNA ATTA 5KG",
+    "price": "€9.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/61EA6OdOhqL._SL1000_.jpg"
+}, {
+    "name": "EAST END MULTIGRAIN ATTA 1.5KG",
+    "price": "€4.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/EE-MULTI-GRAIN-FLOUR-1.5kg.jpg"
+}, {
+    "name": "ELEPHANT ATTA MEDIUM 10KG",
+    "price": "€13.95",
+    "outOfStock": true,
+    "shortDescription": "Elephant Atta Medium 10kg",
+    "description": "Elephant Atta Medium 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Elephant_Atta_Medium_10kg.jpg"
+}, {
+    "name": "ELITE CHAKKI ATTA 10KG",
+    "price": "€15.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Elite-Chakki-Atta-10kg.png"
+}, {
+    "name": "ELITE MULTIGRAIN ATTA 5KG",
+    "price": "€11.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Elite-Multigrain-Atta-5kg.png"
+}, {
+    "name": "PILLSBURY CHAKKI  ATTA 2KG",
+    "price": "€5.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Pilsbury-Chakki-Atta-2kg.jpeg"
+}, {
+    "name": "PILLSBURY CHAKKI ATTA 10KG",
+    "price": "€14.95",
+    "outOfStock": false,
+    "shortDescription": "Pillsbury Chakki Atta 10kg",
+    "description": "Pillsbury Chakki Atta 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/PILSBURY-ATTA-5KG.jpg"
+}, {
+    "name": "PILLSBURY CHAKKI ATTA 5KG",
+    "price": "€10.95",
+    "outOfStock": false,
+    "shortDescription": "Pillsbury Chakki Atta 5kg",
+    "description": "Pillsbury Chakki Atta 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/PILSBURY-ATTA-5KG.jpg"
+}, {
+    "name": "PILLSBURY MULTIGRAIN ATTA 5KG",
+    "price": "€12.95",
+    "outOfStock": false,
+    "shortDescription": "Pillsbury Multigrain Atta 5kg",
+    "description": "Pillsbury Multigrain Atta 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/pillsbury-multigrain-atta-5-kg.jpg"
+}, {
+    "name": "SWAAD CHAKKI ATTA 10KG",
+    "price": "€9.95",
+    "outOfStock": false,
+    "shortDescription": "Swaad Chakki Atta 10kg",
+    "description": "Swaad Chakki Atta 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Swaad-1-final.png"
+}, {
+    "name": "SWAAD CHAKKI ATTA 5KG",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "Swaad Chakki Atta 5kg",
+    "description": "Swaad Chakki Atta 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Swaad-3-final.png"
+}, {
+    "name": "SWARNA ATTA 1.8KG",
+    "price": "€4.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Swarna-1.8kg.jpg"
+}]

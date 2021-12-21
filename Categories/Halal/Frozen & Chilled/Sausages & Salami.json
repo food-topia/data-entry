@@ -1,0 +1,78 @@
+[{
+    "name": "CC SLICED SMOCKED CHICKEN 150GM",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/cc-smoked-chicken.jpg"
+}, {
+    "name": "CROWN GREEN CHILLI KEBAB 15 PC",
+    "price": "€11.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/crown-green-chilli-kebab-chicken.png"
+}, {
+    "name": "EMBORG CHK FRANKS HOT 340G",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/EMBORG-CHK-FRANKS-HOT-340G.jpeg"
+}, {
+    "name": "MALEK BEEF SAUSAGES 300GM",
+    "price": "€1.75",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Beef-Sausage.jpg"
+}, {
+    "name": "MALEK CHICKEN SAUSAGES 300GM",
+    "price": "€1.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Raw-Chicken-Sausage.jpg"
+}, {
+    "name": "MALEK CHICKEN SAUSAGES 800G",
+    "price": "€3.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/istockphoto-157640492-612x612-1.jpg"
+}, {
+    "name": "MALEK LAMB SALAMI 450GM",
+    "price": "€1.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/MALEK-LAMB-SALAMI-450GM.jpeg"
+}, {
+    "name": "ROBERT CHI LUNCHEON 340G",
+    "price": "€3.00",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/ROBERT-CHI-LUNCHEON-340G.jpeg"
+}, {
+    "name": "ZAAD BEEF SALAMI 500G",
+    "price": "€1.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/ZAAD-BEEF-SALAMI-500G.png"
+}, {
+    "name": "ZAAD BEEF SAUSAGES 330G",
+    "price": "€1.95",
+    "outOfStock": true,
+    "shortDescription": "Zaad Beef Sausages 330gm ",
+    "description": "Zaad Beef Sausages 330gm ",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/ZAAD-SAUSAGE-BEEF-330gm.jpg"
+}, {
+    "name": "ZAAD CHICKEN SAUSAGES 330G",
+    "price": "€1.95",
+    "outOfStock": true,
+    "shortDescription": "Zaad Chicken Sausages 330gm",
+    "description": "Zaad Chicken Sausages 330gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Zaad_Chicken_Sausage_330gm.jpg"
+}]

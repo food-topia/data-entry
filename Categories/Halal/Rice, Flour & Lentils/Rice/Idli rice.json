@@ -1,0 +1,42 @@
+[
+  {
+    "name": "DD IDLI 454G",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Idli-Dd-664648220062-545243230-1.jpg"
+  },
+  {
+    "name": "DH IDLY RICE 5KG",
+    "price": "€10.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/DoubleHorse-Idly-Rice5kg_1024x1024.jpg"
+  },
+  {
+    "name": "EAST END PUDDING RICE 2KG",
+    "price": "€6.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/12/51V3uKQiMtL._AC_.jpg"
+  },
+  {
+    "name": "HEERA IDLI RICE 2KG",
+    "price": "€6.20",
+    "outOfStock": false,
+    "shortDescription": "Heera Idli Rice 2kg",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Idli_Rice_2kg.jpg"
+  },
+  {
+    "name": "MTR RICE IDLI MIX 500G",
+    "price": "€2.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/RiceIdli-500g-front_900x.png"
+  }
+]

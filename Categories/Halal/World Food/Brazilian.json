@@ -1,0 +1,506 @@
+[
+  {
+    "name": "AMAFIL FAROFA DE MANDIOCA TRADITIONAL 500G",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/farofa-pronta-de-mandioca-tradicional-amafil-500g.jpg"
+  },
+  {
+    "name": "AMAFIL PAO DE QUEIJO 1 KG",
+    "price": "€5.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Pao-de-Queijo-1kg_.jpg"
+  },
+  {
+    "name": "AMAFIL PAO DE QUEIJO 500GM",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/AMAFIL-PAO-DE-QUEIJO-500GM.png"
+  },
+  {
+    "name": "AMAFIL POLVILHO AZEDO 500G",
+    "price": "€3.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/AMAFIL-POLVILHO-AZEDO-500G-1.jpg"
+  },
+  {
+    "name": "AMAFIL POLVILHO DOCE 500GM",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/AMAFIL-POLVILHO-DOCE-500GM.png"
+  },
+  {
+    "name": "AMAFIL TAPIOCA MEDIA 500GM",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/AMAFIL-TAPIOCA-MEDIA-500GM.jpg"
+  },
+  {
+    "name": "ANTARCTICA GUARANA 1.5LTR",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "Guarana Antarctica 1.5ltr",
+    "description": "Guarana Antarctica 1.5ltr",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/guarana-antarctica-1.5ltr.png"
+  },
+  {
+    "name": "BARAO TERERE TRADICIONAL 500GM",
+    "price": "€4.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/BARAO-TERERE-TRADICIONAL-500GM.jpg"
+  },
+  {
+    "name": "BEIJU BOM TAPIOCA 500 GM",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/BEIJU-BOM-TAPIOCA-500-GM.jpeg"
+  },
+  {
+    "name": "BUENAS GRATED CASSAVA 454G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/BUENAS-GRATED-CASSAVA-454G.jpg"
+  },
+  {
+    "name": "Camil Beans Carioquinha (Feijão Seco) 1kg",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "Camil Beans Carioquinha (Feijão Seco) 1kg",
+    "description": "Camil Beans Carioquinha (Feijão Seco) 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Camil-RoseCoco-Beans-1kg.png"
+  },
+  {
+    "name": "Camil Black Beans (Feijão Preto) 1kg",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "Camil Black Beans (Feijão Preto) 1kg",
+    "description": "Camil Black Beans (Feijão Preto) 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Camil-Black-Beans-1kg.png"
+  },
+  {
+    "name": "CAMIL WHITE RICE 1KG",
+    "price": "€2.60",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/arroz-camil-branco-tipo-1-1kg-x-1.jpg"
+  },
+  {
+    "name": "CHUPA CHUPS GRAPE SODA 330ML",
+    "price": "€1.75",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/chupa-chups-grape-sparkling-330ml_1024x.jpg"
+  },
+  {
+    "name": "COMPAL ERVILHAS CENOURA",
+    "price": "€1.80",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/05218024200257____1__600x600.jpg"
+  },
+  {
+    "name": "COMPAL FRADE LATA",
+    "price": "€1.30",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/1353594645-595x595-1.jpg"
+  },
+  {
+    "name": "COMPAL LARANJA 200ML",
+    "price": "€1.10",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/509323_5.png"
+  },
+  {
+    "name": "COMPAL MANGA 200ML",
+    "price": "€1.20",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/compal-nectar-mango-colombian-btl-200ml_w400_h400.jpg"
+  },
+  {
+    "name": "COMPAL TOMATE TRITURADO 500G",
+    "price": "€1.65",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/05218055300836____1__600x600.jpg"
+  },
+  {
+    "name": "COMPAL TOMATO PULP",
+    "price": "€0.70",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/tomato-pulp-compal-tetra-pack-210g.jpg"
+  },
+  {
+    "name": "COMPAL TOMATO TUBE 140GM",
+    "price": "€1.30",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Tube-of-Tomato-Paste-Compal.jpg"
+  },
+  {
+    "name": "COMPAL TUTTI FRUTTI 200ML",
+    "price": "€1.10",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/509325_5.png"
+  },
+  {
+    "name": "DD TAPIOCA SLICED 908G",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "Daily Delight Tapioca Sliced 908gm",
+    "description": "Daily Delight Tapioca Sliced 908gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Daily_Delight_Tapioca_Sliced_908gm.jpg"
+  },
+  {
+    "name": "DD TAPIOCA WHOLE 908GM",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "Daily Delight Tapioca Whole 908gm",
+    "description": "Daily Delight Tapioca Whole 908gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Daily_Delight_Tapioca_Whole_908gm.jpg"
+  },
+  {
+    "name": "DEL MONTE SPAGHETTI SAUCE FILLIPION 1LT",
+    "price": "€5.49",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/IMG_20191121_173316.jpg"
+  },
+  {
+    "name": "DIAMIR PALM HEARTS 800GM",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Diamir-Palm-hearts-800gm.jpg"
+  },
+  {
+    "name": "DONA BENTA BAUNILHA 450GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/jmacedo-dona-benta-mistura-para-bolo-baunilha-450G.jpg"
+  },
+  {
+    "name": "DONA BENTA BOLO COCO 450GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/jmacedo-dona-benta-mistura-para-bolo-coco-450G.jpg"
+  },
+  {
+    "name": "DONA BENTA CENOURA 450GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/jmacedo-dona-benta-mistura-para-bolo-cenoura.jpg"
+  },
+  {
+    "name": "DONA BENTA CHOCOLATE 450GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/jmacedo-dona-benta-mistura-para-bolo-chocolate-450G.jpg"
+  },
+  {
+    "name": "DONA BENTA FESTA 450GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/jmacedo-dona-benta-mistura-para-bolo-festa-450G.jpg"
+  },
+  {
+    "name": "EAST END CORNMEAL COARSE 1.5KG",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/2915_4.jpeg"
+  },
+  {
+    "name": "FRANCK INSTANT POLENTA 450G",
+    "price": "€1.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Frank-Polenta-500gm.jpg"
+  },
+  {
+    "name": "FRUTABELLA BANANADA 30GM",
+    "price": "€0.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/FRUTABELLA-BANANADA-30GM.jpg"
+  },
+  {
+    "name": "GELEIA GOIABA SENNINHA COPO",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/l-005d0f06f82e48c2bef54ad8b88e8270.jpeg"
+  },
+  {
+    "name": "GINA CALAMANSI JUICE 250ML",
+    "price": "€1.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/GINA-CALAMANSI-JUICE-250ML.jpg"
+  },
+  {
+    "name": "GINA GUAVA 240 ML",
+    "price": "€1.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/IMG_E6998_250x250@2x.jpg"
+  },
+  {
+    "name": "GINA GUYABANO 240ML",
+    "price": "€1.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/gina-guyabano-nectar-240ml-1006-p.jpg"
+  },
+  {
+    "name": "GOMETS MORANGO",
+    "price": "€0.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Gomets-Morango.jpg"
+  },
+  {
+    "name": "GUARANA 330ML",
+    "price": "€1.25",
+    "outOfStock": true,
+    "shortDescription": "Guarana Antartica 330ml",
+    "description": "Guarana Antartica 330ml",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/guarana-antarctica-330ml.jpg"
+  },
+  {
+    "name": "HARINA PAN ORANGE 1KG",
+    "price": "€3.30",
+    "outOfStock": false,
+    "shortDescription": "Pan Orange Corn Flour 1kg",
+    "description": "Pan Orange Corn Flour 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/PanHarinaOrange.png"
+  },
+  {
+    "name": "HARINA PAN YELLOW 1KG",
+    "price": "€3.30",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/panharina.png"
+  },
+  {
+    "name": "IWISA MAIZE MEAL 5KG",
+    "price": "€9.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/iwisa-maize-meal-5kg.jpg"
+  },
+  {
+    "name": "MABEL COCONUT BISCUIT 350GM",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/mabel-rosquinha-de-coco-400g-w400-h400.png"
+  },
+  {
+    "name": "MAGUARY GOIABA  500ML",
+    "price": "€2.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/maguary_concentrados_goiaba_500ml.png"
+  },
+  {
+    "name": "MAGUARY PASSION FRUIT 500ML",
+    "price": "€4.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/maguary_concentrados_maracuja_500ml.png"
+  },
+  {
+    "name": "NISSIN CALDO DE FEIJAO 90GM",
+    "price": "€1.35",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/nissin-caldo-feijao-chico-bento.png"
+  },
+  {
+    "name": "NISSIN HOT CALABRESA 90GM",
+    "price": "€1.35",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/nissin-hot-calabresa.png"
+  },
+  {
+    "name": "NISSIN SABOR CARNE 80GM",
+    "price": "€1.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/NISSIN-SABOR-CARNE-80GM.jpeg"
+  },
+  {
+    "name": "PACOCA ROLHA MORENINHA 300GM",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/pacoca-1_grande.jpg"
+  },
+  {
+    "name": "Pan Yellow Corn Flour 1kg",
+    "price": "€3.30",
+    "outOfStock": false,
+    "shortDescription": "Pan Yellow Corn Flour 1kg",
+    "description": "Pan Yellow Corn Flour 1kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/panharina.png"
+  },
+  {
+    "name": "PILAO COFFEE 250GM",
+    "price": "€4.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/cafe-pilao-250gm.jpg"
+  },
+  {
+    "name": "RENATA CAKE MIX VANILLA 400GM",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/RENATA-VANILLA-CAKEMIX.jpg"
+  },
+  {
+    "name": "RIO PACOCA ROLHA MORENINHA 300G",
+    "price": "€3.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/PACOCA-MORENINHA-DO-RIO-300G.jpg"
+  },
+  {
+    "name": "SAZON ARROZ",
+    "price": "€1.60",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/672933.jpg"
+  },
+  {
+    "name": "SINHA PREMIUM POLENTA 500GM",
+    "price": "€1.75",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/farinha-de-milho-polenta-sinha-pacote-500g_9409.jpg"
+  },
+  {
+    "name": "SOCOCO LEITE DE COCO 200ML",
+    "price": "€2.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/SOCOCO-LEITE-DE-COCO-200ML.jpg"
+  },
+  {
+    "name": "TANG GOIABA",
+    "price": "€1.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/51bVum4Hk3L.jpg"
+  },
+  {
+    "name": "TANG MANGA",
+    "price": "€1.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/519-38czENL.jpg"
+  },
+  {
+    "name": "TANG MORANGO EM",
+    "price": "€1.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/61v5PNu6FFL._SX679_.jpg"
+  },
+  {
+    "name": "VERHINHA PACOCA ROLHA 210GM",
+    "price": "€3.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/VERHINHA-PACOCA-ROLHA-210GM.jpg"
+  },
+  {
+    "name": "YOKI FLOCAO 500GM",
+    "price": "€2.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/YOKI-FLOCAO-500GM.png"
+  },
+  {
+    "name": "YOKI PAO DE QUEIJO 250G",
+    "price": "€4.70",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/YOKI-PAO-DE-QUEIJO-250G.jpg"
+  }
+]

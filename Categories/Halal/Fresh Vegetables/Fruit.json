@@ -1,0 +1,36 @@
+[{
+    "name": "FRESH POMEGRANATE -ANAR",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Pomegranate (Single Piece)",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Pomegranate.png"
+}, {
+    "name": "FRESH SHARRON FRUIT",
+    "price": "€1.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/product-packshot-Persimmon.jpg"
+}, {
+    "name": "FRUIT PAPAYA",
+    "price": "€6.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Fruit Papaya (Single Piece)",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_FruitPapaya.png"
+}, {
+    "name": "PERU MANGO",
+    "price": "€5.00",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/H73ff4135ec224ac9a6d0ac24e63cf877R.jpeg"
+}, {
+    "name": "VE GUAVA",
+    "price": "€1.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Guava (Single Piece)",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/FreshVegetable_Guava.png"
+}]

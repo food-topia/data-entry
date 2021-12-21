@@ -1,0 +1,218 @@
+[{
+    "name": "DD CABBAGE VADA 300G",
+    "price": "€3.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/Cabbage-Vada-2048x1412-1.jpg"
+}, {
+    "name": "DD PALAPPAM 227GM",
+    "price": "€2.75",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/large-ddpalappam8oz-600x442-1.jpg"
+}, {
+    "name": "HALDIRAM  B1G1 KADHI PAKODA 300G",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "Haldirams Kadhi Pakora But 1 Get 1 Free",
+    "description": "Haldirams Kadhi Pakora But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Kadhi-Pakoda.jpg"
+}, {
+    "name": "HALDIRAM  B1G1 MUTTER PANEER",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HALDIRAM-B1G1-MUTTER-PANEER.jpeg"
+}, {
+    "name": "HALDIRAM  B1G1 TARKA DAL",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldirams-Dal-Tadka.jpg"
+}, {
+    "name": "HALDIRAM B1G1 ALOO MUTTER",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Haldirams Aloo Mutter But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Aloo-Mattar.jpg"
+}, {
+    "name": "HALDIRAM B1G1 CHOLEY 300",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "Haldirams Dilli Style Cholley But 1 Get 1 Free",
+    "description": "Haldirams Dilli Style Cholley But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Dilli-Style-Choley.jpg"
+}, {
+    "name": "HALDIRAM B1G1 DAL MAKHANI 300G",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HALDIRAM-B1G1-DAL-MAKHANI-300G.jpeg"
+}, {
+    "name": "HALDIRAM B1G1 DAL PALAK",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "Haldirams Dal Palak But 1 Get 1 Free",
+    "description": "Haldirams Dal Palak But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Dal-Palak.jpg"
+}, {
+    "name": "HALDIRAM B1G1 DAL TADKA",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "Haldirams Dal Tadka But 1 Get 1 Free",
+    "description": "Haldirams Dal Tadka But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Dal-Tadka.jpg"
+}, {
+    "name": "HALDIRAM B1G1 PALAK PANEER",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HALDIRAM-B1G1-PALAK-PANEER.jpeg"
+}, {
+    "name": "HALDIRAM B1G1 PAO BHAJI",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "Haldirams Pao Bhaji But 1 Get 1 Free",
+    "description": "Haldirams Pao Bhaji But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Pao-Bhaji.jpg"
+}, {
+    "name": "HALDIRAM B1G1 RAJMAH RASEELA",
+    "price": "€3.99",
+    "outOfStock": true,
+    "shortDescription": "Haldirams Rajma Raseela But 1 Get 1 Free",
+    "description": "Haldirams Rajma Raseela But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Rajma-Raseela.jpg"
+}, {
+    "name": "HALDIRAM DAL MAKHANI 283GM",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Haldirams Dal Makhni But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Dal-Makhani.jpg"
+}, {
+    "name": "HALDIRAM KADHAI PANEER 283G",
+    "price": "€4.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/6737.jpeg"
+}, {
+    "name": "HALDIRAM KADHI PAKODA",
+    "price": "€2.00",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/kadhi_pakoda_front.jpg"
+}, {
+    "name": "HALDIRAM MUTTER PANEER",
+    "price": "€4.95",
+    "outOfStock": false,
+    "shortDescription": "Haldirams Mutter Paneer But 1 Get 1 Free",
+    "description": "Haldirams Mutter Paneer But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Mutter-Paneer.jpg"
+}, {
+    "name": "HALDIRAM PALAK PANEER COMBO PACK",
+    "price": "€4.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/PALAK_PANEER2.png"
+}, {
+    "name": "HALDIRAM PANEER MAKHANI 283GM",
+    "price": "€4.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Haldiram-paneer-makhani-283-gm-1.jpg"
+}, {
+    "name": "HARISSA TIN 135G",
+    "price": "€1.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Harissa-Tunisia-Tin-135g-550x550-1.jpg"
+}, {
+    "name": "HEERA PANEER TIKKA MASALA 450G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HEERA-PANEER-TIKKA-MASALA-450G.jpeg"
+}, {
+    "name": "HEERA PATRA CURRIED 350GM",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/HEERA-PATRA-CURRIED-350GM.jpg"
+}, {
+    "name": "HEERA SARSON DA SAAG 450G",
+    "price": "€1.65",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/file.png"
+}, {
+    "name": "MAGIC TASTE CHICKEN BIRYANI",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/Untitleddesign_13_1024x-e1632220037188.jpg"
+}, {
+    "name": "MITCHELL CHANNA DAL 420G",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/8b7e5459a50d6e7a98b5156ab898976a.jpg"
+}, {
+    "name": "MITCHELL KARI PAKORA 420G",
+    "price": "€2.35",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/2ba57e074ee9c8dc97b65289f982a6f8dae4155d.jpg"
+}, {
+    "name": "MITCHELL’S SARSON KA SAAG 425G",
+    "price": "€1.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/Mitchells-Sarson-Saag-425gm.png"
+}, {
+    "name": "MITCHELL’S SARSON KA SAAG 800G",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/DSC03608__49405.1391603792.1280.1280.jpeg"
+}, {
+    "name": "MP GREEN CURRY PASTE 400GM",
+    "price": "€4.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/MPGreenCurry.jpg"
+}, {
+    "name": "MTR B1G1 PANEER MAKHANI",
+    "price": "€3.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "Haldirams Paneer Makhani But 1 Get 1 Free",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/09/Haldirams-Paneer-Makhani.jpg"
+}, {
+    "name": "PRIYA MANGO DAL B1G1",
+    "price": "€2.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/PRIYA-MANGO-DAL-B1G1.jpeg"
+}]

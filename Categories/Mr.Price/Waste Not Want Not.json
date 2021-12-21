@@ -1,19 +1,30 @@
-[{
-    "name": "CHEF KUO SWEET CHILLI SAUCE 500G",
-    "pageUrl": "https://www.mrpriceonline.ie/product/chef-kuo-sweet-chilli-sauce-500g/",
-    "price": "€1.79",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/10/CHEF-KUO-NEW.jpg"
-}, {
+[
+  {
+    "name": "BAKE ROLLS 160G",
+    "pageUrl": "https://www.mrpriceonline.ie/product/bake-rolls-160g/",
+    "price": "€1.49",
+    "description": "Price including VATThe Lowdown – This product is FREE to add to your basket as it’s just reached it’s best before date END OF NOV 21.To avoid throwing all of the products into landfill and contributing to global warming, we’ve decided to give this product away for free and we hope you still love it as much as we do! MrPRICE ending needless waste.",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/MicrosoftTeams-image-64.png"
+  },
+  {
+    "name": "FAKEAWAY KEBAB FLAVOUR SAUCE 425ML",
+    "pageUrl": "https://www.mrpriceonline.ie/product/fakeaway-kebab-flavour-sauce-425ml/",
+    "price": "€2.49",
+    "description": "The Lowdown – This product is FREE to add to your basket as it’s just reached it’s best before date END OF NOV 21.To avoid throwing all of the products into landfill and contributing to global warming, we’ve decided to give this product away for free and we hope you still love it as much as we do! MrPRICE ending needless waste.GLUTEN FREE.",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/kebab-fakeaway-sauce.jpg"
+  },
+  {
     "name": "GRAZE NUTS & VEGGIE BOX",
     "pageUrl": "https://www.mrpriceonline.ie/product/graze-nuts-veggie-box/",
-    "price": "€1.29",
+    "price": "€0.65",
     "description": "Price including VATSmokehouse 32gSweet & Salty 30gSalt & Pepper 28g",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/06/Graze-Salt-and-Pepper-Nuts-and-Veggies-28g.jpg"
-}, {
+  },
+  {
     "name": "PRINGLES 200g",
     "pageUrl": "https://www.mrpriceonline.ie/product/pringles/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/11/pringles-sv.jpg"
-}]
+  }
+]

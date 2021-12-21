@@ -1,421 +1,471 @@
-[{
+[
+  {
     "name": "ABC FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/abc-fun-educational-pad/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/ABC-FUN-PAD.jpg"
-}, {
+  },
+  {
     "name": "ANIMALS OF THE OCEAN BOOK & PUZZLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/animals-of-the-ocean-book-puzzle/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/ANIMALS-OF-THE-OCEAN.jpg"
-}, {
+  },
+  {
     "name": "ANIMALS OF THE WORLD BOOK & PUZZLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/animals-of-the-world-book-puzzle/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/ANIMALS-OF-THE-WORLD-1.jpg"
-}, {
-    "name": "ARTS & CRAFTS BUNDLE",
-    "pageUrl": "https://www.mrpriceonline.ie/product/arts-crafts-bundle/",
-    "price": "€15.99",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/07/arts-crafts-bundle-update-2-2.jpg"
-}, {
+  },
+  {
     "name": "BONBON SASKIA WOOL",
     "pageUrl": "https://www.mrpriceonline.ie/product/bonbon-saskia-wool/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/BONBON-SASKIA-CREAM-PINK-1.png"
-}, {
-    "name": "CHRISTMAS COLOURING BOOK",
-    "pageUrl": "https://www.mrpriceonline.ie/product/christmas-colouring-book/",
-    "price": "€1.49",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/12/christmas-colouring-book.jpg"
-}, {
+  },
+  {
     "name": "CLEVER KIDZ PEG BOARDS 5PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/clever-kidz-peg-boards-5pk/",
     "price": "€7.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/peg-board.jpg"
-}, {
+  },
+  {
     "name": "CLICK JIGSAW 500PCS",
     "pageUrl": "https://www.mrpriceonline.ie/product/click-jigsaw-500pcs/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/Click-Jigsaw-500pc.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Artist Pad",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-artist-pad/",
     "price": "€4.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-artist-pad.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Colouring Book (ABC)",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-colouring-book-abc/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-abc-colouring-book.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Colouring Book 2",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-colouring-book-2/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/COCOMELON-COLOURING-BOOK.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Colouring Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-colouring-set/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-colouring-set-1.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Copy Colouring Book",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-copy-colouring-book/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-copy-colour-book-updated.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Scratch Art Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-scratch-art-set/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-scratch-art-set.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Sticker Activity Book",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-sticker-activity-book/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-sticker-activity-book.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Sticker Book",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-sticker-book/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/COCOMELON-STICKER-BOOK.jpg"
-}, {
+  },
+  {
     "name": "Cocomelon Sticker Book 2",
     "pageUrl": "https://www.mrpriceonline.ie/product/cocomelon-sticker-book-2/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/cocomelon-sticker-book-2.jpg"
-}, {
+  },
+  {
     "name": "COLOUR, CUT & PASTE FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/colour-cut-paste-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-COLOUR-CUT-PASTE.jpg"
-}, {
+  },
+  {
     "name": "CRA-Z-JEWELS ULTIMATE GEM MACHINE",
     "pageUrl": "https://www.mrpriceonline.ie/product/cra-z-jewels-ultimate-gem-machine/",
     "price": "€12.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/CRAZJEWELZ-ULTIMATE-GEM-MACHINE.jpg"
-}, {
+  },
+  {
     "name": "CRAFTY BITZ 4-IN-1 CRAFT PACK",
     "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-4-in-1-craft-pack/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/4-IN-1-CRAFT.jpg"
-}, {
+  },
+  {
+    "name": "CRAFTY BITZ LINKING CUBES 100PK",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-linking-cubes-100pk/",
+    "price": "€9.99",
+    "description": "",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/linking-cubes.jpg"
+  },
+  {
     "name": "CRAFTY BITZ MASK DECORATION KIT",
     "pageUrl": "https://www.mrpriceonline.ie/product/crafty-bitz-mask-decoration-kit/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/MASK-KIT.jpg"
-}, {
+  },
+  {
     "name": "CRAYOLA ANIMAL COLLAGE",
     "pageUrl": "https://www.mrpriceonline.ie/product/crayola-animal-collage/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/crayola_animal_collage-CAT-DOG.jpg"
-}, {
+  },
+  {
+    "name": "CRAYOLA FOAM BOAT KIT",
+    "pageUrl": "https://www.mrpriceonline.ie/product/crayola-foam-boat-kit/",
+    "price": "€1.49",
+    "description": "",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/crayola_foam_boat.jpg"
+  },
+  {
     "name": "CRAYOLA MOSAIC MERMAID KIT",
     "pageUrl": "https://www.mrpriceonline.ie/product/crayola-mosaic-mermaid-kit/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/MicrosoftTeams-image-225.png"
-}, {
+  },
+  {
     "name": "DINOSAURS OF THE WORLD BOOK & PUZZLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/dinosaurs-of-the-world-book-puzzle/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/DINOSAURS-OF-THE-WORLD-2.jpg"
-}, {
+  },
+  {
     "name": "EARLY LEARNING WALL CHARTS",
     "pageUrl": "https://www.mrpriceonline.ie/product/early-learning-wall-charts/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/WHIZ-KIDZ-EARLY-LEARNING-WALL-CHARTS.jpg"
-}, {
+  },
+  {
     "name": "HANDWRITING FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/handwriting-fun-educational-pad/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-SMALL-PAD-HANDWRITING.jpg"
-}, {
+  },
+  {
     "name": "HARRY POTTER SCRATCH ART SET 3 PACK",
     "pageUrl": "https://www.mrpriceonline.ie/product/harry-potter-scratch-art-set-3-pack/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/HARRY-POTTER-SCRATCH-ART-SET.jpg"
-}, {
+  },
+  {
     "name": "KIDZ KOLOURING BUNDLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/kidz-kolouring-bundle/",
     "price": "€17.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/06/mrprice-kidz-kolouring-bundle-update-1.jpg"
-}, {
+  },
+  {
     "name": "KINDERGARTEN ACTIVITY CASE",
     "pageUrl": "https://www.mrpriceonline.ie/product/kindergarten-activity-case/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-ACTIVITY-CASE-KINDERGARDEN.jpg"
-}, {
+  },
+  {
     "name": "LEARN TO WRITE FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/learn-to-write-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LEARN-TO-WRITE-FUN-EDUCATIONAL-BOOK.jpg"
-}, {
+  },
+  {
     "name": "LEARNING FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/learning-fun-educational-pad/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/LITTLE-GENIUS-LEARNING-PAD.jpg"
-}, {
+  },
+  {
+    "name": "MAKE YOUR OWN PARTY HAT",
+    "pageUrl": "https://www.mrpriceonline.ie/product/make-your-own-party-hat/",
+    "price": "€0.99",
+    "description": "Price including VAT",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/halloween-hat.jpg"
+  },
+  {
     "name": "MATHS – FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/maths-fun-educational-pad/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/10/little-genius-maths-pad.jpg"
-}, {
+  },
+  {
     "name": "MAZES FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/mazes-fun-educational-pad/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-MAZES-SMALL-PAD.jpg"
-}, {
-    "name": "MOODY FACES STRESS BALL",
-    "pageUrl": "https://www.mrpriceonline.ie/product/moody-faces-stress-ball/",
-    "price": "€1.49",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/Moody-Faces-Stress-Ball.jpg"
-}, {
+  },
+  {
     "name": "NUMBERS – MAGNETIC BOARD & MAGNETS",
     "pageUrl": "https://www.mrpriceonline.ie/product/numbers-magnetic-board-magnets/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/9780655216933_afc4c960-461c-44b6-ab94-c1aeaa592523_grande.jpg"
-}, {
+  },
+  {
     "name": "NURSERY FUN – PUZZLE BOX",
     "pageUrl": "https://www.mrpriceonline.ie/product/nursery-fun-puzzle-box/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/10/nursery-fun.jpg"
-}, {
-    "name": "Paw Patrol Colouring Set",
-    "pageUrl": "https://www.mrpriceonline.ie/product/paw-patrol-colouring-set/",
-    "price": "€1.49",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/PAW-PATROL-COLOURING-SET.jpg"
-}, {
+  },
+  {
     "name": "Paw Patrol Painting Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/paw-patrol-painting-set/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/PAW-PATROL-PAINTING-SET.jpg"
-}, {
+  },
+  {
     "name": "Paw Patrol Sticker Fun",
     "pageUrl": "https://www.mrpriceonline.ie/product/paw-patrol-sticker-fun/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/PAW-PATROL-STICKER-FUN.jpg"
-}, {
+  },
+  {
     "name": "PEGS 1000PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/pegs-1000pk/",
     "price": "€7.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/pegs.jpg"
-}, {
+  },
+  {
     "name": "PHONICS – GIANT FLASHCARDS",
     "pageUrl": "https://www.mrpriceonline.ie/product/phonics-giant-flashcards/",
     "price": "€4.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/10/phonics-flash-cards-1.jpg"
-}, {
+  },
+  {
     "name": "PLAY & LEARN FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/play-learn-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/play-and-learn.jpg"
-}, {
+  },
+  {
     "name": "PRESCHOOL ACTIVITY CASE",
     "pageUrl": "https://www.mrpriceonline.ie/product/preschool-activity-case/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-ACTIVITY-CASE-PRESCHOOL.jpg"
-}, {
+  },
+  {
     "name": "PRESCHOOL FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/preschool-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-MEGA-PAD-PRESCHOOL.jpg"
-}, {
+  },
+  {
     "name": "PRESCHOOL FUN PUZZLE BOX",
     "pageUrl": "https://www.mrpriceonline.ie/product/preschool-fun-puzzle-box/",
     "price": "€6.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/PRESCHOOL-FUN-PUZZLE-BOX.jpg"
-}, {
+  },
+  {
     "name": "PRIMARY SCHOOL WALL CHARTS",
     "pageUrl": "https://www.mrpriceonline.ie/product/primary-school-wall-charts/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/WHIZ-KIDS-PRIMARY-SCHOOL-WALL-CHARTS.jpg"
-}, {
+  },
+  {
     "name": "READING & WRITING FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/reading-writing-fun-educational-pad/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-READING-WRITING-PAD.jpg"
-}, {
-    "name": "SPARKLE N’ SHARE BEST FRIEND BAGS",
-    "pageUrl": "https://www.mrpriceonline.ie/product/sparkle-n-share-best-friend-bags/",
-    "price": "€4.99",
-    "description": "Price including VAT",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/sparkle-n-share-best-Friend-bags.jpg"
-}, {
+  },
+  {
     "name": "SQUISHY SAND",
     "pageUrl": "https://www.mrpriceonline.ie/product/squishy-sand/",
     "price": "€3.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/squishy-sand-2.jpg"
-}, {
+  },
+  {
     "name": "STARTING SCHOOL ACTIVITY CASE",
     "pageUrl": "https://www.mrpriceonline.ie/product/starting-school-activity-case/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-ACTIVITY-CASE-STARTING-SCHOOL.jpg"
-}, {
+  },
+  {
     "name": "STARTING SCHOOL FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/starting-school-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/little-Genius-starting-school-mega-pad.jpg"
-}, {
+  },
+  {
     "name": "STARTING SCHOOL PUZZLE BOX",
     "pageUrl": "https://www.mrpriceonline.ie/product/starting-school-puzzle-box/",
     "price": "€6.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/little-genius-starting-school-puzzle.jpg"
-}, {
+  },
+  {
     "name": "STARTING TO WRITE – FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/starting-to-write-fun-educational-pad/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/10/little-genius-starting-to-write-pad.jpg"
-}, {
+  },
+  {
     "name": "TEACHER’S AID LEARN TO WRITE WHITEBOARD",
     "pageUrl": "https://www.mrpriceonline.ie/product/teachers-aid-learn-to-write-whiteboard/",
     "price": "€4.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/learn-to-write-whiteboard.jpg"
-}, {
+  },
+  {
     "name": "THE ALPHABET- MAGNETIC BOARD & MAGNETS",
     "pageUrl": "https://www.mrpriceonline.ie/product/the-alphabet-magnetic-board-magnets-copy/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-ALPHABET-MAGNETIC-FOLDER.jpg"
-}, {
+  },
+  {
     "name": "TIME, MONEY & FRACTIONS FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/time-money-fractions-fun-educational-pad/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-TIME-MONEY-FRACTION.jpg"
-}, {
+  },
+  {
     "name": "TIMES TABLES FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/times-tables-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/TIMES-TABLES-FUN-EDUCATIONAL-BOOK.jpg"
-}, {
+  },
+  {
     "name": "TIMES TABLES MAGENTIC BOARD & MAGNETS",
     "pageUrl": "https://www.mrpriceonline.ie/product/times-tables-magentic-board-magnets/",
     "price": "€5.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/MAGNETIC-TIMES-TABLES-1.jpg"
-}, {
+  },
+  {
     "name": "TRACE & DRAW FUN EDUCATIONAL BOOK",
     "pageUrl": "https://www.mrpriceonline.ie/product/trace-draw-fun-educational-book/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/little-genius-trace-and-draw.jpg"
-}, {
+  },
+  {
     "name": "WIPE CLEAN ACTIVITY BOOK 14PG – COLOURS",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-clean-activity-book-14pg-colours/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/wipe-clean-shapes.jpg"
-}, {
+  },
+  {
     "name": "WIPE CLEAN ACTIVITY BOOK 14PG – NUMBERS",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-clean-activity-book-14pg-numbers/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/WIPE-CLEAN-NUMBERS.jpg"
-}, {
+  },
+  {
     "name": "WIPE CLEAN ACTIVITY BOOK 22PG – MULTIPLY",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-clean-activity-book-22pg-multiply/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/WIPE-CLEAN-MULTIPLY.jpg"
-}, {
+  },
+  {
     "name": "WIPE CLEAN ACTIVITY BOOK 22PG – SPELL",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-clean-activity-book-22pg-spell/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/wipe-clean-spelling.jpg"
-}, {
+  },
+  {
     "name": "WIPE CLEAN ACTIVITY BOOK 22PG – TIME",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-clean-activity-book-22pg-time/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/WIPE-CLEAN-CLOCK-1.jpg"
-}, {
+  },
+  {
     "name": "WIPE OFF PHRASE STRIPS 30PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/wipe-off-phrase-strips-30pk/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/wipe-off-phrase-colour.jpg"
-}, {
+  },
+  {
     "name": "WORDSEARCH FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/wordsearch-fun-educational-pad/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/LITTLE-GENIUS-WORD-SEARCH.jpg"
-}, {
-    "name": "WORLD OF COLOUR 12 MARLA PLAYCLAY & 3 MOULDS",
-    "pageUrl": "https://www.mrpriceonline.ie/product/world-of-colour-12-marla-playclay-3-moulds/",
-    "price": "€1.49",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/playclay.jpg"
-}, {
+  },
+  {
     "name": "WORLD OF COLOUR ALPHABET COLOURING BOOK 96PG",
     "pageUrl": "https://www.mrpriceonline.ie/product/world-of-colour-alphabet-colouring-book-96pg/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/P3250388_12-600_600.jpg"
-}, {
+  },
+  {
     "name": "WORLD OF COLOUR PLAY DOUGH WITH MOULD LID 4pk",
     "pageUrl": "https://www.mrpriceonline.ie/product/world-of-colour-play-dough-with-mould-lid-4pk/",
     "price": "€3.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/06/World-of-Colour-Play-Dough-with-Mould-Lid-4pk.jpg"
-}, {
+  },
+  {
     "name": "WRITING FUN EDUCATIONAL PAD",
     "pageUrl": "https://www.mrpriceonline.ie/product/writing-fun-educational-pad/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/writing-pad.jpg"
-}]
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "GTD THAI  RICE 25KG",
+    "price": "€46.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "GTD Jasmine Rice 25kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/gtdjasminerice5kg.jpg"
+  },
+  {
+    "name": "GTD THAI RICE 10KG",
+    "price": "€26.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "GTD Jasmine Rice 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/gtdjasminerice5kg.jpg"
+  },
+  {
+    "name": "GTD THAI RICE 2KG",
+    "price": "€5.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/GTD-THAI-RICE-2KG.png"
+  },
+  {
+    "name": "GTD THAI RICE 5KG",
+    "price": "€16.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "GTD Jasmine Rice 5kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/gtdjasminerice5kg.jpg"
+  },
+  {
+    "name": "MAI THAI 20KG",
+    "price": "€35.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/1380937076.jpg"
+  },
+  {
+    "name": "MAI THAI JASMINE 5KG",
+    "price": "€13.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/jasmine.jpg"
+  },
+  {
+    "name": "ROYAL UMBRELLA JASMINE RICE 10KG",
+    "price": "€27.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "Royal Umbrella Jasmine Rice 10kg",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/RedUmbrellaJasmineRice10kg.jpeg"
+  },
+  {
+    "name": "TILDA TERIYAKI RICE 250G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/640x640.jpg"
+  }
+]

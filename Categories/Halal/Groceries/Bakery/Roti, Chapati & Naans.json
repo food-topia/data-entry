@@ -1,0 +1,106 @@
+[{
+    "name": "CHANDNI ROTI BROWN",
+    "price": "€4.25",
+    "outOfStock": false,
+    "shortDescription": "Chandni Roti Brown 18pc",
+    "description": "Chandni Roti Brown 18pc",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/CHANDNI-ROTI-BROWN-18X6PKT.jpg"
+}, {
+    "name": "CHANDNI ROTI PLAIN",
+    "price": "€4.25",
+    "outOfStock": false,
+    "shortDescription": "Chandni Roti White 18pc",
+    "description": "Chandni Roti White 18pc",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/CHANDNI-ROTI-WHITE-18X6PKT.jpg"
+}, {
+    "name": "CRISPY RUMALI ROTI WHITE 10PCS",
+    "price": "€3.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/488556_1_1000x.jpg"
+}, {
+    "name": "DD RUMALI ROTI 330G",
+    "price": "€2.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/5440.jpeg"
+}, {
+    "name": "DH PAPPADOM 100G",
+    "price": "€1.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/DH.Pappadam.2.png"
+}, {
+    "name": "ELEPHANT ATTA CHAPATTIS",
+    "price": "€2.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/06/5018420550031.jpg"
+}, {
+    "name": "ELEPHANT ATTA CHAPATTIS 8",
+    "price": "€2.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Elephant-Atta-Chapattis.jpg"
+}, {
+    "name": "HEERA GAR &  CORI NAN",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/Heera-Garlic-and-Coriander-Naan-360-g.jpg"
+}, {
+    "name": "LB LARGE GAR COR NAN",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/LB-LARGE-GC-NAAN-3.jpg"
+}, {
+    "name": "LB LARGE PLAIN NAN",
+    "price": "€3.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/plain-lrg.jpg"
+}, {
+    "name": "NISHAAN CHAKKI ROTI 6PCS",
+    "price": "€2.45",
+    "outOfStock": false,
+    "shortDescription": "Nishaan Chakki Roti",
+    "description": "Nishaan Chakki Roti",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/NishaanChakkiRoti.jpeg"
+}, {
+    "name": "NISHAAN METHI CHAPATTIS 6PCS",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/NISHAAN-ROTI-METHI-350GMX10PC.jpg"
+}, {
+    "name": "NISHAAN PLAIN PARATHAS 380G",
+    "price": "€2.35",
+    "outOfStock": false,
+    "shortDescription": "Nishaan Plain Parathas",
+    "description": "Nishaan Plain Parathas",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/NishaanPlainParathas.jpeg"
+}, {
+    "name": "NISHAAN TRADITIONAL ROTI 6PCS",
+    "price": "€2.25",
+    "outOfStock": false,
+    "shortDescription": "Nishaan Traditional Roti",
+    "description": "Nishaan Traditional Roti",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/NishaanTradtionalRoti.jpeg"
+}, {
+    "name": "SHANA M/P PLAIN PRANTHA",
+    "price": "€7.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/SHANA-MP-PARATHA-33-6X1200G.jpg"
+}]

@@ -1,0 +1,378 @@
+[
+  {
+    "name": "EAST END ALMOND POWDER 1KG",
+    "price": "€15.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/s-l400.jpg"
+  },
+  {
+    "name": "EAST END ALMONDS 700GM",
+    "price": "€12.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/east-end-almonds-700g.jpg"
+  },
+  {
+    "name": "EAST END CASHEW NUTS 100G",
+    "price": "€2.35",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/EASTEND-CASHEW-NUTS-100G.jpg"
+  },
+  {
+    "name": "EAST END CASHEW NUTS 700GM",
+    "price": "€13.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/10/7175.jpeg"
+  },
+  {
+    "name": "EAST END COCONUT FLOUR 400G",
+    "price": "€3.45",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/EASTEND-COCONUT-FLOUR-400GM.jpg"
+  },
+  {
+    "name": "EAST END PINK PEANUTS 1KG",
+    "price": "€7.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/EE-PINK-PEANUTS-1KG-X-6PC-1.jpg"
+  },
+  {
+    "name": "EAST END PINK PEANUTS 400GM",
+    "price": "€3.15",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/EE-PINK-PEANUTS-1KG-X-6PC.jpg"
+  },
+  {
+    "name": "EAST END PISTACHIO KERNEL 700GM",
+    "price": "€25.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/EE-PISTA-KERNALS-700GMX6PC-550x550-1.jpg"
+  },
+  {
+    "name": "EAST END PISTACHIO KERNELS 200G",
+    "price": "€8.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/EAST-END-PISTACHIO-KERNELS-200G.jpeg"
+  },
+  {
+    "name": "EAST END RED PEANUTS 1KG",
+    "price": "€7.95",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/6808.jpeg"
+  },
+  {
+    "name": "EAST END WALNUT KERNAL 200GM",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/EE-WALNUT-KERNALS-200GX10.jpg"
+  },
+  {
+    "name": "FUDCO ALMOND FLAKED 75GM",
+    "price": "€2.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-FLAKED-ALMOND.jpg"
+  },
+  {
+    "name": "FUDCO ALMONDS 100GM",
+    "price": "€2.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042023010_T1-1.png"
+  },
+  {
+    "name": "FUDCO ALMONDS 250GM",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042023010_T1-1.png"
+  },
+  {
+    "name": "FUDCO ALMONDS 700GM",
+    "price": "€11.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-ALMONDS-700GM.jpg"
+  },
+  {
+    "name": "FUDCO ALMONDS BLANCHED 250GM",
+    "price": "€5.45",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-ALMONDS-BLANCHED-250GM.jpeg"
+  },
+  {
+    "name": "FUDCO ALMONDS FLAKED 250GM",
+    "price": "€5.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-FLAKED-ALMOND.jpg"
+  },
+  {
+    "name": "FUDCO BRAZIL NUTS 200GM",
+    "price": "€4.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042029630_T1.png"
+  },
+  {
+    "name": "FUDCO CASHEW NUTS 100GM",
+    "price": "€2.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-CASHEW-NUTS-100GM.jpg"
+  },
+  {
+    "name": "FUDCO CASHEW NUTS JUMBO 700GM",
+    "price": "€14.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-CASHEWNUTS-JUMBO-700GM.jpg"
+  },
+  {
+    "name": "FUDCO CASHEWNUTS 250GM",
+    "price": "€5.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042020965_T1.png"
+  },
+  {
+    "name": "FUDCO CASHEWNUTS JUMBO 250GM",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042022921_T1.png"
+  },
+  {
+    "name": "FUDCO DRY FRUIT MIX 800GM",
+    "price": "€5.99",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/Fudco-Dry-Fruit-Mix-300gm.jpg"
+  },
+  {
+    "name": "FUDCO GROUND ALMONDS 100GM",
+    "price": "€1.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Fudco-Ground-Almonds.jpg"
+  },
+  {
+    "name": "FUDCO GROUND ALMONDS 250GM",
+    "price": "€5.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Fudco-Ground-Almonds.jpg"
+  },
+  {
+    "name": "FUDCO GROUND ALMONDS 600GM",
+    "price": "€10.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Fudco-Ground-Almonds.jpg"
+  },
+  {
+    "name": "FUDCO NUT & RAISIN MIX 700GM",
+    "price": "€5.99",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/5025042026189_T1.png"
+  },
+  {
+    "name": "FUDCO PECAN NUTS 200GM",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Fudco-Pecan-Nuts-200gm.jpg"
+  },
+  {
+    "name": "FUDCO PINK PEANUTS 1KG",
+    "price": "€5.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-PINK-PEANUTS-1KG.jpg"
+  },
+  {
+    "name": "FUDCO PISTACHIO KERNELS 200GM",
+    "price": "€7.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/5025042020910_T1.png"
+  },
+  {
+    "name": "FUDCO PISTACHIO SALTED 200GM",
+    "price": "€5.65",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/5025042026127_T1-1.png"
+  },
+  {
+    "name": "FUDCO PUMPKIN SEEDS 250GM",
+    "price": "€3.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/5025042004767_T70.png"
+  },
+  {
+    "name": "FUDCO RED PEANUTS 1KG",
+    "price": "€6.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-RED-PEANUTS-1KG.jpg"
+  },
+  {
+    "name": "FUDCO ROASTED CASHEW NUTS 200GM",
+    "price": "€4.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/5025042020965_T1.png"
+  },
+  {
+    "name": "FUDCO ROASTED PUMPKIN SEEDS 200GM",
+    "price": "€3.25",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/5025042004767_T70.png"
+  },
+  {
+    "name": "FUDCO WALNUT HALVES LIGHT 600GM",
+    "price": "€13.50",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/FUDCO-WALNUT-HALVES-LIGHT-600GM.jpg"
+  },
+  {
+    "name": "HALDIRAM GUP SHUP 200G",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/615PCfvyyzL._SX425_.jpg"
+  },
+  {
+    "name": "HEERA ALMONDS 100G",
+    "price": "€3.85",
+    "outOfStock": false,
+    "shortDescription": "Heera Almonds 100gm",
+    "description": "Heera Almonds 100gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Almonds_700gm.jpg"
+  },
+  {
+    "name": "HEERA ALMONDS 250G",
+    "price": "€5.95",
+    "outOfStock": false,
+    "shortDescription": "Heera Almonds 300gm",
+    "description": "Heera Almonds 300gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Almonds_700gm.jpg"
+  },
+  {
+    "name": "HEERA ALMONDS 700GM",
+    "price": "€11.50",
+    "outOfStock": true,
+    "shortDescription": "Heera Almonds 700gm",
+    "description": "Heera Almonds 700gm",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Almonds_700gm.jpg"
+  },
+  {
+    "name": "HEERA BLANCHED PEANUTS 1KG",
+    "price": "€7.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/HEERA-BLANCHED-PEANUTS-1KG.jpeg"
+  },
+  {
+    "name": "Heera Cashew Nuts",
+    "price": "€13.50",
+    "outOfStock": false,
+    "shortDescription": "Heera Cashew Nuts",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Cashew_Nuts_700gm.jpg"
+  },
+  {
+    "name": "Heera Ground Almonds",
+    "price": "€16.95",
+    "outOfStock": false,
+    "shortDescription": "Heera Ground Almonds",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/05/Heera_Ground_Almonds_100gm.jpg"
+  },
+  {
+    "name": "HEERA NUTMEG WHOLE 100G",
+    "price": "€4.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/0003663_heera-nutmeg-whole-100g_510.jpeg"
+  },
+  {
+    "name": "HEERA RED PEANUTS 1KG",
+    "price": "€7.95",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HEERA-RED-PEANUTS-1KG.jpg"
+  },
+  {
+    "name": "KHAO SHONG WASABI PEANUTS 140G",
+    "price": "€2.75",
+    "outOfStock": true,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/khao-shong-peanuts-with-wasabi-140g.png"
+  },
+  {
+    "name": "NEFIS YELLOW PUMPKIN SEEDS 140",
+    "price": "€2.50",
+    "outOfStock": false,
+    "shortDescription": "",
+    "description": "",
+    "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/Nefis-Pumpkin-Seeds-140g_1618090773-1.jpeg"
+  }
+]

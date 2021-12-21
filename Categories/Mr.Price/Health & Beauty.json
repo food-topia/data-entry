@@ -1,655 +1,744 @@
-[{
+[
+  {
     "name": "ALBERTO BALSAM GREEN APPLE – 350ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/alberto-balsam-green-apple-350ml/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/alberto-balsam-juicy-green-apple-shampoo.jpg"
-}, {
+  },
+  {
     "name": "ALWAYS DAILIES 20PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/always-dailies-20pk/",
     "price": "€1.29",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/always-dailies-20.jpg"
-}, {
+  },
+  {
     "name": "AMAZING SHINE HUMAN HAIR FALSE EYELASHES",
     "pageUrl": "https://www.mrpriceonline.ie/product/amazing-shine-human-hair-false-eyelashes/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/Amazing-Shine-Human-Hair-False-Eyelashes-47.jpg"
-}, {
+  },
+  {
     "name": "ARGAN OIL DEEP MOISTURISING FOOT PACK",
     "pageUrl": "https://www.mrpriceonline.ie/product/argan-oil-deep-moisturising-foot-pack/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Argan-Oil-Deep-Moisturising-Foot-Pack.jpg"
-}, {
+  },
+  {
     "name": "ASTONISH ANTI-BACTERIAL MILK & HONEY HANDWASH 500ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/astonish-anti-bacterial-milk-honey-handwash-500ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/astonish-milk-and-honey-500ml.jpg"
-}, {
+  },
+  {
     "name": "BAYLIS & HARDING URBAN BARN SOAP GIFT SET",
     "pageUrl": "https://www.mrpriceonline.ie/product/baylis-harding-urban-barn-soap-gift-set/",
     "price": "€3.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/baylis-harding-urban-barn-2-soap-set.jpg"
-}, {
+  },
+  {
     "name": "BEAN BODY COFFEE SCRUB – COCO BERRY",
     "pageUrl": "https://www.mrpriceonline.ie/product/bean-body-coffee-scrub-coco-berry/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/08/bean-body-coco-berry.jpg"
-}, {
+  },
+  {
     "name": "BEAN BODY COFFEE SCRUB 100G COCONUT",
     "pageUrl": "https://www.mrpriceonline.ie/product/bean-body-coffee-scrub-100g-coconut/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/11/Coffee-Scrub-Coconut-Koerperpeeling-100-g-Bean-Body-1-minRFwHghb1KLNDM.jpg"
-}, {
+  },
+  {
     "name": "BLACK HAIR PINS 50PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/black-hair-pins-50pk/",
     "price": "€0.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/HAIRPINS.jpg"
-}, {
+  },
+  {
     "name": "BLOOM & BLOSSOM BRUCE BOGTROTTER’S BUBBLE BATH 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/bloom-blossom-bruce-bogtrotters-bubble-bath-200ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/bloom-and-blossom-bubble-bath.jpg"
-}, {
+  },
+  {
     "name": "BLOOM & BLOSSOM MISS HONEY’S CONDITIONER 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/bloom-blossom-miss-honeys-conditioner-200ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/bloom-and-blossom-conditonert.jpg"
-}, {
+  },
+  {
     "name": "BLOOM AND BLOSSOM MR & MRS WORMWOOD’S SHAMPOO 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/bloom-and-blossom-mr-mrs-wormwoods-shampoo-200ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/bloom-blossom-shampoo.jpg"
-}, {
+  },
+  {
     "name": "BRISK BEARD & FACE WASH 150ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-beard-face-wash/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/brisk-beard-shampoo.jpg"
-}, {
+  },
+  {
     "name": "BRISK CITRUS BEARD OIL 50ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-citrus-beard-oil/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/brisk-beard-oil-citrus.jpg"
-}, {
+  },
+  {
     "name": "BRISK INTENSE BEARD & FACE WASH 150ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-intense-beard-face-wash/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/Brisk-Beard-and-Face-Wash.jpg"
-}, {
+  },
+  {
     "name": "BRISK INTENSE BEARD OIL 30ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-intense-beard-oil/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/BRISK-INTENSE-BEARD-OIL-30ML.jpg"
-}, {
+  },
+  {
     "name": "BRISK MENS FACE MOISTURISER 50ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-mens-face-moisturiser/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/Brisk-Malt-Extract-Face-Moisturiser-50ml-0105888.jpg"
-}, {
+  },
+  {
     "name": "BRISK MENS FACE WASH 250ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/brisk-mens-face-wash/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/brisk-mens-face-wash-250ml.jpg"
-}, {
+  },
+  {
     "name": "COLGATE OPTIC WHITE BUNDLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/colgate-optic-white-bundle/",
     "price": "€3.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/colgate-bundle.png"
-}, {
+  },
+  {
     "name": "DEEP FRESH PROBIOTICS WET WIPES  – 60PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/deep-fresh-probiotics-wet-wipes-60pk/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/WET-WIPES-PROBIOTIC.jpg"
-}, {
+  },
+  {
     "name": "DOVE GO FRESH ROLL ON 50ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/dove-go-fresh-roll-on-50ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/dove-go-fresh-pomegranate-lemon-verbena-anti-perspirant-roll-on-50-ml-17-oz.jpg"
-}, {
+  },
+  {
     "name": "EOS HANDCREAM COCONUT – 74ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/eos-handcream-coconut-74ml/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/EOS-HANDCREAM.jpg"
-}, {
-    "name": "EXPOSED BOLD DEFINITION HIGHLIGHT KIT",
-    "pageUrl": "https://www.mrpriceonline.ie/product/exposed-bold-definition-highlight-kit/",
-    "price": "€1.49",
-    "description": "Price including VAT",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/EXPOSED-BOLD-DEFINITION-HIGHLIGHT-KIT.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS ARGAN OIL HAND & NAIL CREAM 50ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-argan-oil-hand-nail-cream-50ml/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/Face-Facts-Argan-Oil-Hand-and-Nail-Cream-50ml.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS FACIAL SCRUB 60ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-facial-scrub-60ml/",
     "price": "€1.49",
     "description": "Price including VATVEGAN",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/face-facts-coconut-facial-scrubs.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS FACIAL SCRUB 60ML – PEACH",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-facial-scrub-60ml-peach/",
     "price": "€1.49",
     "description": "Price including VATPacked with fragrant Peach extract, this scrub provides essential Vitamin C to brighten & tone the skin, whilst added Glycerin ensures skin is left deeply hydrated and smooth. Refresh & smooth skin with the Face Facts Peach Facial Scrub.Vegan FriendlyFormulated without Parabens",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/2783.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS FACIAL SCRUB 60ML – COCONUT",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-facial-scrub-60ml-coconut/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/COCONUT-SCRUB.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS GEL EYE PATCHES – BRIGHTENING",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-gel-eye-patches-brightening/",
     "price": "€1.49",
     "description": "Price including VAT4 PAIRS",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/14436-150_face_facts_brightening_gel_eye_patches.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS HYALURONIC SHEET MASK 2PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-hyaluronic-sheet-mask-2pk/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/face-facts-hyaluronic-sheet-mask.jpeg"
-}, {
+  },
+  {
     "name": "FACE FACTS NOSE PORE STRIPS – TEA TREE",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-nose-pore-strips-tea-tree/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/face-facts-nose-strips-tea-tree.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS NUTRITION INFUSION SERUM SHEET MASK 25ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-nutrition-infusion-serum-sheet-mask-25ml/",
     "price": "€1.49",
     "description": "Price including VATVEGAN",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/serum-sheet-mask.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS PEEL OFF GLITTER MASK 60ml – BRIGHTENING",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-peel-off-glitter-mask-brightening/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/FACT-FACTS-GLITTER-MASK-BRIGHTENING.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS PEEL OFF MASK 60ML – GLITTER",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-peel-off-mask-60ml-glitter/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/20345-150_cleaning_glitter_mask_front.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS SEAWEED MUD MASK 60ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-seaweed-mud-mask/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/FACE-FACTS-SEAWEED-MASK.png"
-}, {
+  },
+  {
     "name": "FACE FACTS SERUM SHEET MASK 25ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-serum-sheet-mask/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/face-facts-radiant-glow-sheet-mask.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS VITAMIN C EYE CREAM 25ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-vitamin-c-eye-cream/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/FACE-FACTS-VIT-C-EYE-CREAM.jpg"
-}, {
+  },
+  {
     "name": "FACE FACTS VITAMIN C LIP MASK",
     "pageUrl": "https://www.mrpriceonline.ie/product/face-facts-vitamin-c-lip-mask/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/VITAMIN-C-LIP-MASK.png"
-}, {
+  },
+  {
     "name": "FEMALE ESSENTIAL TOILETRIES",
     "pageUrl": "https://www.mrpriceonline.ie/product/female-essential-toiletries/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/women-essentials-bundle.jpg"
-}, {
+  },
+  {
     "name": "GARNIER MULTI PROTECTIVE HYRDATING MIST 75ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/garnier-multi-hydrating-protective-mist-75ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/garnier-moistre-bomb-protct.jpg"
-}, {
+  },
+  {
     "name": "GILLETTE MACH3 TURBO RAZOR WITH 4 BLADES",
     "pageUrl": "https://www.mrpriceonline.ie/product/gillette-mach3-turbo-razor-with-4-blades/",
     "price": "€8.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/7702018469208-GILLETTE-M3-TURBO-STARTER-PACK-H4-.jpg"
-}, {
+  },
+  {
     "name": "GILLETTE SERIES SENSITIVE SHAVING GEL 250ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/gillette-series-sensitive-shaving-gel-250ml/",
     "price": "€2.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/gillette-shave-gel-250ml.jpg"
-}, {
+  },
+  {
     "name": "GILLETTE UCL FUSION5 PROGLIDE STARTER PACK",
     "pageUrl": "https://www.mrpriceonline.ie/product/gillette-ucl-fusion5-proglide-starter-pack/",
     "price": "€12.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/7702018469567-GILLETTE-UCL-PROGLIDE-STARTER-PACK.jpg"
-}, {
+  },
+  {
     "name": "Gingerbread Man Bath Fizzer",
     "pageUrl": "https://www.mrpriceonline.ie/product/gingerbread-man-bath-fizzer/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/155167211_max.jpg"
-}, {
+  },
+  {
     "name": "GLOVE YOUR BODY DUAL TANNING MITT",
     "pageUrl": "https://www.mrpriceonline.ie/product/glove-your-body-dual-tanning-mitt/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/06/glove-your-body-1.jpg"
-}, {
+  },
+  {
     "name": "IMPERIAL LEATHER LOVE HEARTS SHOWER GEL 250ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/imperial-leather-love-hearts-shower-gel-250ml/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/IMPERIAL-LEATHER-LOVE-HEARTS-SHOWER.jpg"
-}, {
+  },
+  {
     "name": "MALE ESSENTIAL TOILETRIES",
     "pageUrl": "https://www.mrpriceonline.ie/product/male-essential-toiletries/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/men-essentials-bundle.jpg"
-}, {
+  },
+  {
     "name": "MENS SKIN CARE BUNDLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/mens-skin-care-bundle/",
     "price": "€2.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/brisk-bundle.jpg"
-}, {
+  },
+  {
     "name": "MINI HEALTH & BEAUTY BUNDLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/mini-health-beauty-bundle/",
     "price": "€8.99",
     "description": "Price including VAT<img class=\"alignnone size-full wp-image-12948\" src=\"https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1.png\" alt=\"\" width=\"1080\" height=\"1920\" srcset=\"https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1.png 1080w, https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1-225x400.png 225w, https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1-576x1024.png 576w, https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1-768x1365.png 768w, https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1-864x1536.png 864w, https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beuty-List-1-600x1067.png 600w\" sizes=\"(max-width: 1080px) 100vw, 1080px\" />",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Health-and-Beauty-Bundle-1.png"
-}, {
+  },
+  {
     "name": "NIVEA CREME TIN 150ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/nivea-soft-cream-tin-150ml/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/Nivea-Creme-Tin-150ml.jpg"
-}, {
+  },
+  {
     "name": "NIVEA FRESH FRUITY DEODORANT 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/nivea-fresh-fruity-deodorant-200ml/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/NIVEA-FRESH-FRUITY-DEODOURANT-200ML.png"
-}, {
+  },
+  {
     "name": "ORAL B 1 2 3 FRESH MINT TOOTHPASTE – 100ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/oral-b-1-2-3-fresh-mint-toothpaste-100ml/",
     "price": "€1.29",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/COLGATE.jpg"
-}, {
+  },
+  {
     "name": "PALMOLIVE NATURALS LIQUID HAND SOAP 300ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/palmolive-naturals-liquidhand-soap-300ml/",
     "price": "€1.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/palmolive-coconut.jpg"
-}, {
+  },
+  {
     "name": "PAMPER PACKAGE",
     "pageUrl": "https://www.mrpriceonline.ie/product/pamper-package/",
     "price": "€19.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/06/pamper-set-update-1.jpg"
-}, {
+  },
+  {
     "name": "PROFUSION COSMETICS BROW DEFINING KIT 8PC – MEDIUM TO DARK",
     "pageUrl": "https://www.mrpriceonline.ie/product/profusion-cosmetics-brow-defining-kit-8pc-medium-to-dark/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/profusion-cosmetics-brow-defining-kit-8pc-medium-to-deep-copy.jpg"
-}, {
+  },
+  {
     "name": "Pug Nail files 3 Pack",
     "pageUrl": "https://www.mrpriceonline.ie/product/pug-nail-files-3-pack/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/5055193540463.jpg"
-}, {
+  },
+  {
     "name": "PURE FACE WIPES SENSITIVE – 25PK",
     "pageUrl": "https://www.mrpriceonline.ie/product/pure-face-wipes-sensitive-25pk/",
     "price": "€0.79",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/PURE-WIPES2-1.jpg"
-}, {
+  },
+  {
     "name": "Q-ki 12 Days Of Beauty Love Nails",
     "pageUrl": "https://www.mrpriceonline.ie/product/q-ki-12-days-of-beauty-love-nails/",
     "price": "€3.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/99604714_max.jpg"
-}, {
+  },
+  {
     "name": "QENTISSI EXCLUSIVE GLAMOROUS GLOW & HIGHLIGHTS MAKE UP PALETTE",
     "pageUrl": "https://www.mrpriceonline.ie/product/qentissi-exclusive-glamorous-glow-highlights-make-up-palette/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/qentissi-exclusive-glamorous-glow-and-highlights.jpg"
-}, {
+  },
+  {
     "name": "RADOX ANTI BACTERIAL HAND GEL 50ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/radox-anti-bacterial-hand-gel-50ml/",
     "price": "€0.79",
     "description": "Price including VATRadox Anti-bacterial Hand Gel 50 ml effectively cleans your hands while on the go• Our unfragranced hand gel kills 99.9% of bacteria, leaving your hands clean and protected• A disinfecting hand gel suitable for everyday use in a recyclable plastic bottle• Apply hand hygiene gel on your palm, spread and rub over back of hands & fingertips until dry. Keep out of reach of children• Cleanse your skin and help your hands feel clean• Radox Antibacterial Hand Gel is tough on germs to help you maintain proper hand hygiene without the need to use water or soapRadox Anti-bacterial Hand Gel is fragrance-free and comes in a convenient 50 ml recyclable bottle that fits perfectly in your pocket. It can be used on the go whenever you need it, to keep your hands clean and protected from germs.With 65% ethanol content, its active ingredient, Radox disinfecting hand gel kills 99.9% bacteria, helping you maintain proper hand hygiene and prevent the spread of infections.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/MicrosoftTeams-image-56.jpg"
-}, {
+  },
+  {
     "name": "RADOX MUSCLE SOAK 500ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/radox-muscle-soak-500ml/",
     "price": "€1.49",
     "description": "Price including VATAfter a long hard day, relax in a hot Radox Herbal Bath with its secret blend of herbs & minerals, and let it melt away your aches and pain.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/RADOX-MUSCLE-SOAK-500ML.jpg"
-}, {
+  },
+  {
     "name": "RADOX REFRESH CITRUS BLAST SHOWER GEL – 250ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/radox-refresh-citrus-blast-shower-gel-250ml/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/09/RADOX-1.jpg"
-}, {
+  },
+  {
     "name": "SALT BOMB 250G",
     "pageUrl": "https://www.mrpriceonline.ie/product/salt-bomb-250g/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/strawberry-bath-bomb.jpg"
-}, {
-    "name": "SANTA FACE MASK",
-    "pageUrl": "https://www.mrpriceonline.ie/product/santa-face-mask/",
-    "price": "€1.99",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/11/mask-2.jpg"
-}, {
+  },
+  {
     "name": "SENCE HOLY MOLY! HOLOGRAPHIC PEEL OFF FACE MASK 28G",
     "pageUrl": "https://www.mrpriceonline.ie/product/sence-holy-moly-holographic-peel-off-face-mask-28g/",
     "price": "€0.99",
     "description": "Price including VATPeel-off formulaBrilliant & sparkly glitterClears pores & exfoliatingWith euro lock",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/sence-holographic-peel-off.jpg"
-}, {
+  },
+  {
     "name": "SENCE STRUCK BY GOLD FEVER PEEL OFF FACE MASK 28G",
     "pageUrl": "https://www.mrpriceonline.ie/product/sence-struck-by-gold-fever-peel-off-face-mask-28g/",
     "price": "€0.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/sence-gold-fever-peel-off.jpg"
-}, {
+  },
+  {
     "name": "SENCE THE COOLEST CUCUMBER PEEL OFF FACE MASK 28G",
     "pageUrl": "https://www.mrpriceonline.ie/product/sence-the-coolest-cucumber-peel-off-face-mask-28g/",
     "price": "€0.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/sence-the-coolest-cucumber.jpg"
-}, {
+  },
+  {
     "name": "SIMPLE SKIN CARE PACK",
     "pageUrl": "https://www.mrpriceonline.ie/product/simple-skin-care-pack/",
     "price": "€4.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2020/12/Simple-Duo.jpg"
-}, {
+  },
+  {
     "name": "SIMPLE SOAP 2PK 125GM",
     "pageUrl": "https://www.mrpriceonline.ie/product/simple-soap-2pk125gm/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/simple-two-pack-soap.jpg"
-}, {
+  },
+  {
     "name": "SIMPLE VITAL VITAMIN CREAM 50ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/simple-vital-vitamin-cream-50ml/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/simple-vital-vitamin-cream-50ml.jpg"
-}, {
+  },
+  {
     "name": "SKIN TREATS SEVEN DAYS OF MASKING CRACKER",
     "pageUrl": "https://www.mrpriceonline.ie/product/skin-treats-seven-days-of-masking-cracker/",
     "price": "€5.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/mask.jpg"
-}, {
-    "name": "Stlye & Grace Spa Botanique Calming Bath Cream 500ml",
-    "pageUrl": "https://www.mrpriceonline.ie/product/stlye-grace-spa-botanique-calming-bath-cream-500ml/",
-    "price": "€2.99",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sg-Spa-Botanique-Calming-Bath-Crea.jpg"
-}, {
+  },
+  {
     "name": "Style & Grace Bubble Boutique Lip Gloss 3 pack",
     "pageUrl": "https://www.mrpriceonline.ie/product/style-grace-bubble-boutique-delicious-lip-gloss-3-pack/",
     "price": "€3.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Bubble-Boutique-Delicious-Lip-G.jpg"
-}, {
+  },
+  {
     "name": "Style & Grace Bubble Boutique Sock Gift Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/style-grace-bubble-boutique-sock-gift-set/",
     "price": "€5.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sg-Bubble-Boutique-Gift-Of-The-Glo.jpg"
-}, {
+  },
+  {
+    "name": "Style & Grace Spa Botanique Calming Bath Cream 500ml",
+    "pageUrl": "https://www.mrpriceonline.ie/product/stlye-grace-spa-botanique-calming-bath-cream-500ml/",
+    "price": "€2.99",
+    "description": "",
+    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sg-Spa-Botanique-Calming-Bath-Crea.jpg"
+  },
+  {
     "name": "Style & Grace Spa Botanique Pamper Pot",
     "pageUrl": "https://www.mrpriceonline.ie/product/style-grace-spa-botanique-pamper-pot/",
     "price": "€5.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sg-Spa-Botanique-Pamper-Pot.jpg"
-}, {
+  },
+  {
     "name": "Style & Grace Spa Garden Glove Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/style-grace-spa-garden-glove-set/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/garden-glove.jpg"
-}, {
+  },
+  {
     "name": "Style & Grace Utopia Pamper Me Gorgeous",
     "pageUrl": "https://www.mrpriceonline.ie/product/style-grace-utopia-pamper-me-gorgeous/",
     "price": "€9.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sg-Utopia-Pamper-Me-Gorgeous-1.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED 24K LUSTRE LIP OIL 4.2ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-24k-lustre-lip-oil-4-2ml/",
     "price": "€2.49",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-24k-lustre-lip-oil-4_2ml.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED BAKED TO PERFECTION BLUSH & HIGHLIGHT DUO 17G",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-baked-to-perfection-blush-highlight-duo-17g/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-baked-to-perfection-blush-highlight-duo.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED BRONZE & GLOW BRONZING PEARLS 45G",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-bronze-glow-bronzing-pearls-45g/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-bronze-glow-bronzing-pearls-45-gram.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED BROW & LINE EYEBROW & EYELINER DUO",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-brow-line-eyebrow-eyeliner-duo/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-brow-and-line-eyebrow-pencil-and-eyeliner-dun-medium_dark.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED DOUBLE SIDED VELVET TANNING MITT",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-double-sided-velvet-tanning-mitt/",
     "price": "€3.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-double-sided-velvet-tanning-mitt.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED EXPRESS 1 HOUR TAN MOUSSE 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-express-1-hour-tan-mousse-200ml/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-express-200-ml-itseruskettava-vaahto.jpg"
-}, {
+  },
+  {
     "name": "Sunkissed Find Me Under The Palms Gift Set.",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-find-me-under-the-palms-gift-set/",
     "price": "€9.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/Sunkissed-Find-Me-Under-The-Palms.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED GRADUAL TAN MEDIUM – DARK 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-gradual-tan-medium-dark-200ml/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-gradual-tan-medium-dark-200ml.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED MEGA BOLD LASH WATERPROOF MASCARA 12ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-mega-bold-lash-waterproof-mascara-12ml/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-mega-bold-lash-waterproof-mascara.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED MEGA LONG FALSE LASH EFFECT MASCARA 12ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-mega-long-false-lash-effect-mascara-12ml/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-mega-long-false-lash-effect-mascara-12ml.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED SELF TAN MOUSSE 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-self-tan-mousse-200ml/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-seld-tan-mousse-dark-200ml.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED SUPER SOFT SINGLE SIDED TANNING MITT",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-super-soft-single-sided-tanning-mitt/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/sunkissed-super-soft-single-sided-tanning-mitt.jpg"
-}, {
+  },
+  {
     "name": "Sunkissed Ultimate Pout Lip Palette",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-ultimate-pout-lip-palette/",
     "price": "€3.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/134125153_max.jpg"
-}, {
+  },
+  {
     "name": "SUNKISSED VELVET KISS MATTE LIQUID LIPSTICK 5ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/sunkissed-velvet-kiss-matte-liquid-lipstick-5ml/",
     "price": "€2.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/05/VELVET-KISS-cherry-red.jpg"
-}, {
+  },
+  {
     "name": "TEA TREE FACIAL SCRUB 250ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/tea-tree-facial-scrub-250ml/",
     "price": "€1.49",
     "description": "Price including VATTea Tree Facial Scrub has been specially formulated to gently cleanse and stimulate your skin by helping to remove excess oil and dead skin cells to reveal a healthier, fresher looking complextion.Suitable for All Skin Types.Directions:Moisten the face with water and dispense the product onto fingertips. Using circular motions, gently massage the scrub over the face, avoiding the delicate eye areas. Rinse well with clean warm water. Use as often as required.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/Tea-Tree-Facial-Scrub-250ml.jpg"
-}, {
+  },
+  {
     "name": "THE HAND BRAND NAIL TREATMENT 10ml",
     "pageUrl": "https://www.mrpriceonline.ie/product/the-hand-brand-nail-treatment/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/HAND-BRAND-NAIL-TREATMENT-3-IN-1.jpg"
-}, {
+  },
+  {
     "name": "Tilly Blockbuster Gift Set",
     "pageUrl": "https://www.mrpriceonline.ie/product/tilly-blockbuster-gift-set/",
     "price": "€6.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/tilly-blockbuster.jpg"
-}, {
+  },
+  {
     "name": "Tilly XO Bath Fizzer",
     "pageUrl": "https://www.mrpriceonline.ie/product/tilly-xo-bath-fizzer/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/11/dark-pink.png"
-}, {
+  },
+  {
     "name": "TRESEMME BIOTIN + REPAIR 7IN1 PRIMER CREAM 125ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/tresemme-biotin-repair-7in1-primer-cream-125ml/",
     "price": "€1.99",
     "description": "Price including VATOur TRESemmé Biotin+ Repair 7 7-in-1 Primer Cream is your styling essential, protecting your hair from 7 different types of styling damage, adding shine & making hair more manageable for quicker & easier styling. The intensively moisturising Primer Cream, formulated with Biotin, works overtime to deliver 7 benefits in 1:  helps to tame frizz, nourishes hair, improves manageability, reduces breakage, boosts shine, adds a silky feel and even gives protection up to 230⁰c heat. Designed to visibly improve the appearance of damaged hair and protect your hair against daily styling, our TRESemmé Biotin+ Repair 7 7-in-1 Primer Cream ensures your hair is ready, whatever style you want to create!You can blow-dry, brush & braid; bleach, colour straighten & curl. Want healthy looking hair or a smooth style? Have both with our 7-in-1 Primer Cream.How do I use it? After using Biotin+ Repair 7 shampoo & conditioner, apply an almond sized amount (dependent on hair length) of 7-in-1 Primer Cream into your hands and distribute evenly through damp hair with fingers or comb. No need to rinse, style as usual.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/TRESEEME-BIOTIN-PLUS-REPAIR-7-IN-1-PRIMER-CREAM-125ML.jpg"
-}, {
+  },
+  {
     "name": "TRESEMME COLOUR REVITALISE CONDITIONER 500ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/tresemme-colour-revitalise-conditioner-500ml/",
     "price": "€2.49",
     "description": "Price including VATTRESemmé , Our Philosophy:For our origins in salons, we have always been driven by a simple truth; every woman deserves to look fabulous without spending a fortune. TRESemmé is dedicated to creating hair care and styling products that are salon quality without the salon price. Salon inspired, stylist tested products to help you create your own style and experience that salon feeling everyday.TRESemmé – Professional, AffordableTRESemmé Colour Revitalise Colour Fade Protection Shampoo with Colour Lock Technology, gently cleanses hari while preserving your colour. This unique formula comprised of green tea, rosemary and sunflower helps protect colour while keeping hair healthy-looking. Colour stays gorgeous longer and hair is softer and more manageable. For maximum colour protection, condition hair with TRESemmé Colour Revitalise Conditioner.How to UseTresemme Stylists suggest:STEP 1 -Apply TRESemmé Colour Revitalise Shampoo to wet hair and gently massage into a lather. Rinse thoroughly.STEP 2 -Follow with TRESemmé Colour Revitalise Conditioner. Rinse thoroughly.STEP 3 -To protect hair from heat styling, try TRESemmé Heat Defence Styling Spray.STEP 4 -For deeper conditioning, use TRESemmé Colour Revitalise Treatment Masque",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/TRESEMME-COLOUR-REVITALISE-CONDITIONER-500ML.jpg"
-}, {
+  },
+  {
     "name": "TRESEMME DAY2 FOAMING DRY SHAMPOO 200ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/tresemme-day2-foaming-dry-shampoo-200ml/",
     "price": "€1.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/03/tresemme-day2-foaming-dry-shampoo-freshclean-250ml.jpg"
-}, {
+  },
+  {
     "name": "VASELINE INTENSIVE CARE BODY LOTION 200ML – COCOA RADIANT",
     "pageUrl": "https://www.mrpriceonline.ie/product/vaseline-intensive-care-body-lotion-200ml-cocoa-radiant/",
     "price": "€1.49",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/02/vaseline-coco-radiant-lotion.jpg"
-}, {
+  },
+  {
     "name": "VASELINE POT JELLY 50ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/vaseline-pot-jelly-50ml/",
     "price": "€1.29",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/Vaseline-Petroleum-Jelly-50ml.jpg"
-}, {
+  },
+  {
     "name": "VEET HAIR REMOVAL CREAM NORMAL SKIN 100ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/veet-hair-removal-cream-normal-skin-100ml/",
     "price": "€2.99",
     "description": "Price including VATVeet Hair Removal Cream works close to the root even on short hair, giving you smoothness for up to a week. Our Normal Skin formula is enriched with Lotus Milk, known for its softening properties, and scented with Jasmine fragrance. So you’ll have not just smooth, but silky-soft, nourished skin – and hair regrowth feels softer, too.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/9df54d295adcdb0cd7bb6cbe0c2cfee1.jpg"
-}, {
+  },
+  {
     "name": "VENUS BIKINI PRECISION TRIMMER",
     "pageUrl": "https://www.mrpriceonline.ie/product/venus-bikini-precision-trimmer/",
     "price": "€14.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/VENUS-BIKINI-PRECISION-TRIMMER-.jpg"
-}, {
+  },
+  {
     "name": "VENUS CLASSIC RAZOR",
     "pageUrl": "https://www.mrpriceonline.ie/product/venus-classic-razor/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/7702018472178-VENUS-CLASSIC-RAZOR-.jpg"
-}, {
+  },
+  {
     "name": "VENUS COMFORTGLIDE SPA BREEZE RAZOR",
     "pageUrl": "https://www.mrpriceonline.ie/product/venus-comfortglide-spa-breeze-razor/",
     "price": "€4.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/7702018966943-VENUS-COMFORTGLIDE-SPA-BREEZE-RAZOR-.jpg"
-}, {
+  },
+  {
     "name": "VENUS EXTRA SMOOTH RAZOR",
     "pageUrl": "https://www.mrpriceonline.ie/product/venus-extra-smooth-razor/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/7702018323012-VENUS-EXTRA-SMOOTH-RAZOR-.jpg"
-}, {
+  },
+  {
     "name": "VENUS EXTRA SMOOTH SNAP RAZOR PINK",
     "pageUrl": "https://www.mrpriceonline.ie/product/venus-extra-smooth-snap-razor-pink/",
     "price": "€5.99",
     "description": "Price including VAT",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/04/VENUS-EXTRA-SMOOTH-SNAP-RAZOR-PINK.jpg"
-}, {
+  },
+  {
     "name": "VITAMIN C SKINCARE BUNDLE",
     "pageUrl": "https://www.mrpriceonline.ie/product/vitamin-c-skincare-bundle/",
     "price": "€7.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/01/face-facts-bundle-update-1-1.jpg"
-}, {
+  },
+  {
     "name": "YES TO ARGAN LIP OIL 3.7ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/yes-to-argan-lip-oil-3-7ml/",
     "price": "€1.99",
     "description": "",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/Yesto-Argan-Lip-Pol-3_7ml.jpeg"
-}, {
+  },
+  {
     "name": "YES TO COTTON COMFORTING MUD MASK 10ML",
     "pageUrl": "https://www.mrpriceonline.ie/product/yes-to-cotton-comforting-mud-mask-10ml/",
     "price": "€1.49",
     "description": "Price including VATYes To Cotton Face/Facial Mud Mask To Comfort Ultra-Sensitive & Allergic Skin: 1 x Single Use SachetGive your skin the nourishment it needs with Yes To Cotton Comforting Mud Mask, a gentle formula that helps protect skin and prevent irritation.This single use face mask uses Cotton Extract and Cottonseed Oil to soothe sensitive skin and leave it calm and hydrated. The delicate formula nourishes and softens to leave your complexion refreshed.Yes to having a soft spot for cotton extract and cottonseed oil that help prevent irritation while gently nourishing, softening and refreshing delicate skin.The single use Yes To Cotton Comforting Mud Mask is perfect for ultra-sensitive and allergy-prone skin. The rich formula leaves skin calm and hydrated. Sit back, relax and enjoy a spa-like experience.– 95% natural ingredients– Formulated without Parabens, SLS and Silicones– Leaping Bunny CertifiedIngredients: Water (Aqua), Aloe Barbadensis Leaf Juice, Kaolin, Bentonite, Propanediol, Hamamelis Virginiana (Witch Hazel) Water, Gossypium Herbaceum (Cotton) Fruit Water, Titanium Dioxide (CI 77891), Magnesium Aluminum Silicate, Cetearyl Alcohol, Glyceryl Stearate, Polyglyceryl-10 Oleate, Gossypium Herbaceum (Cotton) Seed Oil, Gossypium Herbaceum (Cotton) Seed Extract, Limnanthes Alba (Meadowfoam) Seed Oil, Citrus Aurantium Amara (Bitter Orange) Peel Extract, Avena Sativa (Oat) Bran Extract, Althaea O cinalis Root Extract*, Hydrolyzed Jojoba Esters, Hydrogenated Vegetable Glycerides, Dipotassium Glycyrrhizate, Glycerin, Xanthan Gum, Tetrasodium Glutamate Diacetate, Ethylhexylglycerin.",
     "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/07/yes-to-cotton-comforting-mud-mask.jpg"
-}, {
-    "name": "YES TO TRIPLE MASKING KIT",
-    "pageUrl": "https://www.mrpriceonline.ie/product/yes-to-triple-masking-kit/",
-    "price": "€1.49",
-    "description": "",
-    "image": "https://www.mrpriceonline.ie/wp-content/uploads/2021/08/yes-to-triple-masking-kit-copy.jpg"
-}]
+  }
+]
