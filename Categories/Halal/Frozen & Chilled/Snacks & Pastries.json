@@ -1,378 +1,434 @@
-[{
+[
+  {
     "name": "AJINOMOTO CH & VEG  GYOZA",
     "price": "€7.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/AJINOMOTO-CH-amp-VEG-GYOZA.jpg"
-}, {
+  },
+  {
     "name": "AJINOMOTO CHICKEN KATSU CURRY",
     "price": "€6.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/PMFD0044_3.png"
-}, {
+  },
+  {
     "name": "AJINOMOTO PRAWN DUMPLINGS 600G",
     "price": "€10.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/AJINOMOTO-PRAWN-GYOZA-600G.jpeg"
-}, {
+  },
+  {
     "name": "ALLGROO KIMCHI GYOZA 540GM",
     "price": "€4.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/ALLGROO-KIMCHI-GYOZA-540-GM.jpg"
-}, {
+  },
+  {
     "name": "ASHOKA JUMBO PUNJABI SAMOSA 800G",
     "price": "€6.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/0011003_ashoka-jumbo-punjabi-samosa-8pcs-frozen-800g_510.jpeg"
-}, {
+  },
+  {
     "name": "CROWN CHICKEN KEBAB 15PC",
     "price": "€11.50",
     "outOfStock": false,
     "shortDescription": "Crown Chicken Seekh Kebab 15pcs",
     "description": "Crown Chicken Seekh Kebab 15pcs",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Crown_Seekh_Kebab_Chicken_15pcs.jpg"
-}, {
+  },
+  {
     "name": "CROWN LAMB KEBAB 15PC",
     "price": "€12.50",
     "outOfStock": false,
     "shortDescription": "Crown Lamb Seekh Kebab 15pcs",
     "description": "Crown Lamb Seekh Kebab 15pcs",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Crown_Seekh_Kebbab_15pcs.jpg"
-}, {
+  },
+  {
     "name": "DD BANANA FRY 350G",
     "price": "€3.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/Daily-Delight-Banana-Fry.jpg"
-}, {
+  },
+  {
     "name": "DD CABBAGE VADA 300G",
     "price": "€3.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/Cabbage-Vada-2048x1412-1.jpg"
-}, {
+  },
+  {
     "name": "DD PALAPPAM 227GM",
     "price": "€2.75",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/large-ddpalappam8oz-600x442-1.jpg"
-}, {
+  },
+  {
     "name": "DD PARIPPUVADA 350GM",
     "price": "€2.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/1380933091.jpg"
-}, {
+  },
+  {
     "name": "DD RED ONION VADA 300G",
     "price": "€2.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/Daily-Delight-Vada.jpg"
-}, {
+  },
+  {
     "name": "DD SPINACH VADA 300 GM",
     "price": "€3.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/Spinach-Vada.jpg"
-}, {
+  },
+  {
     "name": "DD UZHUNNUVADA 300GM",
     "price": "€3.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Uzhunnu-Vada-350gm.jpg"
-}, {
+  },
+  {
     "name": "DOUX CHICKEN FINGERS 1KG",
     "price": "€6.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Doux-Chicken-Fingers.jpg"
-}, {
+  },
+  {
     "name": "DOUX CHICKEN NUGGETS 500G",
     "price": "€3.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Doux-Chicken-Nuggets.jpg"
-}, {
+  },
+  {
     "name": "HALDIRAM  DESI WRAPS SCHEZWAN CHILLI PANEER",
     "price": "€4.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HALDIRAMS-DESI-WRAPS-SCHEZWAN-CHILLI-PANEER.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM ALOO TIKKI 420G",
     "price": "€3.95",
     "outOfStock": true,
     "shortDescription": "Haldirams Aloo Tikki",
     "description": "Haldirams Aloo Tikki",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/aloo_tikki1.png"
-}, {
+  },
+  {
     "name": "HALDIRAM COCKTAIL SAMOSA 1.4KG 70PCS",
     "price": "€13.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/WhatsApp-Image-2021-10-21-at-17.48.16.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM COCKTAIL SAMOSA 28PCS",
     "price": "€8.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HR-cocktail-samosa-28.jpg"
-}, {
+  },
+  {
     "name": "HALDIRAM DAHI KEBAB 300GM",
     "price": "€5.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/71w2gfzhmrL._SL1200_.jpg"
-}, {
+  },
+  {
     "name": "HALDIRAM DAL KACHORI 420G",
     "price": "€4.20",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/0010747_haldirams-dal-kachori-420g-8-pieces-420g_510.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM DESI WRAPS PB CHHOLEY",
     "price": "€2.95",
     "outOfStock": false,
     "shortDescription": "",
-    "description": ""
-}, {
+    "description": "",
+    "image": "http://www.haldiram.com/assets/images/products/punjabi_choley.png"
+  },
+  {
     "name": "HALDIRAM DESI WRAPS SOYA CHOP 156G",
     "price": "€2.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/HALDIRAM-DESI-WRAPS-SOYA-CHOP-156G.png"
-}, {
+  },
+  {
     "name": "HALDIRAM HARA BHARA KEBAB 300G",
     "price": "€4.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/hara_bhara_kebab.png"
-}, {
+  },
+  {
     "name": "HALDIRAM KHAMAN DHOKLA 256G",
     "price": "€3.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HR-KHAMAN-DHOKLA-256GM.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM MUTTER KACHORI 420G",
     "price": "€5.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/HR-MUTTER-KACHORI-420G.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM ONION BHAJI 283G",
     "price": "€3.75",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HALDIRAM-ONION-BHAJI-283G.jpeg"
-}, {
+  },
+  {
     "name": "HALDIRAM PUNJABI SAMOSA 8 PCS",
     "price": "€6.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/punjabi_samosa.png"
-}, {
+  },
+  {
     "name": "HALDIRAM SPINACH PAKORA",
     "price": "€3.95",
     "outOfStock": false,
     "shortDescription": "Haldirams Spinach Pakora ",
     "description": "Haldirams Spinach Pakora ",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/spinach_pakora1.png"
-}, {
+  },
+  {
     "name": "HALDIRAM VEG SHAMI KEBAB 300G",
     "price": "€4.85",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/veg_shami_kebab.png"
-}, {
+  },
+  {
     "name": "HB WONTON PASTRY 200G",
     "price": "€1.95",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/HB-WONTON-PASTRY-200G.jpeg"
-}, {
+  },
+  {
     "name": "HEERA PUNJABI WADI 300G JAR",
     "price": "€3.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/11/HERR-247-2.jpg"
-}, {
+  },
+  {
     "name": "HUMZA CHICKEN SAMOSA 20PCS",
     "price": "€6.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Samosa-chicken-20pcs_500-x-570px.png"
-}, {
+  },
+  {
     "name": "HUMZA LAHORI CHICKEN SEEKH 900G",
     "price": "€8.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/Humza-Lahori-Chicken-Kebab-15pc.png"
-}, {
+  },
+  {
     "name": "HUMZA LAHORI MEAT CHARCOAL SEEKH 900G",
     "price": "€9.25",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/Humza-Lahori-Meat-Charcoal-Seekh-Kebabs-15pcs_.png"
-}, {
+  },
+  {
     "name": "HUMZA VEGETABLE SAMOSA 20PCS",
     "price": "€6.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Samosa-veg-20pcs_500-x-570px.png"
-}, {
+  },
+  {
     "name": "SAMYANG CHIVES GYOZA DUMP 600G",
     "price": "€5.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/8801073910225_00.jpg"
-}, {
+  },
+  {
     "name": "SAMYANG HOT CHICKEN DUMPLINGS",
     "price": "€5.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/edcb512ae7c865663159ae92946c0441.jpg"
-}, {
+  },
+  {
     "name": "SAMYANG VEG FRIED DUMPLING 600G",
     "price": "€5.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/2021-03-10-0_13.png"
-}, {
+  },
+  {
     "name": "SHANA PUNJABI SAMOSA 20PC",
     "price": "€7.95",
     "outOfStock": false,
     "shortDescription": "Shana Punjabi Samosa 20pcs",
     "description": "Shana Punjabi Samosa 20pcs",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Shana_Punjabi_Samosa_20pcs.jpg"
-}, {
+  },
+  {
     "name": "SHAZAN CHICKEN SAMOSA 20PC",
     "price": "€6.50",
     "outOfStock": false,
     "shortDescription": "Shazan Chicken Samosa 20pc",
     "description": "Shazan Chicken Samosa 20pc",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Shazans_Chicken_Samosas_20pcs.jpg"
-}, {
+  },
+  {
     "name": "SHAZAN MEAT SAMOSA 20PC",
     "price": "€6.50",
     "outOfStock": true,
     "shortDescription": "Shazan Meat Samosa 20pc",
     "description": "Shazan Meat Samosa 20pc",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Shazans_Meat_Samosas_20pcs.jpg"
-}, {
+  },
+  {
     "name": "SHAZAN VEG SAMOSA 20PCS",
     "price": "€6.50",
     "outOfStock": true,
     "shortDescription": "Shazan Vegetable Samosa 20pc",
     "description": "Shazan Vegetable Samosa 20pc",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/07/Shazans_Vegetable_Samosas_20pcs.jpg"
-}, {
+  },
+  {
     "name": "TYJ S/R PASTRY  30 SHEETS 10″",
     "price": "€3.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/TYJSPRINGROLLPASTRY550G.jpg"
-}, {
+  },
+  {
     "name": "TYJ S/R PASTRY 40 SHEETS 8″",
     "price": "€4.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/spring-home-tyj-spring-roll-pastry-40-sheets-8x8-550g-1110-p.jpg"
-}, {
+  },
+  {
     "name": "VADILAL KHAMAN 315G",
     "price": "€3.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Vadilal-Khaman-315g.png"
-}, {
+  },
+  {
     "name": "VADILAL PUNJABI SAMOSA -MED 1.1KG",
     "price": "€7.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Vadilal-Punjabi-Samosa-20pc.png"
-}, {
+  },
+  {
     "name": "VISWAS BONDA",
     "price": "€3.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/BondaByViswas.jpg"
-}, {
+  },
+  {
     "name": "VISWAS IDLI 454G",
     "price": "€3.60",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/unnamed_2_1200x1200.jpg"
-}, {
+  },
+  {
     "name": "VISWAS PALAPPAM 250GM",
     "price": "€2.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/160x160-202105272055186249636-1.jpg"
-}, {
+  },
+  {
     "name": "VISWAS VEG CUTLETS",
     "price": "€3.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/07/VISWAS-VEG-CUTLETS.jpeg"
-}, {
+  },
+  {
     "name": "ZAAD FALAFEL 480GM",
     "price": "€4.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/kg3wpMjcF74PQNJ6ybLug6kXVHDx8D0bKlNUg0rX.jpg"
-}, {
+  },
+  {
     "name": "ZAAD FILO PASTRY 470G",
     "price": "€3.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/8087.png"
-}]
+  }
+]

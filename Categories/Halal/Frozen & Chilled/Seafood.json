@@ -1,118 +1,138 @@
-[{
+[
+  {
     "name": "AHAA KING FISH STEAK 600G",
     "price": "€7.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/KING_FISH_STEAKS.jpg"
-}, {
+  },
+  {
     "name": "AHAA SARDINES WHOLE 1KG",
     "price": "€7.50",
     "outOfStock": false,
     "shortDescription": "",
-    "description": ""
-}, {
+    "description": "",
+    "image": "http://cdn.shopify.com/s/files/1/0328/8937/2809/products/fwdas_1200x1200.jpg"
+  },
+  {
     "name": "AHAA SILVER POMFRET WHOLE 600G",
     "price": "€10.50",
     "outOfStock": false,
     "shortDescription": "",
-    "description": ""
-}, {
+    "description": "",
+    "image": "https://z2s4w2h4.stackpathcdn.com/images/thumbs/0008967_ahaa-silver-pomfret-whole-600g_510.jpeg"
+  },
+  {
     "name": "AQUA FEAST GIANT SQUID RING  600G",
     "price": "€6.99",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/02/Illex-Argentinus-Giant-Squid-Frozen-Squid-Ring-Wight-Glazing-Made-in-China.jpg"
-}, {
+  },
+  {
     "name": "AQUA PRAWNS 31/40",
     "price": "€11.99",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Aquafresh-Prawns-31-40.png"
-}, {
+  },
+  {
     "name": "AQUA PRAWNS 41/50",
     "price": "€10.99",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/10/Aquafresh-Prawns-41-50.png"
-}, {
+  },
+  {
     "name": "BLUE OCEAN PRAWN 26/30 700G",
     "price": "€15.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/sea-food-frozen-prawn-500x500-1.jpg"
-}, {
+  },
+  {
     "name": "HILSA FISH (SINGLE FISH)",
     "price": "€7.59",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/01/img_5916.png"
-}, {
+  },
+  {
     "name": "LILLY TILAPIA FILLETS 1KG",
     "price": "€6.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/tilapia_saint_peter_fish_lilly_580x.jpg"
-}, {
+  },
+  {
     "name": "OC CRAB STICKS 250G",
     "price": "€1.50",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/CrabStick-1.jpg"
-}, {
+  },
+  {
     "name": "OC PRAWNS P&D 16/20 700GM",
     "price": "€15.75",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/09/16-20-PRAWN-BLOCK-6-X-800GM.jpg"
-}, {
+  },
+  {
     "name": "PERFIT CROAKER STEAKS 1KG",
     "price": "€7.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/PERFIT-CROAKER-STEAKS-AFRICAN-STYLE-1KG.png"
-}, {
+  },
+  {
     "name": "PERFIT KINGMACKREL STEAKS 1KG",
     "price": "€8.95",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/03/PERFIT-KINGMACKEREL-STEAKS-1KG.png"
-}, {
+  },
+  {
     "name": "SD ANCHOVY PAN READY 600GM",
     "price": "€7.99",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/04/delight-anchovy.jpg"
-}, {
+  },
+  {
     "name": "SD DRY SHRIMP WHOLE 100G",
     "price": "€4.25",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2021/05/ScreenShot2020-05-04at6.44.29pm_grande.jpg"
-}, {
+  },
+  {
     "name": "THAI CRAB STICKS 1kg",
     "price": "€7.60",
     "outOfStock": false,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/11/O1CN01a9SdAm1CTb3wkb7g1_788330082.jpg_460x460q90.jpg"
-}, {
+  },
+  {
     "name": "TILAPIA WHOLE 2.5KG",
     "price": "€11.50",
     "outOfStock": true,
     "shortDescription": "",
     "description": "",
     "image": "https://www.kwalityfoods.ie/wp-content/uploads/2020/12/fresh-tilapia-fish_1024x1024.jpg"
-}]
+  }
+]
