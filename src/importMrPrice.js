@@ -228,7 +228,7 @@ const importProduct = async (categoryId, marketId, product) => {
   let price = Number(product.price.replace('€', ''));
   let extraCharge = round(price * 0.1, 1);
   price = roundPriceAndExtraCharge(price, extraCharge);
-  let outOfStock = product.outOfStock ? 0 : 1;
+  // let outOfStock = product.outOfStock ? 0 : 1;
 
   let options = {
     method: 'POST',
@@ -245,7 +245,7 @@ const importProduct = async (categoryId, marketId, product) => {
       market_id: marketId,
       category_id: categoryId,
       featured: '1',
-      deliverable: outOfStock,
+      deliverable: '1',
       price_higher: '1',
       ...images,
     },
@@ -278,38 +278,32 @@ async function runImport() {
   // });
 
   try {
-    let dirPath = path.resolve(__dirname, '../Categories/Tesco');
+    let dirPath = path.resolve(__dirname, '../Categories/Mr.Price');
     let folders = await fs.promises.readdir(dirPath);
     let storeId = getStoreId(STORE_NAME);
 
     // Loop them all with the new for...of
     for (let currentDir of folders) {
-      currentDir = path.resolve(__dirname, `${dirPath}/${currentDir}`);
+      let fileType = path.resolve(__dirname, `${dirPath}/${currentDir}`);
       // Stat the file to see if we have a file or dir
-      const stat = await fs.promises.stat(currentDir);
+      const stat = await fs.promises.stat(fileType);
 
       if (stat.isFile()) {
+        const dirFile = path.resolve(__dirname, `${dirPath}/${currentDir}`);
         let categoryName = currentDir.replace(/\.[^/.]+$/, '');
         let aParentId = await createCategory(categoryName, storeId, 0, true);
         let categoryID = aParentId.data.id;
-
-        let file = currentDir;
         console.log("'%s' is a file.", currentDir);
-        const dirFile = path.resolve(
-          __dirname,
-          `${dirPath}/${currentDir}/${files}`
-        );
         let rawProductDs = fs.readFileSync(dirFile);
-        let productData = JSON.parse(rawProductDs);
-        let storeName = 'Mr.Price';
-        const products = productData;
+        let products = JSON.parse(rawProductDs);
         for (const product of products) {
-          await importProduct(categoryID, getStoreId(storeName), product);
+          await importProduct(categoryID, storeId, product);
         }
       } else if (stat.isDirectory()) {
         // BuyMie
         let aParentId = await createCategory(currentDir, storeId, 0, false);
-        let suFolders = await fs.promises.readdir(currentDir);
+        const dirFile = path.resolve(__dirname, `${dirPath}/${currentDir}`);
+        let suFolders = await fs.promises.readdir(dirFile);
         for (const subFolder of suFolders) {
           let categoryName = subFolder.replace(/\.[^/.]+$/, '');
           let bParentId = await createCategory(
@@ -318,29 +312,14 @@ async function runImport() {
             aParentId.data.id,
             false
           );
-          let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
-          let files = await fs.promises.readdir(filesPath);
-          for (const file of files) {
-            const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
-            let rawProductDs = fs.readFileSync(dirFile);
-            let productData = JSON.parse(rawProductDs);
-            let storeName = productData.store.StoreName;
-            productData = productData.store.CategoryProductsAndSubCategories[0];
-            const products = productData.Products;
-            let cParentId = await createCategory(
-              subFolder,
-              storeId,
-              bParentId.data.id,
-              true
-            );
-            let subCategoryId = cParentId.data.id;
-            for (const product of products) {
-              await importProduct(
-                subCategoryId,
-                getStoreId(storeName),
-                product
-              );
-            }
+          let filesPath = path.resolve(
+            __dirname,
+            `${dirPath}/${currentDir}/${subFolder}`
+          );
+          let rawProductDs = fs.readFileSync(filesPath);
+          let products = JSON.parse(rawProductDs);
+          for (const product of products) {
+            await importProduct(bParentId.data.id, storeId, product);
           }
         }
         console.log("'%s' is a directory.", currentDir);
