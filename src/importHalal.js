@@ -148,6 +148,15 @@ const importImage = async (imagePath) => {
   } else if (imageName === 'Wai-Wai-Chicken-Noodles-70-G.png') {
     imagePath = 'Wai-Wai-Chicken-Noodles-70-G.jpg';
     imageName = 'Wai-Wai-Chicken-Noodles-70-G.jpg';
+  } else if (imageName === '8801073910225_00.jpg') {
+    imagePath = 'chives-gvoza-dumpling.jpeg';
+    imageName = 'chives-gvoza-dumpling.jpeg';
+  } else if (imageName === 'Swaad-3-final.png') {
+    imagePath = 'Swaad-3-final-min.png';
+    imageName = 'Swaad-3-final-min.png';
+  } else if (imageName === '6046000101601378529_1.webp') {
+    imagePath = 'NONGSHIM.jpeg';
+    imageName = 'NONGSHIM.jpeg';
   }
   let options = {
     method: 'POST',
@@ -280,7 +289,15 @@ async function runImport() {
 
     // Loop them all with the new for...of
     for (let currentDir of folders) {
-      let aParentId = await createCategory(currentDir, storeId, '0', false);
+      let aParentId;
+      let aCategoryId;
+      // if (currentDir !== 'World Food') {
+      aParentId = await createCategory(currentDir, storeId, '0', false);
+      aCategoryId = aParentId.data.id;
+      // } else {
+      //   aCategoryId = 225;
+      // }
+
       let CurrentDir = path.resolve(__dirname, `${dirPath}/${currentDir}`);
       let CurrentDirPath = await fs.promises.readdir(CurrentDir);
       for (let grandParent of CurrentDirPath) {
@@ -299,51 +316,61 @@ async function runImport() {
           let productData = JSON.parse(rawProductDs);
           const products = productData;
           let categoryName = grandParent.replace(/\.[^/.]+$/, '');
-          let bParentId = await createCategory(
+          let bParentId;
+          let bCategoryId;
+
+          // if (categoryName === 'Oriental') {
+          //   bCategoryId = 229;
+          // } else {
+          bParentId = await createCategory(
             categoryName,
             storeId,
-            aParentId.data.id,
+            aCategoryId,
             true
           );
-          let categoryID = bParentId.data.id;
+          bCategoryId = bParentId.data.id;
+          // }
           for (const product of products) {
-            await importProduct(categoryID, storeId, product);
+            await importProduct(bCategoryId, storeId, product);
           }
         } else if (stat.isDirectory()) {
-          // BuyMie
-          let bParentId = await createCategory(
+          let bParentId;
+          // if (grandParent !== 'Flour') {
+          bParentId = await createCategory(
             grandParent,
             storeId,
             aParentId.data.id,
             false
           );
+          // }
           let suFolders = await fs.promises.readdir(GrandParent);
           for (const subFolder of suFolders) {
             let categoryName = subFolder.replace(/\.[^/.]+$/, '');
-            let cParentId = await createCategory(
+
+            let cParentId;
+            let cCategoryId;
+
+            // if (categoryName === 'Chakki Atta') {
+            //   cCategoryId = 127;
+            // } else {
+            cParentId = await createCategory(
               categoryName,
               storeId,
               bParentId.data.id,
               true
             );
+            cCategoryId = aParentId.data.id;
+            // }
 
             let categoryId = cParentId.data.id;
-            let filesPath = path.resolve(
+            let dirFile = path.resolve(
               __dirname,
-              `${currentDir}/${subFolder}`
+              `${GrandParent}/${subFolder}`
             );
-            let files = await fs.promises.readdir(filesPath);
-            for (const file of files) {
-              const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
-              let rawProductDs = fs.readFileSync(dirFile);
-              let productData = JSON.parse(rawProductDs);
-              let storeName = productData.store.StoreName;
-              productData =
-                productData.store.CategoryProductsAndSubCategories[0];
-              const products = productData.Products;
-              for (const product of products) {
-                await importProduct(categoryId, getStoreId(storeName), product);
-              }
+            let rawProductDs = fs.readFileSync(dirFile);
+            let products = JSON.parse(rawProductDs);
+            for (const product of products) {
+              await importProduct(categoryId, storeId, product);
             }
           }
           console.log("'%s' is a directory.", currentDir);
