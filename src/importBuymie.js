@@ -17,7 +17,7 @@ const createCategory = (
   parentId = 0,
   isLastSub = false
 ) => {
-  var request = require('request');
+  let isLastSubNum = isLastSub ? 1 : 0;
   var options = {
     method: 'POST',
     url: 'http://localhost:8888/FT%20Backend/public/api/categories/store',
@@ -26,7 +26,7 @@ const createCategory = (
       description: `${categoryName} Description`,
       market_id: marketId,
       parent_id: parentId,
-      last_sub_category: `${isLastSub}`,
+      last_sub_category: isLastSubNum,
     },
   };
   return new Promise((resolve, reject) => {
@@ -48,15 +48,6 @@ const createCategory = (
     });
   });
 };
-
-const getDirectories = async (source) =>
-  (
-    await fs.readdir(source, {
-      withFileTypes: true,
-    })
-  )
-    .filter((dirent) => dirent.isDirectory())
-    .map((dirent) => dirent.name);
 
 const getStoreId = (storeName) => {
   if (storeName.toUpperCase() === 'TESCO') {
@@ -238,7 +229,13 @@ async function runImport() {
 
     // Loop them all with the new for...of
     for (let folderCategory of folders) {
-      let aParentId = await createCategory(folderCategory, storeId, 0, false);
+      let aParent;
+      if (folderCategory !== 'Food Cupboard') {
+        aParent = await createCategory(folderCategory, storeId, 0, false);
+        aParentId = aParent.data.id;
+      } else {
+        aParentId = 420;
+      }
       currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
       // Stat the file to see if we have a file or dir
       const stat = await fs.promises.stat(currentDir);
@@ -246,35 +243,32 @@ async function runImport() {
       // BuyMie
       let suFolders = await fs.promises.readdir(currentDir);
 
-      let category;
-      let categoryId;
-
-      // if(folderCategory === 'Pets') {
-      //     categoryId = 206;
-      // } else {
-      //   category = await createCategory(folderCategory);
-      //   categoryId = category.data.id;
-      // }
-
       for (const subFolder of suFolders) {
-        let bParentId = await createCategory(
-          subFolder,
-          storeId,
-          aParentId.data.id,
-          false
-        );
+        let bParent, bParentId;
+        if (subFolder !== 'Cooking Indgredients') {
+          bParent = await createCategory(subFolder, storeId, aParentId, false);
+          bParentId = bParent.data.id;
+        } else {
+          bParentId = 473;
+        }
         let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
         let files = await fs.promises.readdir(filesPath);
 
         for (const file of files) {
           let categoryName = file.replace(/\.[^/.]+$/, '');
-          let cParentId = await createCategory(
-            categoryName,
-            storeId,
-            bParentId.data.id,
-            false
-          );
-          let categoryId = cParentId.data.id;
+          let cParentId;
+          let categoryId;
+          if (categoryName === 'Mixes& Pour Over Sauces') {
+            categoryId = 477;
+          } else {
+            cParentId = await createCategory(
+              categoryName,
+              storeId,
+              bParentId,
+              true
+            );
+            categoryId = cParentId.data.id;
+          }
           const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
           let rawProductDs = fs.readFileSync(dirFile);
           let productData = JSON.parse(rawProductDs);
@@ -282,7 +276,7 @@ async function runImport() {
           productData = productData.store.CategoryProductsAndSubCategories[0];
           const products = productData.Products;
           for (const product of products) {
-            await importProduct(categoryId, getStoreId(storeName), product);
+            await importProduct(categoryId, storeId, product);
           }
         }
       }

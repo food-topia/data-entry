@@ -17,7 +17,7 @@ const createCategory = (
   parentId = 0,
   isLastSub = false
 ) => {
-  var request = require('request');
+  let isLastSubNum = isLastSub ? 1 : 0;
   var options = {
     method: 'POST',
     url: 'http://localhost:8888/FT%20Backend/public/api/categories/store',
@@ -26,7 +26,7 @@ const createCategory = (
       description: `${categoryName} Description`,
       market_id: marketId,
       parent_id: parentId,
-      last_sub_category: `${isLastSub}`,
+      last_sub_category: isLastSubNum,
     },
   };
   return new Promise((resolve, reject) => {
@@ -238,25 +238,9 @@ async function runImport() {
     // Loop them all with the new for...of
     for (let subFolder of folders) {
       let aParentId = await createCategory(subFolder, storeId, 0, false);
-      // currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
-      // // Stat the file to see if we have a file or dir
-      // const stat = await fs.promises.stat( currentDir );
 
-      // BuyMie
-      // let suFolders = await fs.promises.readdir(currentDir);
-      // for (const subFolder of suFolders) {
       let filesPath = path.resolve(__dirname, `${dirPath}/${subFolder}`);
       let files = await fs.promises.readdir(filesPath);
-
-      //   let category;
-      //   let categoryId;
-
-      //   if (subFolder === 'Household') {
-      //     categoryId = 203;
-      //   } else {
-      //     category = await createCategory(subFolder);
-      //     categoryId = category.data.id;
-      //   }
 
       for (const file of files) {
         let categoryName = file.replace(/\.[^/.]+$/, '');
@@ -270,13 +254,11 @@ async function runImport() {
         const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
         let rawProductDs = fs.readFileSync(dirFile);
         let productData = JSON.parse(rawProductDs);
-        let storeName = productData.store.StoreName;
         productData = productData.store.CategoryProductsAndSubCategories[0];
         const products = productData.Products;
         for (const product of products) {
-          await importProduct(categoryId, getStoreId(storeName), product);
+          await importProduct(categoryId, storeId, product);
         }
-        // }
       }
     }
   } catch (e) {
