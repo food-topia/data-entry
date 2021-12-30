@@ -50,16 +50,16 @@ const createCategory = (
 };
 
 const getStoreId = (storeName) => {
-  if (storeName.toUpperCase() === 'TESCO') {
+  if (storeName.toUpperCase() === 'DUNNES') {
     return 1;
-  } else if (storeName.toUpperCase() === 'LIDL') {
+  } else if (storeName.toUpperCase() === 'TESCO') {
     return 2;
-  } else if (storeName.toUpperCase() === 'DUNNES') {
+  } else if (storeName.toUpperCase() === 'LIDL') {
     return 3;
-  } else if (storeName.toUpperCase() === 'ALDI') {
-    return 5;
   } else if (storeName.toUpperCase() === 'HALAL') {
-    return 6;
+    return 4;
+  } else if (storeName.toUpperCase() === 'Mr.Price') {
+    return 5;
   }
 };
 
@@ -221,21 +221,21 @@ const importProduct = async (categoryId, marketId, product) => {
 };
 
 async function runImport() {
-  const superMarket = 'Tesco';
+  const superMarket = 'Dunnes';
   try {
     let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
     let folders = await fs.promises.readdir(dirPath);
-    let storeId = getStoreId('Tesco');
+    let storeId = getStoreId('Dunnes');
 
     // Loop them all with the new for...of
     for (let folderCategory of folders) {
       let aParent;
-      if (folderCategory !== 'Food Cupboard') {
-        aParent = await createCategory(folderCategory, storeId, 0, false);
-        aParentId = aParent.data.id;
-      } else {
-        aParentId = 420;
-      }
+      // if (folderCategory !== 'Toiletries') {
+      aParent = await createCategory(folderCategory, storeId, 0, false);
+      aParentId = aParent.data.id;
+      // } else {
+      //   aParentId = 1672;
+      // }
       currentDir = path.resolve(__dirname, `${dirPath}/${folderCategory}`);
       // Stat the file to see if we have a file or dir
       const stat = await fs.promises.stat(currentDir);
@@ -245,12 +245,12 @@ async function runImport() {
 
       for (const subFolder of suFolders) {
         let bParent, bParentId;
-        if (subFolder !== 'Cooking Indgredients') {
-          bParent = await createCategory(subFolder, storeId, aParentId, false);
-          bParentId = bParent.data.id;
-        } else {
-          bParentId = 473;
-        }
+        // if (subFolder !== 'Sensitive Bladder & Incontinence') {
+        bParent = await createCategory(subFolder, storeId, aParentId, false);
+        bParentId = bParent.data.id;
+        // } else {
+        //   bParentId = 1723;
+        // }
         let filesPath = path.resolve(__dirname, `${currentDir}/${subFolder}`);
         let files = await fs.promises.readdir(filesPath);
 
@@ -258,17 +258,17 @@ async function runImport() {
           let categoryName = file.replace(/\.[^/.]+$/, '');
           let cParentId;
           let categoryId;
-          if (categoryName === 'Mixes& Pour Over Sauces') {
-            categoryId = 477;
-          } else {
-            cParentId = await createCategory(
-              categoryName,
-              storeId,
-              bParentId,
-              true
-            );
-            categoryId = cParentId.data.id;
-          }
+          // if (categoryName === 'Towles') {
+          //   categoryId = 1726;
+          // } else {
+          cParentId = await createCategory(
+            categoryName,
+            storeId,
+            bParentId,
+            true
+          );
+          categoryId = cParentId.data.id;
+          // }
           const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
           let rawProductDs = fs.readFileSync(dirFile);
           let productData = JSON.parse(rawProductDs);

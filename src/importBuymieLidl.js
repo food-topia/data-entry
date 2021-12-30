@@ -59,19 +59,18 @@ const getDirectories = async (source) =>
     .map((dirent) => dirent.name);
 
 const getStoreId = (storeName) => {
-  if (storeName.toUpperCase() === 'TESCO') {
+  if (storeName.toUpperCase() === 'DUNNES') {
     return 1;
-  } else if (storeName.toUpperCase() === 'LIDL') {
+  } else if (storeName.toUpperCase() === 'TESCO') {
     return 2;
-  } else if (storeName.toUpperCase() === 'DUNNES') {
+  } else if (storeName.toUpperCase() === 'LIDL') {
     return 3;
-  } else if (storeName.toUpperCase() === 'ALDI') {
-    return 5;
   } else if (storeName.toUpperCase() === 'HALAL') {
-    return 6;
+    return 4;
+  } else if (storeName.toUpperCase() === 'Mr.Price') {
+    return 5;
   }
 };
-
 const getCategoryId = (categoryName) => {
   if (categoryName.toUpperCase() === 'BANANAS') {
     return 1;
@@ -231,33 +230,46 @@ const importProduct = async (categoryId, marketId, product) => {
 
 async function runImport() {
   const superMarket = 'Lidl';
+  let storeId = getStoreId(superMarket);
   try {
     let dirPath = path.resolve(__dirname, `../Categories/${superMarket}`);
     let folders = await fs.promises.readdir(dirPath);
 
     // Loop them all with the new for...of
     for (let subFolder of folders) {
-      let aParentId = await createCategory(subFolder, storeId, 0, false);
+      let aParent, aParentId;
+      if (subFolder !== 'Fresh Poultry, Meat & Fish') {
+        aParent = await createCategory(subFolder, storeId, 0, false);
+        aParentId = aParent.data.id;
+      } else {
+        aParentId = 1808;
+      }
 
       let filesPath = path.resolve(__dirname, `${dirPath}/${subFolder}`);
       let files = await fs.promises.readdir(filesPath);
 
       for (const file of files) {
         let categoryName = file.replace(/\.[^/.]+$/, '');
-        let bParentId = await createCategory(
-          categoryName,
-          storeId,
-          aParentId.data.id,
-          true
-        );
-        let categoryId = bParentId.data.id;
+        let bParent, bParentId;
+        if (categoryName !== 'Fresh Beef') {
+          bParent = await createCategory(
+            categoryName,
+            storeId,
+            aParentId,
+            true
+          );
+          bParentId = bParent.data.id;
+        } else {
+          bParentId = 1809;
+        }
+
         const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
         let rawProductDs = fs.readFileSync(dirFile);
         let productData = JSON.parse(rawProductDs);
         productData = productData.store.CategoryProductsAndSubCategories[0];
         const products = productData.Products;
         for (const product of products) {
-          await importProduct(categoryId, storeId, product);
+          await importProduct(bParentId, storeId, product);
         }
       }
     }

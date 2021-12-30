@@ -61,18 +61,16 @@ const getDirectories = async (source) =>
     .map((dirent) => dirent.name);
 
 const getStoreId = (storeName) => {
-  if (storeName.toUpperCase() === 'TESCO') {
+  if (storeName.toUpperCase() === 'DUNNES') {
     return 1;
-  } else if (storeName.toUpperCase() === 'LIDL') {
+  } else if (storeName.toUpperCase() === 'TESCO') {
     return 2;
-  } else if (storeName.toUpperCase() === 'DUNNES') {
+  } else if (storeName.toUpperCase() === 'LIDL') {
     return 3;
-  } else if (storeName.toUpperCase() === 'ALDI') {
-    return 4;
   } else if (storeName.toUpperCase() === 'HALAL') {
+    return 4;
+  } else if (storeName.toUpperCase() === 'Mr.Price') {
     return 5;
-  } else if (storeName.toUpperCase() === 'MR.PRICE') {
-    return 6;
   }
 };
 
