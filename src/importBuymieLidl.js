@@ -187,6 +187,11 @@ const importProduct = async (categoryId, marketId, product) => {
   }, {}));
   // JSON: images - EG: {'image[0]': 'img456'}
   // Booleans: featured, deliverable, price_higher, images
+  let discountPrice = undefined;
+
+  if (product.PriceDecimal !== product.SpecialPriceDecimal) {
+    discountPrice = product.SpecialPriceDecimal;
+  }
   let options = {
     method: 'POST',
     url: 'http://localhost:8888/FT%20Backend/public/api/products/store',
@@ -194,11 +199,11 @@ const importProduct = async (categoryId, marketId, product) => {
     form: {
       name: product.Name,
       price: product.PriceDecimal,
-      discount_price: product.SpecialPriceDecimal,
+      discount_price: discountPrice,
       description: description,
-      capacity: product.Quantity,
+      capacity: product.Quantity || 1,
       unit: product.UnitType,
-      package_items_count: product.Quantity,
+      package_items_count: product.Quantity || 1,
       market_id: marketId,
       category_id: categoryId,
       featured: '1',

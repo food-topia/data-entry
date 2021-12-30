@@ -177,20 +177,27 @@ const importProduct = async (categoryId, marketId, product) => {
     json[`image[${key}]`] = value;
     return json;
   }, {}));
+  let discountPrice = undefined;
+
+  if (product.PriceDecimal !== product.SpecialPriceDecimal) {
+    discountPrice = product.SpecialPriceDecimal;
+  }
+
   // JSON: images - EG: {'image[0]': 'img456'}
   // Booleans: featured, deliverable, price_higher, images
   let options = {
     method: 'POST',
     url: 'http://localhost:8888/FT%20Backend/public/api/products/store',
     headers: {},
+
     form: {
       name: product.Name,
       price: product.PriceDecimal,
-      discount_price: product.SpecialPriceDecimal,
+      discount_price: discountPrice,
       description: description,
-      capacity: product.Quantity,
+      capacity: product.Quantity || 1,
       unit: product.UnitType,
-      package_items_count: product.Quantity,
+      package_items_count: product.Quantity || 1,
       market_id: marketId,
       category_id: categoryId,
       featured: '1',
