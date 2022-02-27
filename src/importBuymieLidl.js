@@ -243,12 +243,12 @@ async function runImport() {
     // Loop them all with the new for...of
     for (let subFolder of folders) {
       let aParent, aParentId;
-      if (subFolder !== 'Fresh Poultry, Meat & Fish') {
-        aParent = await createCategory(subFolder, storeId, 0, false);
-        aParentId = aParent.data.id;
-      } else {
-        aParentId = 1808;
-      }
+      // if (subFolder !== 'Frozen') {
+      aParent = await createCategory(subFolder, storeId, 0, false);
+      aParentId = aParent.data.id;
+      // } else {
+      //   aParentId = 1482;
+      // }
 
       let filesPath = path.resolve(__dirname, `${dirPath}/${subFolder}`);
       let files = await fs.promises.readdir(filesPath);
@@ -256,17 +256,12 @@ async function runImport() {
       for (const file of files) {
         let categoryName = file.replace(/\.[^/.]+$/, '');
         let bParent, bParentId;
-        if (categoryName !== 'Fresh Beef') {
-          bParent = await createCategory(
-            categoryName,
-            storeId,
-            aParentId,
-            true
-          );
-          bParentId = bParent.data.id;
-        } else {
-          bParentId = 1809;
-        }
+        // if (categoryName !== 'Fish') {
+        bParent = await createCategory(categoryName, storeId, aParentId, true);
+        bParentId = bParent.data.id;
+        // } else {
+        //   bParentId = 1483;
+        // }
 
         const dirFile = path.resolve(__dirname, `${filesPath}/${file}`);
         let rawProductDs = fs.readFileSync(dirFile);
